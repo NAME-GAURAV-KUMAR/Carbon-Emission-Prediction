@@ -1,0 +1,9 @@
+{
+    "model_type": "ARIMA",
+    "n_models_trained": 60,
+    "average_mape": 7.8764394158533495,
+    "average_mae": 14.912083183605132,
+    "average_rmse": 18.718498675030773,
+    "best_mape": 1.9404601369881636,
+    "worst_mape": 33.038622453778316
+}

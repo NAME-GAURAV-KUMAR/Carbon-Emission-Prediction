@@ -1,0 +1,44 @@
+{
+    "top_10_states": [
+        {
+            "state": "United States",
+            "emissions": 9822.453887
+        },
+        {
+            "state": "Texas",
+            "emissions": 1326.9163290000001
+        },
+        {
+            "state": "California",
+            "emissions": 648.078105
+        },
+        {
+            "state": "Florida",
+            "emissions": 452.648414
+        },
+        {
+            "state": "Pennsylvania",
+            "emissions": 427.019446
+        },
+        {
+            "state": "Ohio",
+            "emissions": 388.073973
+        },
+        {
+            "state": "Louisiana",
+            "emissions": 371.54098600000003
+        },
+        {
+            "state": "Illinois",
+            "emissions": 368.468735
+        },
+        {
+            "state": "Indiana",
+            "emissions": 332.761414
+        },
+        {
+            "state": "New York",
+            "emissions": 312.097068
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+state,sector,fuel,n_outliers,pct_outliers,original_mean,cleaned_mean
+Alaska,Transportation carbon dioxide emissions,Natural Gas,2,3.85,0.16,0.14
+Vermont,Electric Power carbon dioxide emissions,Petroleum,2,3.85,0.02,0.02
+Pennsylvania,Electric Power carbon dioxide emissions,Natural Gas,2,3.85,7.64,7.28
+Alabama,Electric Power carbon dioxide emissions,Natural Gas,1,1.92,6.24,6.25
+New Hampshire,Transportation carbon dioxide emissions,Natural Gas,1,2.38,0.01,0.01
+North Carolina,Residential carbon dioxide emissions,Coal,1,2.63,0.12,0.11
+North Carolina,Industrial carbon dioxide emissions,Coal,1,1.92,3.73,3.71
+New York,Transportation carbon dioxide emissions,Petroleum,1,1.92,69.44,69.69
+New York,Transportation carbon dioxide emissions,All Fuels,1,1.92,70.05,70.31
+New York,Total carbon dioxide emissions from all sectors,Coal,1,1.92,24.26,23.97
+New York,Residential carbon dioxide emissions,Coal,1,2.63,0.18,0.18
+New York,Industrial carbon dioxide emissions,Coal,1,1.92,7.83,7.67
+New York,Electric Power carbon dioxide emissions,Coal,1,1.96,16.2,16.06
+New Mexico,Commercial carbon dioxide emissions,Petroleum,1,1.92,0.29,0.27
+New Jersey,Residential carbon dioxide emissions,Coal,1,2.63,0.03,0.03
+New Jersey,Industrial carbon dioxide emissions,Coal,1,2.7,0.31,0.27
+Nevada,Residential carbon dioxide emissions,Coal,1,2.78,0.01,0.0
+North Dakota,Industrial carbon dioxide emissions,Natural Gas,1,1.92,1.39,1.36
+Nebraska,Total carbon dioxide emissions from all sectors,Coal,1,1.92,15.78,15.78
+Mississippi,Electric Power carbon dioxide emissions,All Fuels,1,1.92,18.01,17.85
+Mississippi,Commercial carbon dioxide emissions,All Fuels,1,1.92,1.7,1.66
+Minnesota,Residential carbon dioxide emissions,Coal,1,2.7,0.09,0.09
+Michigan,Electric Power carbon dioxide emissions,Petroleum,1,1.92,1.96,1.99
+Massachusetts,Transportation carbon dioxide emissions,Petroleum,1,1.92,28.91,29.01
+Massachusetts,Transportation carbon dioxide emissions,All Fuels,1,1.92,29.07,29.18
+Massachusetts,Residential carbon dioxide emissions,Coal,1,2.63,0.05,0.04
+Maryland,Transportation carbon dioxide emissions,Petroleum,1,1.92,25.8,25.87
+Maryland,Total carbon dioxide emissions from all sectors,Petroleum,1,1.92,36.44,36.53
+Maryland,Industrial carbon dioxide emissions,All Fuels,1,1.92,9.85,9.76
+North Dakota,Electric Power carbon dioxide emissions,Petroleum,1,1.92,0.03,0.03
+North Dakota,Transportation carbon dioxide emissions,Natural Gas,1,1.92,0.44,0.43
+North Dakota,Total carbon dioxide emissions from all sectors,Natural Gas,1,1.92,3.12,3.08
+Maryland,Commercial carbon dioxide emissions,Coal,1,2.17,0.11,0.1
+Wisconsin,Industrial carbon dioxide emissions,Coal,1,1.92,4.21,4.15
+West Virginia,Electric Power carbon dioxide emissions,Natural Gas,1,1.92,0.16,0.16
+Virginia,Industrial carbon dioxide emissions,Coal,1,1.92,7.6,7.56
+Virginia,Electric Power carbon dioxide emissions,Petroleum,1,1.92,3.67,3.7
+Vermont,Commercial carbon dioxide emissions,Coal,1,2.63,0.02,0.02
+Utah,Industrial carbon dioxide emissions,Petroleum,1,1.92,2.78,2.79
+Utah,Electric Power carbon dioxide emissions,Petroleum,1,1.92,0.08,0.08
+United States,Total carbon dioxide emissions from all sectors,Coal,1,1.92,1656.36,1659.56
+United States,Residential carbon dioxide emissions,Coal,1,2.63,3.96,3.86
+United States,Electric Power carbon dioxide emissions,Petroleum,1,1.92,104.81,105.35
+United States,Electric Power carbon dioxide emissions,Coal,1,1.92,1417.77,1420.73
+Texas,Transportation carbon dioxide emissions,Natural Gas,1,1.92,5.49,5.31
+Texas,Commercial carbon dioxide emissions,Petroleum,1,1.92,3.12,3.0
+Texas,Commercial carbon dioxide emissions,Coal,1,2.7,0.03,0.02
+South Dakota,Industrial carbon dioxide emissions,Coal,1,1.92,0.38,0.37
+South Carolina,Industrial carbon dioxide emissions,Coal,1,1.92,3.63,3.61
+Rhode Island,Total carbon dioxide emissions from all sectors,Coal,1,2.63,0.03,0.02
+Rhode Island,Residential carbon dioxide emissions,Coal,1,2.63,0.0,0.0
+Pennsylvania,Residential carbon dioxide emissions,Coal,1,2.63,0.86,0.84
+Oregon,Electric Power carbon dioxide emissions,Petroleum,1,1.92,0.02,0.02
+Oklahoma,Commercial carbon dioxide emissions,Coal,1,2.78,0.02,0.01
+Ohio,Transportation carbon dioxide emissions,Natural Gas,1,1.92,0.86,0.86
+Ohio,Residential carbon dioxide emissions,Coal,1,2.63,0.42,0.4
+Maryland,Electric Power carbon dioxide emissions,Petroleum,1,1.92,3.26,3.3
+Maine,Total carbon dioxide emissions from all sectors,Natural Gas,1,1.92,1.6,1.57
+Alabama,Electric Power carbon dioxide emissions,Petroleum,1,1.92,0.16,0.15
+Connecticut,Total carbon dioxide emissions from all sectors,Coal,1,1.92,1.94,1.92
+Florida,Transportation carbon dioxide emissions,Natural Gas,1,1.92,0.46,0.47
+District of Columbia,Total carbon dioxide emissions from all sectors,Coal,1,2.04,0.28,0.26
+District of Columbia,Industrial carbon dioxide emissions,Petroleum,1,1.92,0.19,0.19
+District of Columbia,Industrial carbon dioxide emissions,All Fuels,1,1.92,0.3,0.29
+District of Columbia,Commercial carbon dioxide emissions,Petroleum,1,1.92,0.53,0.52
+District of Columbia,Commercial carbon dioxide emissions,All Fuels,1,1.92,1.43,1.43
+Delaware,Total carbon dioxide emissions from all sectors,Natural Gas,1,1.92,2.71,2.72
+Delaware,Electric Power carbon dioxide emissions,Petroleum,1,1.92,1.35,1.36
+Delaware,Electric Power carbon dioxide emissions,Natural Gas,1,1.92,0.88,0.88
+Delaware,Commercial carbon dioxide emissions,Petroleum,1,1.92,0.5,0.48
+Delaware,Commercial carbon dioxide emissions,All Fuels,1,1.92,0.89,0.87
+Connecticut,Residential carbon dioxide emissions,Coal,1,2.63,0.01,0.01
+Georgia,Residential carbon dioxide emissions,Coal,1,2.78,0.02,0.02
+Connecticut,Electric Power carbon dioxide emissions,Coal,1,2.08,2.04,2.02
+Colorado,Total carbon dioxide emissions from all sectors,Coal,1,1.92,28.79,28.87
+Colorado,Electric Power carbon dioxide emissions,Coal,1,1.92,26.96,27.05
+Colorado,Electric Power carbon dioxide emissions,All Fuels,1,1.92,30.22,30.29
+California,Electric Power carbon dioxide emissions,Petroleum,1,1.92,9.29,9.4
+Arkansas,Total carbon dioxide emissions from all sectors,Petroleum,1,1.92,21.95,21.98
+Arkansas,Commercial carbon dioxide emissions,Petroleum,1,1.92,0.45,0.43
+Arizona,Electric Power carbon dioxide emissions,Petroleum,1,1.92,0.54,0.54
+Arizona,Electric Power carbon dioxide emissions,Coal,1,1.92,28.35,28.45
+Arizona,Commercial carbon dioxide emissions,Natural Gas,1,1.92,1.65,1.65
+Alaska,Transportation carbon dioxide emissions,Petroleum,1,1.92,11.1,11.07
+Georgia,Electric Power carbon dioxide emissions,Petroleum,1,1.92,0.65,0.66
+Hawaii,Electric Power carbon dioxide emissions,Petroleum,1,1.92,5.47,5.45
+Maine,Total carbon dioxide emissions from all sectors,Coal,1,1.92,0.54,0.52
+Iowa,Electric Power carbon dioxide emissions,Coal,1,1.92,25.46,25.6
+Maine,Industrial carbon dioxide emissions,Coal,1,1.96,0.32,0.3
+Louisiana,Transportation carbon dioxide emissions,Natural Gas,1,1.92,3.74,3.69
+Louisiana,Transportation carbon dioxide emissions,All Fuels,1,1.92,44.94,44.83
+Louisiana,Commercial carbon dioxide emissions,Natural Gas,1,1.92,1.91,1.85
+Kentucky,Residential carbon dioxide emissions,Coal,1,2.63,0.16,0.15
+Kansas,Electric Power carbon dioxide emissions,Natural Gas,1,1.92,2.71,2.72
+Iowa,Transportation carbon dioxide emissions,Petroleum,1,1.92,17.72,17.75
+Iowa,Transportation carbon dioxide emissions,All Fuels,1,1.92,18.31,18.34
+Iowa,Total carbon dioxide emissions from all sectors,Petroleum,1,1.92,24.35,24.36
+Iowa,Total carbon dioxide emissions from all sectors,Coal,1,1.92,30.44,30.59
+Iowa,Total carbon dioxide emissions from all sectors,All Fuels,1,1.92,69.89,70.07
+Iowa,Electric Power carbon dioxide emissions,All Fuels,1,1.92,26.58,26.73
+Idaho,Commercial carbon dioxide emissions,Coal,1,2.22,0.12,0.12
+Indiana,Electric Power carbon dioxide emissions,Coal,1,1.92,86.17,86.37
+Indiana,Electric Power carbon dioxide emissions,All Fuels,1,1.92,89.04,89.22
+Illinois,Total carbon dioxide emissions from all sectors,Petroleum,1,1.92,84.3,84.32
+Illinois,Total carbon dioxide emissions from all sectors,Coal,1,1.92,82.27,82.58
+Illinois,Residential carbon dioxide emissions,Coal,1,2.63,0.32,0.31
+Illinois,Industrial carbon dioxide emissions,Coal,1,1.92,12.19,12.11
+Illinois,Electric Power carbon dioxide emissions,Petroleum,1,1.92,1.84,1.89
+Illinois,Electric Power carbon dioxide emissions,Coal,1,1.92,69.24,69.55
+Illinois,Electric Power carbon dioxide emissions,All Fuels,1,1.92,73.97,74.22
+Idaho,Residential carbon dioxide emissions,Coal,1,2.63,0.05,0.05
+Idaho,Industrial carbon dioxide emissions,All Fuels,1,1.92,3.58,3.58
+Wyoming,Electric Power carbon dioxide emissions,Natural Gas,1,1.92,0.05,0.05

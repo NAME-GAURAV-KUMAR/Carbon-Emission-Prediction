@@ -1,0 +1,42 @@
+{
+    "overall_comparison": [
+        {
+            "Model": "ARIMA",
+            "Avg MAPE": 7.8764394158533495,
+            "Avg MAE": 14.912083183605132,
+            "Avg RMSE": 18.718498675030776,
+            "N Models": 60
+        },
+        {
+            "Model": "Prophet",
+            "Avg MAPE": 15.071203773391819,
+            "Avg MAE": 19.078729014507946,
+            "Avg RMSE": 21.635115993326483,
+            "N Models": 60
+        },
+        {
+            "Model": "LSTM",
+            "Avg MAPE": 13.647725488990545,
+            "Avg MAE": 46.071490955352786,
+            "Avg RMSE": 46.07149122817337,
+            "N Models": 30
+        }
+    ],
+    "best_model": "ARIMA",
+    "total_models_trained": 150,
+    "arima": {
+        "count": 60,
+        "avg_mape": 7.8764394158533495,
+        "best_mape": 1.9404601369881636
+    },
+    "prophet": {
+        "count": 60,
+        "avg_mape": 15.071203773391819,
+        "best_mape": 3.1200825026310706
+    },
+    "lstm": {
+        "count": 30,
+        "avg_mape": 13.647725488990545,
+        "best_mape": 2.0889632403850555
+    }
+}

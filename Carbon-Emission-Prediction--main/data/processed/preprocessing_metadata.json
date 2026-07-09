@@ -1,0 +1,27 @@
+{
+    "total_records": 59901,
+    "train_records": 53391,
+    "test_records": 6510,
+    "train_years": "1970-2015",
+    "test_years": "2016-2021",
+    "features": [
+        "year",
+        "state-name",
+        "sector-name",
+        "fuel-name",
+        "value",
+        "n_outliers_removed",
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "rolling_mean_3",
+        "rolling_std_3",
+        "rolling_mean_5",
+        "yoy_change",
+        "year_numeric",
+        "decade"
+    ],
+    "n_outliers_removed": 5711,
+    "n_stationary_series": 118,
+    "n_nonstationary_series": 1069
+}

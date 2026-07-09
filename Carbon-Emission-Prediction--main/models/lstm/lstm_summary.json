@@ -1,0 +1,8 @@
+{
+    "model_type": "LSTM",
+    "architecture": "Lightweight (32 units)",
+    "n_models_trained": 30,
+    "average_mape": 13.647725488990545,
+    "average_mae": 46.071490955352786,
+    "average_rmse": 46.07149122817337
+}

@@ -1,0 +1,541 @@
+year,state,sector,fuel,predicted_value,model
+2022,California,Commercial carbon dioxide emissions,All Fuels,18.91771656623798,ARIMA
+2023,California,Commercial carbon dioxide emissions,All Fuels,18.499387318124256,ARIMA
+2024,California,Commercial carbon dioxide emissions,All Fuels,18.170017326764697,ARIMA
+2025,California,Commercial carbon dioxide emissions,All Fuels,17.910689078268184,ARIMA
+2026,California,Commercial carbon dioxide emissions,All Fuels,17.70650793781069,ARIMA
+2027,California,Commercial carbon dioxide emissions,All Fuels,17.545746669571596,ARIMA
+2028,California,Commercial carbon dioxide emissions,All Fuels,17.419171877659203,ARIMA
+2029,California,Commercial carbon dioxide emissions,All Fuels,17.31951368185648,ARIMA
+2030,California,Commercial carbon dioxide emissions,All Fuels,17.24104816877448,ARIMA
+2022,California,Electric Power carbon dioxide emissions,All Fuels,35.82607481771692,ARIMA
+2023,California,Electric Power carbon dioxide emissions,All Fuels,35.392195923014924,ARIMA
+2024,California,Electric Power carbon dioxide emissions,All Fuels,35.78384121311833,ARIMA
+2025,California,Electric Power carbon dioxide emissions,All Fuels,35.430318524798736,ARIMA
+2026,California,Electric Power carbon dioxide emissions,All Fuels,35.74942945071773,ARIMA
+2027,California,Electric Power carbon dioxide emissions,All Fuels,35.46138065949328,ARIMA
+2028,California,Electric Power carbon dioxide emissions,All Fuels,35.7213908922577,ARIMA
+2029,California,Electric Power carbon dioxide emissions,All Fuels,35.48668995546561,ARIMA
+2030,California,Electric Power carbon dioxide emissions,All Fuels,35.69854519341309,ARIMA
+2022,California,Industrial carbon dioxide emissions,All Fuels,65.24511511902456,ARIMA
+2023,California,Industrial carbon dioxide emissions,All Fuels,66.19094705351324,ARIMA
+2024,California,Industrial carbon dioxide emissions,All Fuels,66.87934133239649,ARIMA
+2025,California,Industrial carbon dioxide emissions,All Fuels,67.38036764153182,ARIMA
+2026,California,Industrial carbon dioxide emissions,All Fuels,67.7450240167315,ARIMA
+2027,California,Industrial carbon dioxide emissions,All Fuels,68.01042778804894,ARIMA
+2028,California,Industrial carbon dioxide emissions,All Fuels,68.20359364670409,ARIMA
+2029,California,Industrial carbon dioxide emissions,All Fuels,68.34418339328064,ARIMA
+2030,California,Industrial carbon dioxide emissions,All Fuels,68.44650725620379,ARIMA
+2022,California,Residential carbon dioxide emissions,All Fuels,26.11669548938906,ARIMA
+2023,California,Residential carbon dioxide emissions,All Fuels,26.103632003388263,ARIMA
+2024,California,Residential carbon dioxide emissions,All Fuels,26.10098128401879,ARIMA
+2025,California,Residential carbon dioxide emissions,All Fuels,26.100443425044908,ARIMA
+2026,California,Residential carbon dioxide emissions,All Fuels,26.100334287774807,ARIMA
+2027,California,Residential carbon dioxide emissions,All Fuels,26.1003121426693,ARIMA
+2028,California,Residential carbon dioxide emissions,All Fuels,26.100307649193354,ARIMA
+2029,California,Residential carbon dioxide emissions,All Fuels,26.100306737419597,ARIMA
+2030,California,Residential carbon dioxide emissions,All Fuels,26.100306552411066,ARIMA
+2022,California,Total carbon dioxide emissions from all sectors,All Fuels,317.2997311752735,ARIMA
+2023,California,Total carbon dioxide emissions from all sectors,All Fuels,323.31660642004374,ARIMA
+2024,California,Total carbon dioxide emissions from all sectors,All Fuels,317.9447324165819,ARIMA
+2025,California,Total carbon dioxide emissions from all sectors,All Fuels,322.7407484772691,ARIMA
+2026,California,Total carbon dioxide emissions from all sectors,All Fuels,318.4588591329647,ARIMA
+2027,California,Total carbon dioxide emissions from all sectors,All Fuels,322.28173547968004,ARIMA
+2028,California,Total carbon dioxide emissions from all sectors,All Fuels,318.86866653110593,ARIMA
+2029,California,Total carbon dioxide emissions from all sectors,All Fuels,321.9158589043904,ARIMA
+2030,California,Total carbon dioxide emissions from all sectors,All Fuels,319.1953216109137,ARIMA
+2022,California,Transportation carbon dioxide emissions,All Fuels,172.62695317622436,ARIMA
+2023,California,Transportation carbon dioxide emissions,All Fuels,178.17404909612986,ARIMA
+2024,California,Transportation carbon dioxide emissions,All Fuels,173.43360512214588,ARIMA
+2025,California,Transportation carbon dioxide emissions,All Fuels,177.48469949566157,ARIMA
+2026,California,Transportation carbon dioxide emissions,All Fuels,174.0227103416503,ARIMA
+2027,California,Transportation carbon dioxide emissions,All Fuels,176.98126124109288,ARIMA
+2028,California,Transportation carbon dioxide emissions,All Fuels,174.45293921719207,ARIMA
+2029,California,Transportation carbon dioxide emissions,All Fuels,176.61359572566934,ARIMA
+2030,California,Transportation carbon dioxide emissions,All Fuels,174.7671392602771,ARIMA
+2022,Florida,Commercial carbon dioxide emissions,All Fuels,6.798591520920135,ARIMA
+2023,Florida,Commercial carbon dioxide emissions,All Fuels,6.8021832614550535,ARIMA
+2024,Florida,Commercial carbon dioxide emissions,All Fuels,6.803051724338477,ARIMA
+2025,Florida,Commercial carbon dioxide emissions,All Fuels,6.803261713833139,ARIMA
+2026,Florida,Commercial carbon dioxide emissions,All Fuels,6.8033124881249485,ARIMA
+2027,Florida,Commercial carbon dioxide emissions,All Fuels,6.803324765066292,ARIMA
+2028,Florida,Commercial carbon dioxide emissions,All Fuels,6.803327733562423,ARIMA
+2029,Florida,Commercial carbon dioxide emissions,All Fuels,6.803328451328276,ARIMA
+2030,Florida,Commercial carbon dioxide emissions,All Fuels,6.803328624880066,ARIMA
+2022,Florida,Electric Power carbon dioxide emissions,All Fuels,89.8957344862105,ARIMA
+2023,Florida,Electric Power carbon dioxide emissions,All Fuels,88.63567426510382,ARIMA
+2024,Florida,Electric Power carbon dioxide emissions,All Fuels,87.44752858641988,ARIMA
+2025,Florida,Electric Power carbon dioxide emissions,All Fuels,86.32719312139311,ARIMA
+2026,Florida,Electric Power carbon dioxide emissions,All Fuels,85.27079778476482,ARIMA
+2027,Florida,Electric Power carbon dioxide emissions,All Fuels,84.2746933659662,ARIMA
+2028,Florida,Electric Power carbon dioxide emissions,All Fuels,83.33543892329035,ARIMA
+2029,Florida,Electric Power carbon dioxide emissions,All Fuels,82.4497898975082,ARIMA
+2030,Florida,Electric Power carbon dioxide emissions,All Fuels,81.61468690386755,ARIMA
+2022,Florida,Industrial carbon dioxide emissions,All Fuels,12.383240969328792,ARIMA
+2023,Florida,Industrial carbon dioxide emissions,All Fuels,12.297913445332064,ARIMA
+2024,Florida,Industrial carbon dioxide emissions,All Fuels,12.360861192963961,ARIMA
+2025,Florida,Industrial carbon dioxide emissions,All Fuels,12.314423434708127,ARIMA
+2026,Florida,Industrial carbon dioxide emissions,All Fuels,12.348681457797973,ARIMA
+2027,Florida,Industrial carbon dioxide emissions,All Fuels,12.323408658461735,ARIMA
+2028,Florida,Industrial carbon dioxide emissions,All Fuels,12.342052886256626,ARIMA
+2029,Florida,Industrial carbon dioxide emissions,All Fuels,12.328298682559476,ARIMA
+2030,Florida,Industrial carbon dioxide emissions,All Fuels,12.338445421884046,ARIMA
+2022,Florida,Residential carbon dioxide emissions,All Fuels,1.44026110561146,ARIMA
+2023,Florida,Residential carbon dioxide emissions,All Fuels,1.4269968870430871,ARIMA
+2024,Florida,Residential carbon dioxide emissions,All Fuels,1.4194876985118907,ARIMA
+2025,Florida,Residential carbon dioxide emissions,All Fuels,1.4152365688952917,ARIMA
+2026,Florida,Residential carbon dioxide emissions,All Fuels,1.412829903655493,ARIMA
+2027,Florida,Residential carbon dioxide emissions,All Fuels,1.4114674334184436,ARIMA
+2028,Florida,Residential carbon dioxide emissions,All Fuels,1.410696106722837,ARIMA
+2029,Florida,Residential carbon dioxide emissions,All Fuels,1.4102594403978213,ARIMA
+2030,Florida,Residential carbon dioxide emissions,All Fuels,1.4100122332409981,ARIMA
+2022,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.36640644497746,ARIMA
+2023,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.40741792522238,ARIMA
+2024,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.44727488335957,ARIMA
+2025,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.48600982056405,ARIMA
+2026,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.52365432306397,ARIMA
+2027,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.5602390878975,ARIMA
+2028,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.5957939479445,ARIMA
+2029,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.6303478962537,ARIMA
+2030,Florida,Total carbon dioxide emissions from all sectors,All Fuels,226.66392910968494,ARIMA
+2022,Florida,Transportation carbon dioxide emissions,All Fuels,113.00963787328455,ARIMA
+2023,Florida,Transportation carbon dioxide emissions,All Fuels,112.69714637526461,ARIMA
+2024,Florida,Transportation carbon dioxide emissions,All Fuels,112.63484921172623,ARIMA
+2025,Florida,Transportation carbon dioxide emissions,All Fuels,112.62242987676987,ARIMA
+2026,Florida,Transportation carbon dioxide emissions,All Fuels,112.61995400351982,ARIMA
+2027,Florida,Transportation carbon dioxide emissions,All Fuels,112.61946042247287,ARIMA
+2028,Florida,Transportation carbon dioxide emissions,All Fuels,112.61936202395836,ARIMA
+2029,Florida,Transportation carbon dioxide emissions,All Fuels,112.61934240758995,ARIMA
+2030,Florida,Transportation carbon dioxide emissions,All Fuels,112.6193384969424,ARIMA
+2022,Illinois,Commercial carbon dioxide emissions,All Fuels,14.221234866672269,ARIMA
+2023,Illinois,Commercial carbon dioxide emissions,All Fuels,14.226078487739727,ARIMA
+2024,Illinois,Commercial carbon dioxide emissions,All Fuels,14.22778324666552,ARIMA
+2025,Illinois,Commercial carbon dioxide emissions,All Fuels,14.228383252932442,ARIMA
+2026,Illinois,Commercial carbon dioxide emissions,All Fuels,14.228594430897196,ARIMA
+2027,Illinois,Commercial carbon dioxide emissions,All Fuels,14.228668757008865,ARIMA
+2028,Illinois,Commercial carbon dioxide emissions,All Fuels,14.22869491679728,ARIMA
+2029,Illinois,Commercial carbon dioxide emissions,All Fuels,14.228704123985906,ARIMA
+2030,Illinois,Commercial carbon dioxide emissions,All Fuels,14.228707364544318,ARIMA
+2022,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.040347101300156,ARIMA
+2023,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.66188189737378,ARIMA
+2024,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.38413229776724,ARIMA
+2025,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.50825220315136,ARIMA
+2026,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.45278587328307,ARIMA
+2027,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.4775724998885,ARIMA
+2028,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.46649592676863,ARIMA
+2029,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.47144579243744,ARIMA
+2030,Illinois,Electric Power carbon dioxide emissions,All Fuels,51.46923381136043,ARIMA
+2022,Illinois,Industrial carbon dioxide emissions,All Fuels,34.36622318999921,ARIMA
+2023,Illinois,Industrial carbon dioxide emissions,All Fuels,34.40304412570515,ARIMA
+2024,Illinois,Industrial carbon dioxide emissions,All Fuels,34.39565844125116,ARIMA
+2025,Illinois,Industrial carbon dioxide emissions,All Fuels,34.39713989015538,ARIMA
+2026,Illinois,Industrial carbon dioxide emissions,All Fuels,34.39684273545435,ARIMA
+2027,Illinois,Industrial carbon dioxide emissions,All Fuels,34.39690233988356,ARIMA
+2028,Illinois,Industrial carbon dioxide emissions,All Fuels,34.39689038419863,ARIMA
+2029,Illinois,Industrial carbon dioxide emissions,All Fuels,34.396892782315746,ARIMA
+2030,Illinois,Industrial carbon dioxide emissions,All Fuels,34.39689230129222,ARIMA
+2022,Illinois,Residential carbon dioxide emissions,All Fuels,23.257555081343824,ARIMA
+2023,Illinois,Residential carbon dioxide emissions,All Fuels,23.397271760008124,ARIMA
+2024,Illinois,Residential carbon dioxide emissions,All Fuels,23.46901730993563,ARIMA
+2025,Illinois,Residential carbon dioxide emissions,All Fuels,23.505859181526123,ARIMA
+2026,Illinois,Residential carbon dioxide emissions,All Fuels,23.524777755621127,ARIMA
+2027,Illinois,Residential carbon dioxide emissions,All Fuels,23.53449258362353,ARIMA
+2028,Illinois,Residential carbon dioxide emissions,All Fuels,23.53948121979887,ARIMA
+2029,Illinois,Residential carbon dioxide emissions,All Fuels,23.542042921445443,ARIMA
+2030,Illinois,Residential carbon dioxide emissions,All Fuels,23.5433583742256,ARIMA
+2022,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,194.32478967121213,ARIMA
+2023,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,188.79591642901164,ARIMA
+2024,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,191.8253675584458,ARIMA
+2025,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,190.1654318457621,ARIMA
+2026,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,191.07496510856058,ARIMA
+2027,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,190.5766019793046,ARIMA
+2028,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,190.8496714961221,ARIMA
+2029,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,190.7000477446093,ARIMA
+2030,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,190.78203150932123,ARIMA
+2022,Illinois,Transportation carbon dioxide emissions,All Fuels,60.57449369820029,ARIMA
+2023,Illinois,Transportation carbon dioxide emissions,All Fuels,60.5196590084668,ARIMA
+2024,Illinois,Transportation carbon dioxide emissions,All Fuels,60.52550830963378,ARIMA
+2025,Illinois,Transportation carbon dioxide emissions,All Fuels,60.52488435563115,ARIMA
+2026,Illinois,Transportation carbon dioxide emissions,All Fuels,60.524950913769686,ARIMA
+2027,Illinois,Transportation carbon dioxide emissions,All Fuels,60.524943813910106,ARIMA
+2028,Illinois,Transportation carbon dioxide emissions,All Fuels,60.524944571263106,ARIMA
+2029,Illinois,Transportation carbon dioxide emissions,All Fuels,60.52494449047509,ARIMA
+2030,Illinois,Transportation carbon dioxide emissions,All Fuels,60.524944499092875,ARIMA
+2022,Indiana,Commercial carbon dioxide emissions,All Fuels,5.962505448572214,ARIMA
+2023,Indiana,Commercial carbon dioxide emissions,All Fuels,5.8770347032476655,ARIMA
+2024,Indiana,Commercial carbon dioxide emissions,All Fuels,5.832621458014807,ARIMA
+2025,Indiana,Commercial carbon dioxide emissions,All Fuels,5.80954296086793,ARIMA
+2026,Indiana,Commercial carbon dioxide emissions,All Fuels,5.797550659297398,ARIMA
+2027,Indiana,Commercial carbon dioxide emissions,All Fuels,5.791319088149446,ARIMA
+2028,Indiana,Commercial carbon dioxide emissions,All Fuels,5.788080970866988,ARIMA
+2029,Indiana,Commercial carbon dioxide emissions,All Fuels,5.786398344882945,ARIMA
+2030,Indiana,Commercial carbon dioxide emissions,All Fuels,5.78552400033171,ARIMA
+2022,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.8430949918844,ARIMA
+2023,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308348338917,ARIMA
+2024,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350064816,ARIMA
+2025,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350062228,ARIMA
+2026,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350062233,ARIMA
+2027,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350062233,ARIMA
+2028,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350062233,ARIMA
+2029,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350062233,ARIMA
+2030,Indiana,Electric Power carbon dioxide emissions,All Fuels,68.84308350062233,ARIMA
+2022,Indiana,Industrial carbon dioxide emissions,All Fuels,42.98221642102771,ARIMA
+2023,Indiana,Industrial carbon dioxide emissions,All Fuels,43.30259352321899,ARIMA
+2024,Indiana,Industrial carbon dioxide emissions,All Fuels,43.07866372515602,ARIMA
+2025,Indiana,Industrial carbon dioxide emissions,All Fuels,43.2351810109344,ARIMA
+2026,Indiana,Industrial carbon dioxide emissions,All Fuels,43.12578216826433,ARIMA
+2027,Indiana,Industrial carbon dioxide emissions,All Fuels,43.20224724825873,ARIMA
+2028,Indiana,Industrial carbon dioxide emissions,All Fuels,43.148801450151126,ARIMA
+2029,Indiana,Industrial carbon dioxide emissions,All Fuels,43.18615776149701,ARIMA
+2030,Indiana,Industrial carbon dioxide emissions,All Fuels,43.16004730853752,ARIMA
+2022,Indiana,Residential carbon dioxide emissions,All Fuels,8.249524909140145,ARIMA
+2023,Indiana,Residential carbon dioxide emissions,All Fuels,8.271090670641692,ARIMA
+2024,Indiana,Residential carbon dioxide emissions,All Fuels,8.277663162463817,ARIMA
+2025,Indiana,Residential carbon dioxide emissions,All Fuels,8.279666228701418,ARIMA
+2026,Indiana,Residential carbon dioxide emissions,All Fuels,8.280276693417207,ARIMA
+2027,Indiana,Residential carbon dioxide emissions,All Fuels,8.280462741767595,ARIMA
+2028,Indiana,Residential carbon dioxide emissions,All Fuels,8.280519442814825,ARIMA
+2029,Indiana,Residential carbon dioxide emissions,All Fuels,8.280536723316104,ARIMA
+2030,Indiana,Residential carbon dioxide emissions,All Fuels,8.280541989810093,ARIMA
+2022,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,167.39858216592162,ARIMA
+2023,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,166.73344995493275,ARIMA
+2024,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,167.16808169849668,ARIMA
+2025,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,166.88407086667638,ARIMA
+2026,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,167.06965821455356,ARIMA
+2027,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,166.94838585507583,ARIMA
+2028,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,167.02763147899103,ARIMA
+2029,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,166.97584829495176,ARIMA
+2030,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,167.0096861022244,ARIMA
+2022,Indiana,Transportation carbon dioxide emissions,All Fuels,40.84010846848986,ARIMA
+2023,Indiana,Transportation carbon dioxide emissions,All Fuels,40.03521586441136,ARIMA
+2024,Indiana,Transportation carbon dioxide emissions,All Fuels,40.6574592504447,ARIMA
+2025,Indiana,Transportation carbon dioxide emissions,All Fuels,40.1764176437753,ARIMA
+2026,Indiana,Transportation carbon dioxide emissions,All Fuels,40.548299503094384,ARIMA
+2027,Indiana,Transportation carbon dioxide emissions,All Fuels,40.26080645597911,ARIMA
+2028,Indiana,Transportation carbon dioxide emissions,All Fuels,40.48306051346652,ARIMA
+2029,Indiana,Transportation carbon dioxide emissions,All Fuels,40.311241171867586,ARIMA
+2030,Indiana,Transportation carbon dioxide emissions,All Fuels,40.4440706305566,ARIMA
+2022,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3754405344015956,ARIMA
+2023,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3809335009498223,ARIMA
+2024,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3796995688795155,ARIMA
+2025,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.379976757597263,ARIMA
+2026,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3799144903241323,ARIMA
+2027,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3799284779544174,ARIMA
+2028,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3799253357933563,ARIMA
+2029,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.379926041643878,ARIMA
+2030,Louisiana,Commercial carbon dioxide emissions,All Fuels,2.3799258830826364,ARIMA
+2022,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.803065915082286,ARIMA
+2023,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.51388049912515,ARIMA
+2024,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.72145187096401,ARIMA
+2025,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.5724613893228,ARIMA
+2026,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.67940370715318,ARIMA
+2027,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.60264270056435,ARIMA
+2028,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.65774017976689,ARIMA
+2029,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.618192337061608,ARIMA
+2030,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.646578968996117,ARIMA
+2022,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.78325910464702,ARIMA
+2023,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.6914519463318,ARIMA
+2024,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.62402669175388,ARIMA
+2025,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.57450805902062,ARIMA
+2026,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.53814045458037,ARIMA
+2027,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.51143126291416,ARIMA
+2028,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.49181542815015,ARIMA
+2029,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.47740911521123,ARIMA
+2030,Louisiana,Industrial carbon dioxide emissions,All Fuels,108.46682879298733,ARIMA
+2022,Louisiana,Residential carbon dioxide emissions,All Fuels,2.0413832319355776,ARIMA
+2023,Louisiana,Residential carbon dioxide emissions,All Fuels,2.045184534978375,ARIMA
+2024,Louisiana,Residential carbon dioxide emissions,All Fuels,2.0448859262684667,ARIMA
+2025,Louisiana,Residential carbon dioxide emissions,All Fuels,2.044909383267456,ARIMA
+2026,Louisiana,Residential carbon dioxide emissions,All Fuels,2.0449075406192567,ARIMA
+2027,Louisiana,Residential carbon dioxide emissions,All Fuels,2.044907685367201,ARIMA
+2028,Louisiana,Residential carbon dioxide emissions,All Fuels,2.044907673996627,ARIMA
+2029,Louisiana,Residential carbon dioxide emissions,All Fuels,2.0449076748898345,ARIMA
+2030,Louisiana,Residential carbon dioxide emissions,All Fuels,2.0449076748196693,ARIMA
+2022,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.85014024949373,ARIMA
+2023,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.7298150803131,ARIMA
+2024,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.78779904404328,ARIMA
+2025,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.75985692625733,ARIMA
+2026,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.77332206206623,ARIMA
+2027,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.76683329540435,ARIMA
+2028,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.76996019240636,ARIMA
+2029,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.76845335984933,ARIMA
+2030,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,188.76917949325042,ARIMA
+2022,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.08228992470234,ARIMA
+2023,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.10455091218577,ARIMA
+2024,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.096310819346215,ARIMA
+2025,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.09936095941996,ARIMA
+2026,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.09823192426822,ARIMA
+2027,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.098649846181004,ARIMA
+2028,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.09849514884947,ARIMA
+2029,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.098552411375444,ARIMA
+2030,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.09853121516703,ARIMA
+2022,New York,Commercial carbon dioxide emissions,All Fuels,21.127045661325983,ARIMA
+2023,New York,Commercial carbon dioxide emissions,All Fuels,21.693030259662397,ARIMA
+2024,New York,Commercial carbon dioxide emissions,All Fuels,21.18919985397298,ARIMA
+2025,New York,Commercial carbon dioxide emissions,All Fuels,21.637701594909544,ARIMA
+2026,New York,Commercial carbon dioxide emissions,All Fuels,21.238452543340536,ARIMA
+2027,New York,Commercial carbon dioxide emissions,All Fuels,21.593857641313832,ARIMA
+2028,New York,Commercial carbon dioxide emissions,All Fuels,21.27748172715947,ARIMA
+2029,New York,Commercial carbon dioxide emissions,All Fuels,21.559114488275714,ARIMA
+2030,New York,Commercial carbon dioxide emissions,All Fuels,21.308409524385006,ARIMA
+2022,New York,Electric Power carbon dioxide emissions,All Fuels,25.164096886433,ARIMA
+2023,New York,Electric Power carbon dioxide emissions,All Fuels,25.22686510546403,ARIMA
+2024,New York,Electric Power carbon dioxide emissions,All Fuels,25.25153651950338,ARIMA
+2025,New York,Electric Power carbon dioxide emissions,All Fuels,25.261233762472788,ARIMA
+2026,New York,Electric Power carbon dioxide emissions,All Fuels,25.265045320296664,ARIMA
+2027,New York,Electric Power carbon dioxide emissions,All Fuels,25.26654347529707,ARIMA
+2028,New York,Electric Power carbon dioxide emissions,All Fuels,25.267132333844923,ARIMA
+2029,New York,Electric Power carbon dioxide emissions,All Fuels,25.26736378812655,ARIMA
+2030,New York,Electric Power carbon dioxide emissions,All Fuels,25.267454762579884,ARIMA
+2022,New York,Industrial carbon dioxide emissions,All Fuels,8.636709083539031,ARIMA
+2023,New York,Industrial carbon dioxide emissions,All Fuels,8.450064929686185,ARIMA
+2024,New York,Industrial carbon dioxide emissions,All Fuels,8.548919156751206,ARIMA
+2025,New York,Industrial carbon dioxide emissions,All Fuels,8.496561994703006,ARIMA
+2026,New York,Industrial carbon dioxide emissions,All Fuels,8.5242924468964,ARIMA
+2027,New York,Industrial carbon dioxide emissions,All Fuels,8.509605287608771,ARIMA
+2028,New York,Industrial carbon dioxide emissions,All Fuels,8.517384196024537,ARIMA
+2029,New York,Industrial carbon dioxide emissions,All Fuels,8.51326417424525,ARIMA
+2030,New York,Industrial carbon dioxide emissions,All Fuels,8.515446302964929,ARIMA
+2022,New York,Residential carbon dioxide emissions,All Fuels,33.65950262002278,ARIMA
+2023,New York,Residential carbon dioxide emissions,All Fuels,33.63454598930979,ARIMA
+2024,New York,Residential carbon dioxide emissions,All Fuels,33.619878101714264,ARIMA
+2025,New York,Residential carbon dioxide emissions,All Fuels,33.611257269479765,ARIMA
+2026,New York,Residential carbon dioxide emissions,All Fuels,33.60619050387147,ARIMA
+2027,New York,Residential carbon dioxide emissions,All Fuels,33.60321258793121,ARIMA
+2028,New York,Residential carbon dioxide emissions,All Fuels,33.601462362238365,ARIMA
+2029,New York,Residential carbon dioxide emissions,All Fuels,33.60043369318345,ARIMA
+2030,New York,Residential carbon dioxide emissions,All Fuels,33.599829108283984,ARIMA
+2022,New York,Total carbon dioxide emissions from all sectors,All Fuels,158.1017147070968,ARIMA
+2023,New York,Total carbon dioxide emissions from all sectors,All Fuels,156.38711884501785,ARIMA
+2024,New York,Total carbon dioxide emissions from all sectors,All Fuels,157.81896503376132,ARIMA
+2025,New York,Total carbon dioxide emissions from all sectors,All Fuels,156.6232409838191,ARIMA
+2026,New York,Total carbon dioxide emissions from all sectors,All Fuels,157.62178120053395,ARIMA
+2027,New York,Total carbon dioxide emissions from all sectors,All Fuels,156.78790772910455,ARIMA
+2028,New York,Total carbon dioxide emissions from all sectors,All Fuels,157.48426923234112,ARIMA
+2029,New York,Total carbon dioxide emissions from all sectors,All Fuels,156.90274294591467,ARIMA
+2030,New York,Total carbon dioxide emissions from all sectors,All Fuels,157.3883712011143,ARIMA
+2022,New York,Transportation carbon dioxide emissions,All Fuels,66.83674882614481,ARIMA
+2023,New York,Transportation carbon dioxide emissions,All Fuels,66.76837099027755,ARIMA
+2024,New York,Transportation carbon dioxide emissions,All Fuels,66.75816805289567,ARIMA
+2025,New York,Transportation carbon dioxide emissions,All Fuels,66.75664563075554,ARIMA
+2026,New York,Transportation carbon dioxide emissions,All Fuels,66.7564184639029,ARIMA
+2027,New York,Transportation carbon dioxide emissions,All Fuels,66.75638456740496,ARIMA
+2028,New York,Transportation carbon dioxide emissions,All Fuels,66.75637950956946,ARIMA
+2029,New York,Transportation carbon dioxide emissions,All Fuels,66.75637875486908,ARIMA
+2030,New York,Transportation carbon dioxide emissions,All Fuels,66.75637864225713,ARIMA
+2022,Ohio,Commercial carbon dioxide emissions,All Fuels,11.880738616946102,ARIMA
+2023,Ohio,Commercial carbon dioxide emissions,All Fuels,11.851180227480953,ARIMA
+2024,Ohio,Commercial carbon dioxide emissions,All Fuels,11.844871816675576,ARIMA
+2025,Ohio,Commercial carbon dioxide emissions,All Fuels,11.843525462980079,ARIMA
+2026,Ohio,Commercial carbon dioxide emissions,All Fuels,11.843238121472162,ARIMA
+2027,Ohio,Commercial carbon dioxide emissions,All Fuels,11.843176796470827,ARIMA
+2028,Ohio,Commercial carbon dioxide emissions,All Fuels,11.843163708365958,ARIMA
+2029,Ohio,Commercial carbon dioxide emissions,All Fuels,11.843160915076348,ARIMA
+2030,Ohio,Commercial carbon dioxide emissions,All Fuels,11.843160318926873,ARIMA
+2022,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.33638432387383,ARIMA
+2023,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35365502623164,ARIMA
+2024,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35105418041677,ARIMA
+2025,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35144584943014,ARIMA
+2026,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35138686684256,ARIMA
+2027,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35139574920373,ARIMA
+2028,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35139441158286,ARIMA
+2029,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35139461301911,ARIMA
+2030,Ohio,Electric Power carbon dioxide emissions,All Fuels,68.35139458268424,ARIMA
+2022,Ohio,Industrial carbon dioxide emissions,All Fuels,37.40717683088024,ARIMA
+2023,Ohio,Industrial carbon dioxide emissions,All Fuels,37.29114182455612,ARIMA
+2024,Ohio,Industrial carbon dioxide emissions,All Fuels,37.17738053678084,ARIMA
+2025,Ohio,Industrial carbon dioxide emissions,All Fuels,37.06584841379253,ARIMA
+2026,Ohio,Industrial carbon dioxide emissions,All Fuels,36.95650177486514,ARIMA
+2027,Ohio,Industrial carbon dioxide emissions,All Fuels,36.849297795201174,ARIMA
+2028,Ohio,Industrial carbon dioxide emissions,All Fuels,36.7441944891597,ARIMA
+2029,Ohio,Industrial carbon dioxide emissions,All Fuels,36.64115069381299,ARIMA
+2030,Ohio,Industrial carbon dioxide emissions,All Fuels,36.54012605282533,ARIMA
+2022,Ohio,Residential carbon dioxide emissions,All Fuels,17.249473445268883,ARIMA
+2023,Ohio,Residential carbon dioxide emissions,All Fuels,17.2771415040823,ARIMA
+2024,Ohio,Residential carbon dioxide emissions,All Fuels,17.252007461469198,ARIMA
+2025,Ohio,Residential carbon dioxide emissions,All Fuels,17.27483956914749,ARIMA
+2026,Ohio,Residential carbon dioxide emissions,All Fuels,17.25409857061185,ARIMA
+2027,Ohio,Residential carbon dioxide emissions,All Fuels,17.272939977034632,ARIMA
+2028,Ohio,Residential carbon dioxide emissions,All Fuels,17.255824186038435,ARIMA
+2029,Ohio,Residential carbon dioxide emissions,All Fuels,17.27137240440664,ARIMA
+2030,Ohio,Residential carbon dioxide emissions,All Fuels,17.257248190429085,ARIMA
+2022,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.80664946907447,ARIMA
+2023,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.30147324766182,ARIMA
+2024,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.63305065120892,ARIMA
+2025,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.41541654674614,ARIMA
+2026,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.558262841212,ARIMA
+2027,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.46450426466447,ARIMA
+2028,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.52604363262003,ARIMA
+2029,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.48565166051657,ARIMA
+2030,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,194.51216333043791,ARIMA
+2022,Ohio,Transportation carbon dioxide emissions,All Fuels,61.05693450903328,ARIMA
+2023,Ohio,Transportation carbon dioxide emissions,All Fuels,60.88970585690718,ARIMA
+2024,Ohio,Transportation carbon dioxide emissions,All Fuels,60.901887433484696,ARIMA
+2025,Ohio,Transportation carbon dioxide emissions,All Fuels,60.90100008071334,ARIMA
+2026,Ohio,Transportation carbon dioxide emissions,All Fuels,60.901064718893444,ARIMA
+2027,Ohio,Transportation carbon dioxide emissions,All Fuels,60.90106001040043,ARIMA
+2028,Ohio,Transportation carbon dioxide emissions,All Fuels,60.90106035338513,ARIMA
+2029,Ohio,Transportation carbon dioxide emissions,All Fuels,60.9010603284008,ARIMA
+2030,Ohio,Transportation carbon dioxide emissions,All Fuels,60.90106033022076,ARIMA
+2022,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.381594666264611,ARIMA
+2023,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.360418668947684,ARIMA
+2024,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.353312050924632,ARIMA
+2025,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.35092708558063,ARIMA
+2026,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.350126696468164,ARIMA
+2027,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.349858087646254,ARIMA
+2028,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.349767943117692,ARIMA
+2029,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.349737690812605,ARIMA
+2030,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.3497275382057,ARIMA
+2022,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,76.9962643673951,ARIMA
+2023,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,76.58293029718756,ARIMA
+2024,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,76.22887489912037,ARIMA
+2025,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,75.92559666987212,ARIMA
+2026,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,75.66581335675765,ARIMA
+2027,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,75.4432870978171,ARIMA
+2028,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,75.25267463959405,ARIMA
+2029,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,75.08939903606385,ARIMA
+2030,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,74.94953974797392,ARIMA
+2022,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,51.38993581706609,ARIMA
+2023,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,49.79170103766373,ARIMA
+2024,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,51.03820683507244,ARIMA
+2025,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,50.066023822289715,ARIMA
+2026,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,50.82425520180523,ARIMA
+2027,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,50.23289038949854,ARIMA
+2028,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,50.69411152948615,ARIMA
+2029,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,50.33439289972577,ARIMA
+2030,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,50.61494702306921,ARIMA
+2022,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.220993767793207,ARIMA
+2023,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.206681138389207,ARIMA
+2024,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.202165635326875,ARIMA
+2025,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.200741035602366,ARIMA
+2026,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.20029158747952,ARIMA
+2027,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.20014979072661,ARIMA
+2028,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.200105055153998,ARIMA
+2029,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.2000909414919,ARIMA
+2030,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.200086488761194,ARIMA
+2022,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,218.0101293583832,ARIMA
+2023,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,214.58648667500697,ARIMA
+2024,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,217.1909913108165,ARIMA
+2025,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,215.20963839951798,ARIMA
+2026,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,216.71693437631737,ARIMA
+2027,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,215.57027284584493,ARIMA
+2028,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,216.4425850431198,ARIMA
+2029,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,215.77898157401154,ARIMA
+2030,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,216.2838118006073,ARIMA
+2022,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.248739762016925,ARIMA
+2023,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,55.9877110968966,ARIMA
+2024,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.24044396914905,ARIMA
+2025,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,55.9957432398727,ARIMA
+2026,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.23266709696622,ARIMA
+2027,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.003272954063284,ARIMA
+2028,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.22537668580103,ARIMA
+2029,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.010331667529975,ARIMA
+2030,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.218542306412,ARIMA
+2022,Texas,Commercial carbon dioxide emissions,All Fuels,13.436355508251847,ARIMA
+2023,Texas,Commercial carbon dioxide emissions,All Fuels,13.047398627378973,ARIMA
+2024,Texas,Commercial carbon dioxide emissions,All Fuels,12.84005569870946,ARIMA
+2025,Texas,Commercial carbon dioxide emissions,All Fuels,12.729526505929087,ARIMA
+2026,Texas,Commercial carbon dioxide emissions,All Fuels,12.670606230542443,ARIMA
+2027,Texas,Commercial carbon dioxide emissions,All Fuels,12.639197344217395,ARIMA
+2028,Texas,Commercial carbon dioxide emissions,All Fuels,12.62245407318368,ARIMA
+2029,Texas,Commercial carbon dioxide emissions,All Fuels,12.613528665195403,ARIMA
+2030,Texas,Commercial carbon dioxide emissions,All Fuels,12.608770759312092,ARIMA
+2022,Texas,Electric Power carbon dioxide emissions,All Fuels,176.75507624569622,ARIMA
+2023,Texas,Electric Power carbon dioxide emissions,All Fuels,173.31159581886837,ARIMA
+2024,Texas,Electric Power carbon dioxide emissions,All Fuels,169.96201065608713,ARIMA
+2025,Texas,Electric Power carbon dioxide emissions,All Fuels,166.70376046383618,ARIMA
+2026,Texas,Electric Power carbon dioxide emissions,All Fuels,163.53435476152274,ARIMA
+2027,Texas,Electric Power carbon dioxide emissions,All Fuels,160.4513709778504,ARIMA
+2028,Texas,Electric Power carbon dioxide emissions,All Fuels,157.4524525990992,ARIMA
+2029,Texas,Electric Power carbon dioxide emissions,All Fuels,154.53530736789756,ARIMA
+2030,Texas,Electric Power carbon dioxide emissions,All Fuels,151.69770553110934,ARIMA
+2022,Texas,Industrial carbon dioxide emissions,All Fuels,244.5728131543168,ARIMA
+2023,Texas,Industrial carbon dioxide emissions,All Fuels,244.1085700357404,ARIMA
+2024,Texas,Industrial carbon dioxide emissions,All Fuels,244.18022733816156,ARIMA
+2025,Texas,Industrial carbon dioxide emissions,All Fuels,244.16916682097818,ARIMA
+2026,Texas,Industrial carbon dioxide emissions,All Fuels,244.17087404461387,ARIMA
+2027,Texas,Industrial carbon dioxide emissions,All Fuels,244.1706105295816,ARIMA
+2028,Texas,Industrial carbon dioxide emissions,All Fuels,244.1706512039085,ARIMA
+2029,Texas,Industrial carbon dioxide emissions,All Fuels,244.1706449257055,ARIMA
+2030,Texas,Industrial carbon dioxide emissions,All Fuels,244.17064589476473,ARIMA
+2022,Texas,Residential carbon dioxide emissions,All Fuels,12.264854918136125,ARIMA
+2023,Texas,Residential carbon dioxide emissions,All Fuels,12.280546740082777,ARIMA
+2024,Texas,Residential carbon dioxide emissions,All Fuels,12.28732555934558,ARIMA
+2025,Texas,Residential carbon dioxide emissions,All Fuels,12.290253988609818,ARIMA
+2026,Texas,Residential carbon dioxide emissions,All Fuels,12.29151906112808,ARIMA
+2027,Texas,Residential carbon dioxide emissions,All Fuels,12.292065568600876,ARIMA
+2028,Texas,Residential carbon dioxide emissions,All Fuels,12.292301658163735,ARIMA
+2029,Texas,Residential carbon dioxide emissions,All Fuels,12.292403648135448,ARIMA
+2030,Texas,Residential carbon dioxide emissions,All Fuels,12.29244770749243,ARIMA
+2022,Texas,Total carbon dioxide emissions from all sectors,All Fuels,664.2649132701839,ARIMA
+2023,Texas,Total carbon dioxide emissions from all sectors,All Fuels,663.5050763372708,ARIMA
+2024,Texas,Total carbon dioxide emissions from all sectors,All Fuels,664.2207288776037,ARIMA
+2025,Texas,Total carbon dioxide emissions from all sectors,All Fuels,663.5466914146951,ARIMA
+2026,Texas,Total carbon dioxide emissions from all sectors,All Fuels,664.1815337100818,ARIMA
+2027,Texas,Total carbon dioxide emissions from all sectors,All Fuels,663.5836073896772,ARIMA
+2028,Texas,Total carbon dioxide emissions from all sectors,All Fuels,664.1467643929685,ARIMA
+2029,Texas,Total carbon dioxide emissions from all sectors,All Fuels,663.6163548767232,ARIMA
+2030,Texas,Total carbon dioxide emissions from all sectors,All Fuels,664.115921166904,ARIMA
+2022,Texas,Transportation carbon dioxide emissions,All Fuels,207.32163056230058,ARIMA
+2023,Texas,Transportation carbon dioxide emissions,All Fuels,214.44039801209175,ARIMA
+2024,Texas,Transportation carbon dioxide emissions,All Fuels,208.01077351512404,ARIMA
+2025,Texas,Transportation carbon dioxide emissions,All Fuels,213.81796857572687,ARIMA
+2026,Texas,Transportation carbon dioxide emissions,All Fuels,208.57294773698362,ARIMA
+2027,Texas,Transportation carbon dioxide emissions,All Fuels,213.31021647201993,ARIMA
+2028,Texas,Transportation carbon dioxide emissions,All Fuels,209.03154613725542,ARIMA
+2029,Texas,Transportation carbon dioxide emissions,All Fuels,212.89601337724906,ARIMA
+2030,Texas,Transportation carbon dioxide emissions,All Fuels,209.40565168061556,ARIMA
+2022,United States,Commercial carbon dioxide emissions,All Fuels,246.32994781856854,ARIMA
+2023,United States,Commercial carbon dioxide emissions,All Fuels,245.66759786241184,ARIMA
+2024,United States,Commercial carbon dioxide emissions,All Fuels,245.3892842520304,ARIMA
+2025,United States,Commercial carbon dioxide emissions,All Fuels,245.27233932736698,ARIMA
+2026,United States,Commercial carbon dioxide emissions,All Fuels,245.22320010134857,ARIMA
+2027,United States,Commercial carbon dioxide emissions,All Fuels,245.2025522319294,ARIMA
+2028,United States,Commercial carbon dioxide emissions,All Fuels,245.19387617929087,ARIMA
+2029,United States,Commercial carbon dioxide emissions,All Fuels,245.19023057848537,ARIMA
+2030,United States,Commercial carbon dioxide emissions,All Fuels,245.18869872917708,ARIMA
+2022,United States,Electric Power carbon dioxide emissions,All Fuels,1507.5620184499087,ARIMA
+2023,United States,Electric Power carbon dioxide emissions,All Fuels,1474.8154423764897,ARIMA
+2024,United States,Electric Power carbon dioxide emissions,All Fuels,1443.7136249435555,ARIMA
+2025,United States,Electric Power carbon dioxide emissions,All Fuels,1414.173955041493,ARIMA
+2026,United States,Electric Power carbon dioxide emissions,All Fuels,1386.1179708597194,ARIMA
+2027,United States,Electric Power carbon dioxide emissions,All Fuels,1359.4711514803,ARIMA
+2028,United States,Electric Power carbon dioxide emissions,All Fuels,1334.1627189391709,ARIMA
+2029,United States,Electric Power carbon dioxide emissions,All Fuels,1310.1254502292106,ARIMA
+2030,United States,Electric Power carbon dioxide emissions,All Fuels,1287.2954987458122,ARIMA
+2022,United States,Industrial carbon dioxide emissions,All Fuels,985.3226702449507,ARIMA
+2023,United States,Industrial carbon dioxide emissions,All Fuels,982.5749017778376,ARIMA
+2024,United States,Industrial carbon dioxide emissions,All Fuels,984.0444221700495,ARIMA
+2025,United States,Industrial carbon dioxide emissions,All Fuels,983.2585152754284,ARIMA
+2026,United States,Industrial carbon dioxide emissions,All Fuels,983.6788222342745,ARIMA
+2027,United States,Industrial carbon dioxide emissions,All Fuels,983.4540399593466,ARIMA
+2028,United States,Industrial carbon dioxide emissions,All Fuels,983.5742546502013,ARIMA
+2029,United States,Industrial carbon dioxide emissions,All Fuels,983.509963229083,ARIMA
+2030,United States,Industrial carbon dioxide emissions,All Fuels,983.5443466043595,ARIMA
+2022,United States,Residential carbon dioxide emissions,All Fuels,326.5570227138132,ARIMA
+2023,United States,Residential carbon dioxide emissions,All Fuels,326.70719110109053,ARIMA
+2024,United States,Residential carbon dioxide emissions,All Fuels,326.77892571533016,ARIMA
+2025,United States,Residential carbon dioxide emissions,All Fuels,326.8131929467589,ARIMA
+2026,United States,Residential carbon dioxide emissions,All Fuels,326.8295622150993,ARIMA
+2027,United States,Residential carbon dioxide emissions,All Fuels,326.837381724725,ARIMA
+2028,United States,Residential carbon dioxide emissions,All Fuels,326.84111706154727,ARIMA
+2029,United States,Residential carbon dioxide emissions,All Fuels,326.8429014114418,ARIMA
+2030,United States,Residential carbon dioxide emissions,All Fuels,326.8437537855911,ARIMA
+2022,United States,Total carbon dioxide emissions from all sectors,All Fuels,5061.088721902533,ARIMA
+2023,United States,Total carbon dioxide emissions from all sectors,All Fuels,4977.387256932243,ARIMA
+2024,United States,Total carbon dioxide emissions from all sectors,All Fuels,5024.136570129233,ARIMA
+2025,United States,Total carbon dioxide emissions from all sectors,All Fuels,4998.02593652006,ARIMA
+2026,United States,Total carbon dioxide emissions from all sectors,All Fuels,5012.609363331053,ARIMA
+2027,United States,Total carbon dioxide emissions from all sectors,All Fuels,5004.464163151886,ARIMA
+2028,United States,Total carbon dioxide emissions from all sectors,All Fuels,5009.013456457125,ARIMA
+2029,United States,Total carbon dioxide emissions from all sectors,All Fuels,5006.472564996897,ARIMA
+2030,United States,Total carbon dioxide emissions from all sectors,All Fuels,5007.891714957007,ARIMA
+2022,United States,Transportation carbon dioxide emissions,All Fuels,1818.5599347187692,ARIMA
+2023,United States,Transportation carbon dioxide emissions,All Fuels,1822.2048129995617,ARIMA
+2024,United States,Transportation carbon dioxide emissions,All Fuels,1825.7885895969653,ARIMA
+2025,United States,Transportation carbon dioxide emissions,All Fuels,1829.3122888018959,ARIMA
+2026,United States,Transportation carbon dioxide emissions,All Fuels,1832.7769177343537,ARIMA
+2027,United States,Transportation carbon dioxide emissions,All Fuels,1836.1834666312704,ARIMA
+2028,United States,Transportation carbon dioxide emissions,All Fuels,1839.5329091295332,ARIMA
+2029,United States,Transportation carbon dioxide emissions,All Fuels,1842.8262025442623,ARIMA
+2030,United States,Transportation carbon dioxide emissions,All Fuels,1846.0642881424249,ARIMA

@@ -1,0 +1,1188 @@
+state,sector,fuel,is_stationary,adf_pvalue,kpss_pvalue,n_observations
+Alabama,Commercial carbon dioxide emissions,All Fuels,False,0.2598,0.01,52
+Alabama,Commercial carbon dioxide emissions,Coal,False,0.2335,0.0511,38
+Alabama,Commercial carbon dioxide emissions,Natural Gas,False,0.0387,0.01,52
+Alabama,Commercial carbon dioxide emissions,Petroleum,True,0.0223,0.1,52
+Alabama,Electric Power carbon dioxide emissions,All Fuels,False,0.0418,0.0195,52
+Alabama,Electric Power carbon dioxide emissions,Coal,True,0.0429,0.1,52
+Alabama,Electric Power carbon dioxide emissions,Natural Gas,False,0.0,0.01,52
+Alabama,Electric Power carbon dioxide emissions,Petroleum,False,0.0878,0.0407,52
+Alabama,Industrial carbon dioxide emissions,All Fuels,False,0.2658,0.01,52
+Alabama,Industrial carbon dioxide emissions,Coal,False,0.2643,0.01,52
+Alabama,Industrial carbon dioxide emissions,Natural Gas,False,0.7533,0.0253,52
+Alabama,Industrial carbon dioxide emissions,Petroleum,False,0.5588,0.064,52
+Alabama,Residential carbon dioxide emissions,All Fuels,False,0.7501,0.01,52
+Alabama,Residential carbon dioxide emissions,Coal,False,0.4363,0.01,38
+Alabama,Residential carbon dioxide emissions,Natural Gas,False,0.9386,0.01,52
+Alabama,Residential carbon dioxide emissions,Petroleum,False,0.2572,0.01,52
+Alabama,Total carbon dioxide emissions from all sectors,All Fuels,False,0.16,0.0497,52
+Alabama,Total carbon dioxide emissions from all sectors,Coal,False,0.0676,0.1,52
+Alabama,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9929,0.01,52
+Alabama,Total carbon dioxide emissions from all sectors,Petroleum,False,0.159,0.0189,52
+Alabama,Transportation carbon dioxide emissions,All Fuels,False,0.4226,0.01,52
+Alabama,Transportation carbon dioxide emissions,Natural Gas,False,0.449,0.0213,52
+Alabama,Transportation carbon dioxide emissions,Petroleum,False,0.3418,0.01,52
+Alaska,Commercial carbon dioxide emissions,All Fuels,True,0.002,0.0957,52
+Alaska,Commercial carbon dioxide emissions,Coal,False,0.1514,0.0142,46
+Alaska,Commercial carbon dioxide emissions,Natural Gas,False,0.1349,0.1,52
+Alaska,Commercial carbon dioxide emissions,Petroleum,True,0.0017,0.1,52
+Alaska,Electric Power carbon dioxide emissions,All Fuels,False,0.02,0.01,52
+Alaska,Electric Power carbon dioxide emissions,Coal,False,0.7481,0.01,52
+Alaska,Electric Power carbon dioxide emissions,Natural Gas,False,0.2439,0.039,52
+Alaska,Electric Power carbon dioxide emissions,Petroleum,False,0.1316,0.1,52
+Alaska,Industrial carbon dioxide emissions,All Fuels,False,0.3635,0.01,52
+Alaska,Industrial carbon dioxide emissions,Coal,False,0.3539,0.0371,36
+Alaska,Industrial carbon dioxide emissions,Natural Gas,False,0.4227,0.01,52
+Alaska,Industrial carbon dioxide emissions,Petroleum,False,0.0509,0.088,52
+Alaska,Residential carbon dioxide emissions,All Fuels,False,0.0684,0.0124,52
+Alaska,Residential carbon dioxide emissions,Coal,True,0.0442,0.1,32
+Alaska,Residential carbon dioxide emissions,Natural Gas,False,0.6976,0.01,52
+Alaska,Residential carbon dioxide emissions,Petroleum,False,0.0762,0.1,52
+Alaska,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2693,0.01,52
+Alaska,Total carbon dioxide emissions from all sectors,Coal,False,0.9203,0.0131,52
+Alaska,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.3794,0.01,52
+Alaska,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3211,0.0146,52
+Alaska,Transportation carbon dioxide emissions,All Fuels,False,0.4875,0.0103,52
+Alaska,Transportation carbon dioxide emissions,Natural Gas,True,0.0158,0.1,52
+Alaska,Transportation carbon dioxide emissions,Petroleum,False,0.3674,0.01,52
+Arizona,Commercial carbon dioxide emissions,All Fuels,False,0.8342,0.012,52
+Arizona,Commercial carbon dioxide emissions,Coal,True,0.0,0.1,23
+Arizona,Commercial carbon dioxide emissions,Natural Gas,False,0.1386,0.0696,52
+Arizona,Commercial carbon dioxide emissions,Petroleum,False,0.8977,0.014,52
+Arizona,Electric Power carbon dioxide emissions,All Fuels,False,0.148,0.01,52
+Arizona,Electric Power carbon dioxide emissions,Coal,False,0.2637,0.0133,52
+Arizona,Electric Power carbon dioxide emissions,Natural Gas,False,0.9828,0.01,52
+Arizona,Electric Power carbon dioxide emissions,Petroleum,False,0.0002,0.0381,52
+Arizona,Industrial carbon dioxide emissions,All Fuels,False,0.0574,0.1,52
+Arizona,Industrial carbon dioxide emissions,Coal,False,0.1591,0.1,52
+Arizona,Industrial carbon dioxide emissions,Natural Gas,False,0.2967,0.0104,52
+Arizona,Industrial carbon dioxide emissions,Petroleum,False,0.6743,0.01,52
+Arizona,Residential carbon dioxide emissions,All Fuels,False,0.6837,0.0611,52
+Arizona,Residential carbon dioxide emissions,Coal,False,0.4321,0.1,16
+Arizona,Residential carbon dioxide emissions,Natural Gas,False,0.6904,0.0521,52
+Arizona,Residential carbon dioxide emissions,Petroleum,True,0.0225,0.1,52
+Arizona,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1442,0.01,52
+Arizona,Total carbon dioxide emissions from all sectors,Coal,False,0.132,0.0186,52
+Arizona,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9748,0.01,52
+Arizona,Total carbon dioxide emissions from all sectors,Petroleum,False,0.6601,0.01,52
+Arizona,Transportation carbon dioxide emissions,All Fuels,False,0.7495,0.01,52
+Arizona,Transportation carbon dioxide emissions,Natural Gas,True,0.0083,0.1,52
+Arizona,Transportation carbon dioxide emissions,Petroleum,False,0.7315,0.01,52
+Arkansas,Commercial carbon dioxide emissions,All Fuels,False,0.9791,0.0715,52
+Arkansas,Commercial carbon dioxide emissions,Coal,False,0.5744,0.0265,23
+Arkansas,Commercial carbon dioxide emissions,Natural Gas,False,0.995,0.0138,52
+Arkansas,Commercial carbon dioxide emissions,Petroleum,False,0.4708,0.0826,52
+Arkansas,Electric Power carbon dioxide emissions,All Fuels,False,0.4535,0.01,52
+Arkansas,Electric Power carbon dioxide emissions,Coal,False,0.0391,0.0159,44
+Arkansas,Electric Power carbon dioxide emissions,Natural Gas,False,0.9947,0.014,52
+Arkansas,Electric Power carbon dioxide emissions,Petroleum,False,0.4073,0.0414,52
+Arkansas,Industrial carbon dioxide emissions,All Fuels,False,0.1329,0.0302,52
+Arkansas,Industrial carbon dioxide emissions,Coal,False,0.1527,0.1,51
+Arkansas,Industrial carbon dioxide emissions,Natural Gas,False,0.1123,0.0417,52
+Arkansas,Industrial carbon dioxide emissions,Petroleum,True,0.0088,0.1,52
+Arkansas,Residential carbon dioxide emissions,All Fuels,False,0.051,0.01,52
+Arkansas,Residential carbon dioxide emissions,Coal,False,0.5227,0.0509,17
+Arkansas,Residential carbon dioxide emissions,Natural Gas,False,0.823,0.01,52
+Arkansas,Residential carbon dioxide emissions,Petroleum,False,0.0992,0.01,52
+Arkansas,Total carbon dioxide emissions from all sectors,All Fuels,False,0.51,0.01,52
+Arkansas,Total carbon dioxide emissions from all sectors,Coal,False,0.0001,0.01,51
+Arkansas,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.2431,0.1,52
+Arkansas,Total carbon dioxide emissions from all sectors,Petroleum,True,0.0014,0.1,52
+Arkansas,Transportation carbon dioxide emissions,All Fuels,False,0.2007,0.01,52
+Arkansas,Transportation carbon dioxide emissions,Natural Gas,False,0.0801,0.1,52
+Arkansas,Transportation carbon dioxide emissions,Petroleum,False,0.186,0.01,52
+California,Commercial carbon dioxide emissions,All Fuels,False,0.7796,0.1,52
+California,Commercial carbon dioxide emissions,Coal,False,0.289,0.1,32
+California,Commercial carbon dioxide emissions,Natural Gas,True,0.004,0.1,52
+California,Commercial carbon dioxide emissions,Petroleum,True,0.0181,0.1,52
+California,Electric Power carbon dioxide emissions,All Fuels,False,0.0855,0.1,52
+California,Electric Power carbon dioxide emissions,Coal,False,0.1568,0.1,26
+California,Electric Power carbon dioxide emissions,Natural Gas,False,0.095,0.0166,52
+California,Electric Power carbon dioxide emissions,Petroleum,False,0.0002,0.0195,52
+California,Industrial carbon dioxide emissions,All Fuels,True,0.0303,0.1,52
+California,Industrial carbon dioxide emissions,Coal,False,0.2917,0.01,52
+California,Industrial carbon dioxide emissions,Natural Gas,False,0.6396,0.0223,52
+California,Industrial carbon dioxide emissions,Petroleum,False,0.6277,0.0584,52
+California,Residential carbon dioxide emissions,All Fuels,False,0.1206,0.01,52
+California,Residential carbon dioxide emissions,Coal,True,0.0,0.1,30
+California,Residential carbon dioxide emissions,Natural Gas,False,0.1742,0.01,52
+California,Residential carbon dioxide emissions,Petroleum,False,0.1346,0.0249,52
+California,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1226,0.0339,52
+California,Total carbon dioxide emissions from all sectors,Coal,False,0.7206,0.1,52
+California,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.476,0.0207,52
+California,Total carbon dioxide emissions from all sectors,Petroleum,True,0.0263,0.1,52
+California,Transportation carbon dioxide emissions,All Fuels,False,0.2225,0.01,52
+California,Transportation carbon dioxide emissions,Natural Gas,False,0.9867,0.0205,52
+California,Transportation carbon dioxide emissions,Petroleum,False,0.2268,0.01,52
+Colorado,Commercial carbon dioxide emissions,All Fuels,True,0.0001,0.1,52
+Colorado,Commercial carbon dioxide emissions,Coal,True,0.0375,0.1,50
+Colorado,Commercial carbon dioxide emissions,Natural Gas,False,0.917,0.0241,52
+Colorado,Commercial carbon dioxide emissions,Petroleum,False,0.9923,0.0134,52
+Colorado,Electric Power carbon dioxide emissions,All Fuels,False,0.0237,0.01,52
+Colorado,Electric Power carbon dioxide emissions,Coal,False,0.2144,0.01,52
+Colorado,Electric Power carbon dioxide emissions,Natural Gas,False,0.9318,0.01,52
+Colorado,Electric Power carbon dioxide emissions,Petroleum,False,0.3768,0.0217,52
+Colorado,Industrial carbon dioxide emissions,All Fuels,False,0.7726,0.0287,52
+Colorado,Industrial carbon dioxide emissions,Coal,False,0.5022,0.01,52
+Colorado,Industrial carbon dioxide emissions,Natural Gas,False,0.9006,0.01,52
+Colorado,Industrial carbon dioxide emissions,Petroleum,False,0.0906,0.1,52
+Colorado,Residential carbon dioxide emissions,All Fuels,False,0.9076,0.01,52
+Colorado,Residential carbon dioxide emissions,Coal,False,0.0002,0.0288,38
+Colorado,Residential carbon dioxide emissions,Natural Gas,False,0.9661,0.01,52
+Colorado,Residential carbon dioxide emissions,Petroleum,False,0.0582,0.1,52
+Colorado,Total carbon dioxide emissions from all sectors,All Fuels,False,0.3158,0.01,52
+Colorado,Total carbon dioxide emissions from all sectors,Coal,False,0.3505,0.0127,52
+Colorado,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9287,0.01,52
+Colorado,Total carbon dioxide emissions from all sectors,Petroleum,False,0.6911,0.01,52
+Colorado,Transportation carbon dioxide emissions,All Fuels,False,0.5573,0.01,52
+Colorado,Transportation carbon dioxide emissions,Natural Gas,False,0.1741,0.01,52
+Colorado,Transportation carbon dioxide emissions,Petroleum,False,0.5817,0.01,52
+Connecticut,Commercial carbon dioxide emissions,All Fuels,True,0.0155,0.1,52
+Connecticut,Commercial carbon dioxide emissions,Coal,False,0.1879,0.0195,38
+Connecticut,Commercial carbon dioxide emissions,Natural Gas,False,0.8697,0.01,52
+Connecticut,Commercial carbon dioxide emissions,Petroleum,False,0.3051,0.01,52
+Connecticut,Electric Power carbon dioxide emissions,All Fuels,False,0.0538,0.0136,52
+Connecticut,Electric Power carbon dioxide emissions,Coal,False,0.4221,0.1,48
+Connecticut,Electric Power carbon dioxide emissions,Natural Gas,False,1.0,0.01,44
+Connecticut,Electric Power carbon dioxide emissions,Petroleum,False,0.7894,0.01,52
+Connecticut,Industrial carbon dioxide emissions,All Fuels,False,0.0001,0.01,52
+Connecticut,Industrial carbon dioxide emissions,Coal,False,0.9621,0.0444,26
+Connecticut,Industrial carbon dioxide emissions,Natural Gas,False,0.3535,0.0513,52
+Connecticut,Industrial carbon dioxide emissions,Petroleum,False,0.0,0.01,52
+Connecticut,Residential carbon dioxide emissions,All Fuels,True,0.0168,0.1,52
+Connecticut,Residential carbon dioxide emissions,Coal,False,0.0058,0.01,38
+Connecticut,Residential carbon dioxide emissions,Natural Gas,False,0.9408,0.01,52
+Connecticut,Residential carbon dioxide emissions,Petroleum,False,0.1322,0.0397,52
+Connecticut,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1323,0.0286,52
+Connecticut,Total carbon dioxide emissions from all sectors,Coal,False,0.3874,0.1,52
+Connecticut,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.999,0.01,52
+Connecticut,Total carbon dioxide emissions from all sectors,Petroleum,False,0.73,0.01,52
+Connecticut,Transportation carbon dioxide emissions,All Fuels,False,0.2915,0.0352,52
+Connecticut,Transportation carbon dioxide emissions,Natural Gas,False,0.9728,0.01,52
+Connecticut,Transportation carbon dioxide emissions,Petroleum,False,0.2948,0.0529,52
+Delaware,Commercial carbon dioxide emissions,All Fuels,True,0.008,0.094,52
+Delaware,Commercial carbon dioxide emissions,Coal,True,0.0028,0.1,34
+Delaware,Commercial carbon dioxide emissions,Natural Gas,False,1.0,0.01,52
+Delaware,Commercial carbon dioxide emissions,Petroleum,False,0.2325,0.01,52
+Delaware,Electric Power carbon dioxide emissions,All Fuels,False,0.9648,0.0211,52
+Delaware,Electric Power carbon dioxide emissions,Coal,False,0.5213,0.1,52
+Delaware,Electric Power carbon dioxide emissions,Natural Gas,False,0.5676,0.01,52
+Delaware,Electric Power carbon dioxide emissions,Petroleum,False,0.1002,0.01,52
+Delaware,Industrial carbon dioxide emissions,All Fuels,True,0.0288,0.1,52
+Delaware,Industrial carbon dioxide emissions,Coal,False,0.374,0.1,41
+Delaware,Industrial carbon dioxide emissions,Natural Gas,False,0.6827,0.01,52
+Delaware,Industrial carbon dioxide emissions,Petroleum,False,0.1056,0.061,52
+Delaware,Residential carbon dioxide emissions,All Fuels,False,0.2499,0.01,52
+Delaware,Residential carbon dioxide emissions,Coal,True,0.0031,0.1,34
+Delaware,Residential carbon dioxide emissions,Natural Gas,False,0.9883,0.01,52
+Delaware,Residential carbon dioxide emissions,Petroleum,False,0.847,0.01,52
+Delaware,Total carbon dioxide emissions from all sectors,All Fuels,False,0.8738,0.018,52
+Delaware,Total carbon dioxide emissions from all sectors,Coal,False,0.7773,0.1,52
+Delaware,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.8895,0.01,52
+Delaware,Total carbon dioxide emissions from all sectors,Petroleum,False,0.5259,0.01,52
+Delaware,Transportation carbon dioxide emissions,All Fuels,False,0.4069,0.01,52
+Delaware,Transportation carbon dioxide emissions,Natural Gas,False,0.6232,0.0212,43
+Delaware,Transportation carbon dioxide emissions,Petroleum,False,0.3814,0.01,52
+District of Columbia,Commercial carbon dioxide emissions,All Fuels,False,0.857,0.01,52
+District of Columbia,Commercial carbon dioxide emissions,Coal,False,0.5144,0.0439,46
+District of Columbia,Commercial carbon dioxide emissions,Natural Gas,False,0.0499,0.01,52
+District of Columbia,Commercial carbon dioxide emissions,Petroleum,False,0.2517,0.01,52
+District of Columbia,Electric Power carbon dioxide emissions,All Fuels,False,0.0001,0.0157,43
+District of Columbia,Electric Power carbon dioxide emissions,Petroleum,False,0.0,0.0137,43
+District of Columbia,Industrial carbon dioxide emissions,All Fuels,False,0.0,0.0195,52
+District of Columbia,Industrial carbon dioxide emissions,Coal,False,0.9989,0.0164,12
+District of Columbia,Industrial carbon dioxide emissions,Natural Gas,False,0.2974,0.1,12
+District of Columbia,Industrial carbon dioxide emissions,Petroleum,False,0.0,0.0219,52
+District of Columbia,Residential carbon dioxide emissions,All Fuels,False,0.7615,0.01,52
+District of Columbia,Residential carbon dioxide emissions,Coal,False,0.5467,0.02,34
+District of Columbia,Residential carbon dioxide emissions,Natural Gas,False,0.6263,0.0891,52
+District of Columbia,Residential carbon dioxide emissions,Petroleum,False,0.0289,0.01,52
+District of Columbia,Total carbon dioxide emissions from all sectors,All Fuels,False,0.0,0.01,52
+District of Columbia,Total carbon dioxide emissions from all sectors,Coal,False,0.0091,0.0116,49
+District of Columbia,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.5336,0.0155,52
+District of Columbia,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0163,0.01,52
+District of Columbia,Transportation carbon dioxide emissions,All Fuels,False,0.7798,0.01,52
+District of Columbia,Transportation carbon dioxide emissions,Natural Gas,False,0.0023,0.01,50
+District of Columbia,Transportation carbon dioxide emissions,Petroleum,False,0.7947,0.01,52
+Florida,Commercial carbon dioxide emissions,All Fuels,True,0.0322,0.1,52
+Florida,Commercial carbon dioxide emissions,Coal,False,0.2419,0.1,26
+Florida,Commercial carbon dioxide emissions,Natural Gas,False,0.9862,0.01,52
+Florida,Commercial carbon dioxide emissions,Petroleum,False,0.2452,0.1,52
+Florida,Electric Power carbon dioxide emissions,All Fuels,False,0.2427,0.01,52
+Florida,Electric Power carbon dioxide emissions,Coal,False,0.2829,0.0459,52
+Florida,Electric Power carbon dioxide emissions,Natural Gas,False,0.9982,0.01,52
+Florida,Electric Power carbon dioxide emissions,Petroleum,False,0.8017,0.0118,52
+Florida,Industrial carbon dioxide emissions,All Fuels,False,0.1223,0.1,52
+Florida,Industrial carbon dioxide emissions,Coal,False,0.4325,0.1,47
+Florida,Industrial carbon dioxide emissions,Natural Gas,False,0.1494,0.1,52
+Florida,Industrial carbon dioxide emissions,Petroleum,False,0.1137,0.0284,52
+Florida,Residential carbon dioxide emissions,All Fuels,False,0.0154,0.01,52
+Florida,Residential carbon dioxide emissions,Coal,False,0.388,0.1,26
+Florida,Residential carbon dioxide emissions,Natural Gas,True,0.001,0.1,52
+Florida,Residential carbon dioxide emissions,Petroleum,False,0.0009,0.01,52
+Florida,Total carbon dioxide emissions from all sectors,All Fuels,False,0.258,0.01,52
+Florida,Total carbon dioxide emissions from all sectors,Coal,False,0.2747,0.0471,52
+Florida,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9985,0.01,52
+Florida,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0832,0.0179,52
+Florida,Transportation carbon dioxide emissions,All Fuels,False,0.5219,0.01,52
+Florida,Transportation carbon dioxide emissions,Natural Gas,False,1.0,0.01,52
+Florida,Transportation carbon dioxide emissions,Petroleum,False,0.5077,0.01,52
+Georgia,Commercial carbon dioxide emissions,All Fuels,True,0.034,0.1,52
+Georgia,Commercial carbon dioxide emissions,Coal,False,0.0,0.01,44
+Georgia,Commercial carbon dioxide emissions,Natural Gas,True,0.0002,0.1,52
+Georgia,Commercial carbon dioxide emissions,Petroleum,False,0.3999,0.1,52
+Georgia,Electric Power carbon dioxide emissions,All Fuels,False,0.2744,0.0362,52
+Georgia,Electric Power carbon dioxide emissions,Coal,False,0.5079,0.1,52
+Georgia,Electric Power carbon dioxide emissions,Natural Gas,False,0.5215,0.01,52
+Georgia,Electric Power carbon dioxide emissions,Petroleum,False,0.1618,0.0305,52
+Georgia,Industrial carbon dioxide emissions,All Fuels,False,0.4518,0.1,52
+Georgia,Industrial carbon dioxide emissions,Coal,False,0.2549,0.1,52
+Georgia,Industrial carbon dioxide emissions,Natural Gas,False,0.0546,0.1,52
+Georgia,Industrial carbon dioxide emissions,Petroleum,False,0.0838,0.0406,52
+Georgia,Residential carbon dioxide emissions,All Fuels,False,0.6262,0.01,52
+Georgia,Residential carbon dioxide emissions,Coal,False,0.0001,0.0178,36
+Georgia,Residential carbon dioxide emissions,Natural Gas,False,0.7185,0.01,52
+Georgia,Residential carbon dioxide emissions,Petroleum,False,0.8863,0.01,52
+Georgia,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1677,0.01,52
+Georgia,Total carbon dioxide emissions from all sectors,Coal,False,0.5239,0.1,52
+Georgia,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9985,0.01,52
+Georgia,Total carbon dioxide emissions from all sectors,Petroleum,False,0.2534,0.01,52
+Georgia,Transportation carbon dioxide emissions,All Fuels,False,0.2678,0.01,52
+Georgia,Transportation carbon dioxide emissions,Natural Gas,False,0.6499,0.01,52
+Georgia,Transportation carbon dioxide emissions,Petroleum,False,0.264,0.01,52
+Hawaii,Commercial carbon dioxide emissions,All Fuels,True,0.0005,0.1,52
+Hawaii,Commercial carbon dioxide emissions,Natural Gas,False,0.0787,0.1,42
+Hawaii,Commercial carbon dioxide emissions,Petroleum,True,0.0001,0.1,52
+Hawaii,Electric Power carbon dioxide emissions,All Fuels,False,0.5152,0.0121,52
+Hawaii,Electric Power carbon dioxide emissions,Coal,True,0.0,0.1,32
+Hawaii,Electric Power carbon dioxide emissions,Petroleum,False,0.1445,0.0702,52
+Hawaii,Industrial carbon dioxide emissions,All Fuels,False,0.1117,0.1,52
+Hawaii,Industrial carbon dioxide emissions,Coal,False,0.2403,0.1,35
+Hawaii,Industrial carbon dioxide emissions,Natural Gas,False,1.0,0.0288,25
+Hawaii,Industrial carbon dioxide emissions,Petroleum,True,0.0338,0.1,52
+Hawaii,Residential carbon dioxide emissions,All Fuels,True,0.0256,0.1,52
+Hawaii,Residential carbon dioxide emissions,Natural Gas,False,0.0001,0.0342,42
+Hawaii,Residential carbon dioxide emissions,Petroleum,False,0.194,0.1,52
+Hawaii,Total carbon dioxide emissions from all sectors,All Fuels,False,0.0876,0.0126,52
+Hawaii,Total carbon dioxide emissions from all sectors,Coal,False,0.1553,0.0394,40
+Hawaii,Total carbon dioxide emissions from all sectors,Natural Gas,True,0.0059,0.1,42
+Hawaii,Total carbon dioxide emissions from all sectors,Petroleum,True,0.0272,0.0544,52
+Hawaii,Transportation carbon dioxide emissions,All Fuels,False,0.012,0.04,52
+Hawaii,Transportation carbon dioxide emissions,Natural Gas,True,0.0012,0.1,17
+Hawaii,Transportation carbon dioxide emissions,Petroleum,False,0.012,0.04,52
+Idaho,Commercial carbon dioxide emissions,All Fuels,False,0.9617,0.0177,52
+Idaho,Commercial carbon dioxide emissions,Coal,False,0.3398,0.01,45
+Idaho,Commercial carbon dioxide emissions,Natural Gas,False,0.9918,0.01,52
+Idaho,Commercial carbon dioxide emissions,Petroleum,False,0.7181,0.1,52
+Idaho,Electric Power carbon dioxide emissions,All Fuels,False,1.0,0.01,51
+Idaho,Electric Power carbon dioxide emissions,Natural Gas,False,0.9991,0.01,40
+Idaho,Electric Power carbon dioxide emissions,Petroleum,True,0.0012,0.1,40
+Idaho,Industrial carbon dioxide emissions,All Fuels,True,0.0002,0.1,52
+Idaho,Industrial carbon dioxide emissions,Coal,False,0.1021,0.1,52
+Idaho,Industrial carbon dioxide emissions,Natural Gas,False,0.2527,0.1,52
+Idaho,Industrial carbon dioxide emissions,Petroleum,False,0.3511,0.0481,52
+Idaho,Residential carbon dioxide emissions,All Fuels,False,0.9512,0.01,52
+Idaho,Residential carbon dioxide emissions,Coal,False,0.0001,0.015,38
+Idaho,Residential carbon dioxide emissions,Natural Gas,False,0.9816,0.01,52
+Idaho,Residential carbon dioxide emissions,Petroleum,False,0.0865,0.0576,52
+Idaho,Total carbon dioxide emissions from all sectors,All Fuels,False,0.9894,0.01,52
+Idaho,Total carbon dioxide emissions from all sectors,Coal,False,0.4168,0.0143,52
+Idaho,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9982,0.01,52
+Idaho,Total carbon dioxide emissions from all sectors,Petroleum,False,0.9283,0.01,52
+Idaho,Transportation carbon dioxide emissions,All Fuels,False,0.9423,0.01,52
+Idaho,Transportation carbon dioxide emissions,Natural Gas,False,0.1125,0.01,52
+Idaho,Transportation carbon dioxide emissions,Petroleum,False,0.946,0.01,52
+Illinois,Commercial carbon dioxide emissions,All Fuels,False,0.2439,0.0166,52
+Illinois,Commercial carbon dioxide emissions,Coal,False,0.9887,0.01,52
+Illinois,Commercial carbon dioxide emissions,Natural Gas,True,0.0051,0.1,52
+Illinois,Commercial carbon dioxide emissions,Petroleum,False,0.0285,0.01,52
+Illinois,Electric Power carbon dioxide emissions,All Fuels,False,0.4129,0.1,52
+Illinois,Electric Power carbon dioxide emissions,Coal,True,0.0467,0.1,52
+Illinois,Electric Power carbon dioxide emissions,Natural Gas,False,0.9823,0.0368,52
+Illinois,Electric Power carbon dioxide emissions,Petroleum,False,0.0,0.01,52
+Illinois,Industrial carbon dioxide emissions,All Fuels,False,0.1054,0.01,52
+Illinois,Industrial carbon dioxide emissions,Coal,False,0.2368,0.01,52
+Illinois,Industrial carbon dioxide emissions,Natural Gas,False,0.0071,0.01,52
+Illinois,Industrial carbon dioxide emissions,Petroleum,False,0.0117,0.01,52
+Illinois,Residential carbon dioxide emissions,All Fuels,False,0.2649,0.01,52
+Illinois,Residential carbon dioxide emissions,Coal,False,0.5741,0.0185,38
+Illinois,Residential carbon dioxide emissions,Natural Gas,False,0.2862,0.01,52
+Illinois,Residential carbon dioxide emissions,Petroleum,False,0.0987,0.0148,52
+Illinois,Total carbon dioxide emissions from all sectors,All Fuels,True,0.0091,0.1,52
+Illinois,Total carbon dioxide emissions from all sectors,Coal,True,0.0227,0.1,52
+Illinois,Total carbon dioxide emissions from all sectors,Natural Gas,True,0.0135,0.0997,52
+Illinois,Total carbon dioxide emissions from all sectors,Petroleum,False,0.5576,0.0913,52
+Illinois,Transportation carbon dioxide emissions,All Fuels,False,0.3342,0.0617,52
+Illinois,Transportation carbon dioxide emissions,Natural Gas,False,0.1322,0.0977,52
+Illinois,Transportation carbon dioxide emissions,Petroleum,False,0.309,0.0659,52
+Indiana,Commercial carbon dioxide emissions,All Fuels,False,0.1017,0.0108,52
+Indiana,Commercial carbon dioxide emissions,Coal,False,0.0831,0.0113,52
+Indiana,Commercial carbon dioxide emissions,Natural Gas,False,0.565,0.01,52
+Indiana,Commercial carbon dioxide emissions,Petroleum,False,0.4075,0.01,52
+Indiana,Electric Power carbon dioxide emissions,All Fuels,False,0.1951,0.0178,52
+Indiana,Electric Power carbon dioxide emissions,Coal,False,0.2101,0.0335,52
+Indiana,Electric Power carbon dioxide emissions,Natural Gas,False,1.0,0.01,52
+Indiana,Electric Power carbon dioxide emissions,Petroleum,True,0.0004,0.1,52
+Indiana,Industrial carbon dioxide emissions,All Fuels,False,0.3896,0.01,52
+Indiana,Industrial carbon dioxide emissions,Coal,False,0.6708,0.01,52
+Indiana,Industrial carbon dioxide emissions,Natural Gas,False,0.9607,0.01,52
+Indiana,Industrial carbon dioxide emissions,Petroleum,False,0.0915,0.0236,52
+Indiana,Residential carbon dioxide emissions,All Fuels,False,0.1423,0.01,52
+Indiana,Residential carbon dioxide emissions,Coal,False,0.9513,0.0113,38
+Indiana,Residential carbon dioxide emissions,Natural Gas,False,0.1671,0.0134,52
+Indiana,Residential carbon dioxide emissions,Petroleum,False,0.4735,0.01,52
+Indiana,Total carbon dioxide emissions from all sectors,All Fuels,False,0.5517,0.0952,52
+Indiana,Total carbon dioxide emissions from all sectors,Coal,False,0.6887,0.1,52
+Indiana,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9943,0.01,52
+Indiana,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0866,0.1,52
+Indiana,Transportation carbon dioxide emissions,All Fuels,False,0.185,0.01,52
+Indiana,Transportation carbon dioxide emissions,Natural Gas,True,0.0296,0.1,52
+Indiana,Transportation carbon dioxide emissions,Petroleum,False,0.1759,0.01,52
+Iowa,Commercial carbon dioxide emissions,All Fuels,False,0.0519,0.1,52
+Iowa,Commercial carbon dioxide emissions,Coal,False,0.0776,0.0896,52
+Iowa,Commercial carbon dioxide emissions,Natural Gas,False,0.065,0.1,52
+Iowa,Commercial carbon dioxide emissions,Petroleum,False,0.1476,0.0968,52
+Iowa,Electric Power carbon dioxide emissions,All Fuels,False,0.2218,0.01,52
+Iowa,Electric Power carbon dioxide emissions,Coal,False,0.4699,0.01,52
+Iowa,Electric Power carbon dioxide emissions,Natural Gas,False,0.0569,0.1,52
+Iowa,Electric Power carbon dioxide emissions,Petroleum,False,0.1718,0.1,52
+Iowa,Industrial carbon dioxide emissions,All Fuels,False,0.9121,0.01,52
+Iowa,Industrial carbon dioxide emissions,Coal,False,0.6709,0.0196,52
+Iowa,Industrial carbon dioxide emissions,Natural Gas,False,0.9134,0.0138,52
+Iowa,Industrial carbon dioxide emissions,Petroleum,True,0.0476,0.1,52
+Iowa,Residential carbon dioxide emissions,All Fuels,False,0.1244,0.01,52
+Iowa,Residential carbon dioxide emissions,Coal,False,0.0603,0.1,38
+Iowa,Residential carbon dioxide emissions,Natural Gas,False,0.2434,0.01,52
+Iowa,Residential carbon dioxide emissions,Petroleum,False,0.0609,0.01,52
+Iowa,Total carbon dioxide emissions from all sectors,All Fuels,False,0.5295,0.01,52
+Iowa,Total carbon dioxide emissions from all sectors,Coal,False,0.3039,0.0104,52
+Iowa,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.8255,0.0918,52
+Iowa,Total carbon dioxide emissions from all sectors,Petroleum,False,0.4998,0.0401,52
+Iowa,Transportation carbon dioxide emissions,All Fuels,False,0.6151,0.01,52
+Iowa,Transportation carbon dioxide emissions,Natural Gas,True,0.0008,0.1,52
+Iowa,Transportation carbon dioxide emissions,Petroleum,False,0.5557,0.01,52
+Kansas,Commercial carbon dioxide emissions,All Fuels,False,0.4266,0.01,52
+Kansas,Commercial carbon dioxide emissions,Coal,True,0.0092,0.1,32
+Kansas,Commercial carbon dioxide emissions,Natural Gas,False,0.6619,0.01,52
+Kansas,Commercial carbon dioxide emissions,Petroleum,False,0.0792,0.1,52
+Kansas,Electric Power carbon dioxide emissions,All Fuels,False,0.1969,0.0218,52
+Kansas,Electric Power carbon dioxide emissions,Coal,False,0.081,0.0151,52
+Kansas,Electric Power carbon dioxide emissions,Natural Gas,False,0.0358,0.012,52
+Kansas,Electric Power carbon dioxide emissions,Petroleum,False,0.2987,0.0978,52
+Kansas,Industrial carbon dioxide emissions,All Fuels,False,0.6846,0.01,52
+Kansas,Industrial carbon dioxide emissions,Coal,False,0.3902,0.1,52
+Kansas,Industrial carbon dioxide emissions,Natural Gas,False,0.0336,0.0146,52
+Kansas,Industrial carbon dioxide emissions,Petroleum,False,0.03,0.0184,52
+Kansas,Residential carbon dioxide emissions,All Fuels,False,0.2521,0.01,52
+Kansas,Residential carbon dioxide emissions,Coal,True,0.0162,0.1,29
+Kansas,Residential carbon dioxide emissions,Natural Gas,False,0.4224,0.01,52
+Kansas,Residential carbon dioxide emissions,Petroleum,False,0.2178,0.056,52
+Kansas,Total carbon dioxide emissions from all sectors,All Fuels,False,0.3111,0.0805,52
+Kansas,Total carbon dioxide emissions from all sectors,Coal,False,0.082,0.0159,52
+Kansas,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.3277,0.01,52
+Kansas,Total carbon dioxide emissions from all sectors,Petroleum,True,0.0031,0.1,52
+Kansas,Transportation carbon dioxide emissions,All Fuels,False,0.3862,0.0967,52
+Kansas,Transportation carbon dioxide emissions,Natural Gas,False,0.0652,0.01,52
+Kansas,Transportation carbon dioxide emissions,Petroleum,False,0.019,0.01,52
+Kentucky,Commercial carbon dioxide emissions,All Fuels,False,0.5719,0.01,52
+Kentucky,Commercial carbon dioxide emissions,Coal,False,0.8972,0.01,52
+Kentucky,Commercial carbon dioxide emissions,Natural Gas,False,0.1568,0.0588,52
+Kentucky,Commercial carbon dioxide emissions,Petroleum,False,0.2608,0.0349,52
+Kentucky,Electric Power carbon dioxide emissions,All Fuels,False,0.3,0.0143,52
+Kentucky,Electric Power carbon dioxide emissions,Coal,False,0.3314,0.0221,52
+Kentucky,Electric Power carbon dioxide emissions,Natural Gas,False,0.9976,0.0184,52
+Kentucky,Electric Power carbon dioxide emissions,Petroleum,False,0.3754,0.0734,52
+Kentucky,Industrial carbon dioxide emissions,All Fuels,False,0.5045,0.1,52
+Kentucky,Industrial carbon dioxide emissions,Coal,False,0.6848,0.01,52
+Kentucky,Industrial carbon dioxide emissions,Natural Gas,False,0.9248,0.01,52
+Kentucky,Industrial carbon dioxide emissions,Petroleum,False,0.3716,0.0679,52
+Kentucky,Residential carbon dioxide emissions,All Fuels,False,0.4836,0.01,52
+Kentucky,Residential carbon dioxide emissions,Coal,False,0.0003,0.01,38
+Kentucky,Residential carbon dioxide emissions,Natural Gas,False,0.4829,0.01,52
+Kentucky,Residential carbon dioxide emissions,Petroleum,False,0.5858,0.01,52
+Kentucky,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2724,0.0136,52
+Kentucky,Total carbon dioxide emissions from all sectors,Coal,False,0.284,0.0439,52
+Kentucky,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9725,0.0303,52
+Kentucky,Total carbon dioxide emissions from all sectors,Petroleum,False,0.304,0.01,52
+Kentucky,Transportation carbon dioxide emissions,All Fuels,False,0.3636,0.01,52
+Kentucky,Transportation carbon dioxide emissions,Natural Gas,False,0.1374,0.0165,52
+Kentucky,Transportation carbon dioxide emissions,Petroleum,False,0.2406,0.01,52
+Louisiana,Commercial carbon dioxide emissions,All Fuels,False,0.4725,0.0265,52
+Louisiana,Commercial carbon dioxide emissions,Natural Gas,False,0.048,0.0114,52
+Louisiana,Commercial carbon dioxide emissions,Petroleum,False,0.2989,0.0657,52
+Louisiana,Electric Power carbon dioxide emissions,All Fuels,False,0.1613,0.01,52
+Louisiana,Electric Power carbon dioxide emissions,Coal,True,0.0292,0.1,41
+Louisiana,Electric Power carbon dioxide emissions,Natural Gas,False,0.1611,0.0458,52
+Louisiana,Electric Power carbon dioxide emissions,Petroleum,False,0.0794,0.1,52
+Louisiana,Industrial carbon dioxide emissions,All Fuels,True,0.0241,0.0558,52
+Louisiana,Industrial carbon dioxide emissions,Coal,False,0.3742,0.0892,45
+Louisiana,Industrial carbon dioxide emissions,Natural Gas,False,0.1642,0.0939,52
+Louisiana,Industrial carbon dioxide emissions,Petroleum,False,0.1527,0.01,52
+Louisiana,Residential carbon dioxide emissions,All Fuels,False,0.7244,0.01,52
+Louisiana,Residential carbon dioxide emissions,Natural Gas,False,0.6185,0.01,52
+Louisiana,Residential carbon dioxide emissions,Petroleum,False,0.0491,0.0159,52
+Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,False,0.0353,0.0448,52
+Louisiana,Total carbon dioxide emissions from all sectors,Coal,False,0.0538,0.0913,45
+Louisiana,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.2064,0.0622,52
+Louisiana,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0516,0.0327,52
+Louisiana,Transportation carbon dioxide emissions,All Fuels,False,0.1704,0.1,52
+Louisiana,Transportation carbon dioxide emissions,Natural Gas,False,0.6591,0.1,52
+Louisiana,Transportation carbon dioxide emissions,Petroleum,False,0.6298,0.1,52
+Maine,Commercial carbon dioxide emissions,All Fuels,False,0.2976,0.0194,52
+Maine,Commercial carbon dioxide emissions,Coal,False,0.7356,0.0891,38
+Maine,Commercial carbon dioxide emissions,Natural Gas,False,0.9753,0.01,52
+Maine,Commercial carbon dioxide emissions,Petroleum,False,0.3107,0.1,52
+Maine,Electric Power carbon dioxide emissions,All Fuels,False,0.057,0.1,52
+Maine,Electric Power carbon dioxide emissions,Coal,False,0.6962,0.01,32
+Maine,Electric Power carbon dioxide emissions,Natural Gas,False,0.1633,0.1,33
+Maine,Electric Power carbon dioxide emissions,Petroleum,False,0.319,0.01,52
+Maine,Industrial carbon dioxide emissions,All Fuels,False,0.358,0.01,52
+Maine,Industrial carbon dioxide emissions,Coal,False,0.4699,0.1,51
+Maine,Industrial carbon dioxide emissions,Natural Gas,False,0.8739,0.01,52
+Maine,Industrial carbon dioxide emissions,Petroleum,False,0.5395,0.01,52
+Maine,Residential carbon dioxide emissions,All Fuels,False,0.1042,0.1,52
+Maine,Residential carbon dioxide emissions,Coal,False,0.0121,0.0115,38
+Maine,Residential carbon dioxide emissions,Natural Gas,False,0.9987,0.01,52
+Maine,Residential carbon dioxide emissions,Petroleum,False,0.1208,0.1,52
+Maine,Total carbon dioxide emissions from all sectors,All Fuels,False,0.3428,0.1,52
+Maine,Total carbon dioxide emissions from all sectors,Coal,False,0.5605,0.1,52
+Maine,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.6628,0.01,52
+Maine,Total carbon dioxide emissions from all sectors,Petroleum,False,0.4851,0.0288,52
+Maine,Transportation carbon dioxide emissions,All Fuels,False,0.3412,0.0246,52
+Maine,Transportation carbon dioxide emissions,Natural Gas,False,0.1092,0.01,40
+Maine,Transportation carbon dioxide emissions,Petroleum,False,0.3342,0.0292,52
+Maryland,Commercial carbon dioxide emissions,All Fuels,False,0.8479,0.01,52
+Maryland,Commercial carbon dioxide emissions,Coal,False,0.3141,0.1,46
+Maryland,Commercial carbon dioxide emissions,Natural Gas,False,0.8197,0.01,52
+Maryland,Commercial carbon dioxide emissions,Petroleum,False,0.1321,0.01,52
+Maryland,Electric Power carbon dioxide emissions,All Fuels,False,0.0703,0.1,52
+Maryland,Electric Power carbon dioxide emissions,Coal,False,0.0587,0.1,52
+Maryland,Electric Power carbon dioxide emissions,Natural Gas,False,0.9988,0.01,52
+Maryland,Electric Power carbon dioxide emissions,Petroleum,False,0.2772,0.01,52
+Maryland,Industrial carbon dioxide emissions,All Fuels,False,0.2983,0.01,52
+Maryland,Industrial carbon dioxide emissions,Coal,False,0.0818,0.01,52
+Maryland,Industrial carbon dioxide emissions,Natural Gas,False,0.6276,0.01,52
+Maryland,Industrial carbon dioxide emissions,Petroleum,False,0.5521,0.01,52
+Maryland,Residential carbon dioxide emissions,All Fuels,False,0.4581,0.01,52
+Maryland,Residential carbon dioxide emissions,Coal,False,0.0005,0.0306,38
+Maryland,Residential carbon dioxide emissions,Natural Gas,False,0.6419,0.01,52
+Maryland,Residential carbon dioxide emissions,Petroleum,False,0.6698,0.01,52
+Maryland,Total carbon dioxide emissions from all sectors,All Fuels,False,0.6981,0.1,52
+Maryland,Total carbon dioxide emissions from all sectors,Coal,False,0.9468,0.1,52
+Maryland,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.97,0.01,52
+Maryland,Total carbon dioxide emissions from all sectors,Petroleum,False,0.4089,0.0401,52
+Maryland,Transportation carbon dioxide emissions,All Fuels,False,0.3899,0.01,52
+Maryland,Transportation carbon dioxide emissions,Natural Gas,False,1.0,0.0213,52
+Maryland,Transportation carbon dioxide emissions,Petroleum,False,0.3258,0.01,52
+Massachusetts,Commercial carbon dioxide emissions,All Fuels,False,0.0746,0.0142,52
+Massachusetts,Commercial carbon dioxide emissions,Coal,False,0.2023,0.0304,38
+Massachusetts,Commercial carbon dioxide emissions,Natural Gas,False,0.7281,0.01,52
+Massachusetts,Commercial carbon dioxide emissions,Petroleum,False,0.0924,0.01,52
+Massachusetts,Electric Power carbon dioxide emissions,All Fuels,False,0.975,0.0148,52
+Massachusetts,Electric Power carbon dioxide emissions,Coal,False,0.6996,0.1,45
+Massachusetts,Electric Power carbon dioxide emissions,Natural Gas,False,0.6195,0.01,52
+Massachusetts,Electric Power carbon dioxide emissions,Petroleum,False,0.7738,0.01,52
+Massachusetts,Industrial carbon dioxide emissions,All Fuels,False,0.009,0.01,52
+Massachusetts,Industrial carbon dioxide emissions,Coal,False,0.0687,0.0271,50
+Massachusetts,Industrial carbon dioxide emissions,Natural Gas,False,0.2924,0.0427,52
+Massachusetts,Industrial carbon dioxide emissions,Petroleum,False,0.0002,0.01,52
+Massachusetts,Residential carbon dioxide emissions,All Fuels,False,0.3419,0.01,52
+Massachusetts,Residential carbon dioxide emissions,Coal,False,0.0065,0.01,38
+Massachusetts,Residential carbon dioxide emissions,Natural Gas,False,0.5757,0.01,52
+Massachusetts,Residential carbon dioxide emissions,Petroleum,False,0.4309,0.01,52
+Massachusetts,Total carbon dioxide emissions from all sectors,All Fuels,False,0.8528,0.01,52
+Massachusetts,Total carbon dioxide emissions from all sectors,Coal,False,0.5621,0.1,50
+Massachusetts,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.6394,0.01,52
+Massachusetts,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0115,0.01,52
+Massachusetts,Transportation carbon dioxide emissions,All Fuels,False,0.336,0.01,52
+Massachusetts,Transportation carbon dioxide emissions,Natural Gas,False,0.9917,0.01,52
+Massachusetts,Transportation carbon dioxide emissions,Petroleum,False,0.342,0.01,52
+Michigan,Commercial carbon dioxide emissions,All Fuels,False,0.0052,0.0296,52
+Michigan,Commercial carbon dioxide emissions,Coal,False,0.0343,0.0123,47
+Michigan,Commercial carbon dioxide emissions,Natural Gas,True,0.0001,0.1,52
+Michigan,Commercial carbon dioxide emissions,Petroleum,False,0.3723,0.0172,52
+Michigan,Electric Power carbon dioxide emissions,All Fuels,False,0.5475,0.0923,52
+Michigan,Electric Power carbon dioxide emissions,Coal,False,0.8252,0.1,52
+Michigan,Electric Power carbon dioxide emissions,Natural Gas,False,0.9169,0.01,52
+Michigan,Electric Power carbon dioxide emissions,Petroleum,False,0.3447,0.0234,52
+Michigan,Industrial carbon dioxide emissions,All Fuels,False,0.0006,0.01,52
+Michigan,Industrial carbon dioxide emissions,Coal,False,0.0033,0.01,52
+Michigan,Industrial carbon dioxide emissions,Natural Gas,False,0.2244,0.0229,52
+Michigan,Industrial carbon dioxide emissions,Petroleum,False,0.0,0.01,52
+Michigan,Residential carbon dioxide emissions,All Fuels,False,0.3394,0.01,52
+Michigan,Residential carbon dioxide emissions,Coal,False,0.0,0.0168,38
+Michigan,Residential carbon dioxide emissions,Natural Gas,False,0.2161,0.0745,52
+Michigan,Residential carbon dioxide emissions,Petroleum,False,0.4678,0.01,52
+Michigan,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2602,0.058,52
+Michigan,Total carbon dioxide emissions from all sectors,Coal,False,0.8845,0.0319,52
+Michigan,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.2789,0.1,52
+Michigan,Total carbon dioxide emissions from all sectors,Petroleum,True,0.0368,0.1,52
+Michigan,Transportation carbon dioxide emissions,All Fuels,False,0.3366,0.0478,52
+Michigan,Transportation carbon dioxide emissions,Natural Gas,False,0.6751,0.01,52
+Michigan,Transportation carbon dioxide emissions,Petroleum,False,0.2896,0.0602,52
+Minnesota,Commercial carbon dioxide emissions,All Fuels,False,0.8248,0.022,52
+Minnesota,Commercial carbon dioxide emissions,Coal,False,0.4119,0.01,52
+Minnesota,Commercial carbon dioxide emissions,Natural Gas,False,0.9541,0.01,52
+Minnesota,Commercial carbon dioxide emissions,Petroleum,False,0.26,0.07,52
+Minnesota,Electric Power carbon dioxide emissions,All Fuels,False,0.4813,0.0202,52
+Minnesota,Electric Power carbon dioxide emissions,Coal,False,0.3812,0.0378,52
+Minnesota,Electric Power carbon dioxide emissions,Natural Gas,False,0.9955,0.0342,52
+Minnesota,Electric Power carbon dioxide emissions,Petroleum,False,0.1844,0.1,52
+Minnesota,Industrial carbon dioxide emissions,All Fuels,False,0.1091,0.1,52
+Minnesota,Industrial carbon dioxide emissions,Coal,False,0.4956,0.0946,52
+Minnesota,Industrial carbon dioxide emissions,Natural Gas,False,0.7523,0.018,52
+Minnesota,Industrial carbon dioxide emissions,Petroleum,False,0.3379,0.1,52
+Minnesota,Residential carbon dioxide emissions,All Fuels,True,0.0266,0.1,52
+Minnesota,Residential carbon dioxide emissions,Coal,False,0.0388,0.0146,37
+Minnesota,Residential carbon dioxide emissions,Natural Gas,False,0.9211,0.01,52
+Minnesota,Residential carbon dioxide emissions,Petroleum,False,0.0656,0.01,52
+Minnesota,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1356,0.01,52
+Minnesota,Total carbon dioxide emissions from all sectors,Coal,False,0.6235,0.0545,52
+Minnesota,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9545,0.01,52
+Minnesota,Total carbon dioxide emissions from all sectors,Petroleum,False,0.4616,0.0354,52
+Minnesota,Transportation carbon dioxide emissions,All Fuels,False,0.3848,0.01,52
+Minnesota,Transportation carbon dioxide emissions,Natural Gas,False,0.5467,0.0217,52
+Minnesota,Transportation carbon dioxide emissions,Petroleum,False,0.3662,0.01,52
+Mississippi,Commercial carbon dioxide emissions,All Fuels,False,0.1415,0.0645,52
+Mississippi,Commercial carbon dioxide emissions,Coal,True,0.0,0.1,14
+Mississippi,Commercial carbon dioxide emissions,Natural Gas,True,0.0,0.1,52
+Mississippi,Commercial carbon dioxide emissions,Petroleum,False,0.2597,0.0952,52
+Mississippi,Electric Power carbon dioxide emissions,All Fuels,False,0.8854,0.01,52
+Mississippi,Electric Power carbon dioxide emissions,Coal,False,0.3769,0.0658,52
+Mississippi,Electric Power carbon dioxide emissions,Natural Gas,False,0.9932,0.01,52
+Mississippi,Electric Power carbon dioxide emissions,Petroleum,False,0.1981,0.08,52
+Mississippi,Industrial carbon dioxide emissions,All Fuels,True,0.0075,0.0901,52
+Mississippi,Industrial carbon dioxide emissions,Coal,False,0.4882,0.1,49
+Mississippi,Industrial carbon dioxide emissions,Natural Gas,False,0.1626,0.1,52
+Mississippi,Industrial carbon dioxide emissions,Petroleum,False,0.2503,0.0215,52
+Mississippi,Residential carbon dioxide emissions,All Fuels,False,0.0119,0.01,52
+Mississippi,Residential carbon dioxide emissions,Coal,False,0.2571,0.1,11
+Mississippi,Residential carbon dioxide emissions,Natural Gas,False,0.2494,0.01,52
+Mississippi,Residential carbon dioxide emissions,Petroleum,False,0.1698,0.0192,52
+Mississippi,Total carbon dioxide emissions from all sectors,All Fuels,False,0.6207,0.01,52
+Mississippi,Total carbon dioxide emissions from all sectors,Coal,False,0.3796,0.069,52
+Mississippi,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9612,0.01,52
+Mississippi,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0629,0.1,52
+Mississippi,Transportation carbon dioxide emissions,All Fuels,False,0.2959,0.01,52
+Mississippi,Transportation carbon dioxide emissions,Natural Gas,False,0.0303,0.0184,52
+Mississippi,Transportation carbon dioxide emissions,Petroleum,False,0.448,0.01,52
+Missouri,Commercial carbon dioxide emissions,All Fuels,False,0.2386,0.01,52
+Missouri,Commercial carbon dioxide emissions,Coal,False,0.4886,0.1,52
+Missouri,Commercial carbon dioxide emissions,Natural Gas,False,0.1862,0.0141,52
+Missouri,Commercial carbon dioxide emissions,Petroleum,False,0.1146,0.0107,52
+Missouri,Electric Power carbon dioxide emissions,All Fuels,False,0.4493,0.01,52
+Missouri,Electric Power carbon dioxide emissions,Coal,False,0.5415,0.01,52
+Missouri,Electric Power carbon dioxide emissions,Natural Gas,False,0.5238,0.0735,52
+Missouri,Electric Power carbon dioxide emissions,Petroleum,True,0.0058,0.0846,52
+Missouri,Industrial carbon dioxide emissions,All Fuels,False,0.0874,0.0171,52
+Missouri,Industrial carbon dioxide emissions,Coal,False,0.1135,0.01,52
+Missouri,Industrial carbon dioxide emissions,Natural Gas,False,0.002,0.0498,52
+Missouri,Industrial carbon dioxide emissions,Petroleum,False,0.0682,0.1,52
+Missouri,Residential carbon dioxide emissions,All Fuels,False,0.4578,0.01,52
+Missouri,Residential carbon dioxide emissions,Coal,False,0.6389,0.0496,38
+Missouri,Residential carbon dioxide emissions,Natural Gas,False,0.4922,0.01,52
+Missouri,Residential carbon dioxide emissions,Petroleum,False,0.4225,0.01,52
+Missouri,Total carbon dioxide emissions from all sectors,All Fuels,False,0.3192,0.01,52
+Missouri,Total carbon dioxide emissions from all sectors,Coal,False,0.4775,0.01,52
+Missouri,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.0825,0.0457,52
+Missouri,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3759,0.0556,52
+Missouri,Transportation carbon dioxide emissions,All Fuels,False,0.3876,0.01,52
+Missouri,Transportation carbon dioxide emissions,Natural Gas,True,0.0001,0.1,52
+Missouri,Transportation carbon dioxide emissions,Petroleum,False,0.3584,0.01,52
+Montana,Commercial carbon dioxide emissions,All Fuels,False,0.5283,0.1,52
+Montana,Commercial carbon dioxide emissions,Coal,True,0.0035,0.1,52
+Montana,Commercial carbon dioxide emissions,Natural Gas,False,0.7364,0.0448,52
+Montana,Commercial carbon dioxide emissions,Petroleum,False,0.4704,0.0221,52
+Montana,Electric Power carbon dioxide emissions,All Fuels,False,0.2981,0.01,52
+Montana,Electric Power carbon dioxide emissions,Coal,False,0.3232,0.01,52
+Montana,Electric Power carbon dioxide emissions,Natural Gas,False,0.6215,0.0494,52
+Montana,Electric Power carbon dioxide emissions,Petroleum,False,0.7025,0.01,52
+Montana,Industrial carbon dioxide emissions,All Fuels,False,0.131,0.1,52
+Montana,Industrial carbon dioxide emissions,Coal,True,0.018,0.1,52
+Montana,Industrial carbon dioxide emissions,Natural Gas,False,0.2166,0.1,52
+Montana,Industrial carbon dioxide emissions,Petroleum,False,0.0611,0.0863,52
+Montana,Residential carbon dioxide emissions,All Fuels,False,0.2062,0.1,52
+Montana,Residential carbon dioxide emissions,Coal,True,0.0064,0.1,38
+Montana,Residential carbon dioxide emissions,Natural Gas,False,0.0841,0.1,52
+Montana,Residential carbon dioxide emissions,Petroleum,False,0.29,0.1,52
+Montana,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2989,0.01,52
+Montana,Total carbon dioxide emissions from all sectors,Coal,False,0.309,0.01,52
+Montana,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9447,0.0998,52
+Montana,Total carbon dioxide emissions from all sectors,Petroleum,False,0.201,0.0246,52
+Montana,Transportation carbon dioxide emissions,All Fuels,False,0.4581,0.01,52
+Montana,Transportation carbon dioxide emissions,Natural Gas,False,0.4906,0.0127,52
+Montana,Transportation carbon dioxide emissions,Petroleum,False,0.4912,0.01,52
+Nebraska,Commercial carbon dioxide emissions,All Fuels,False,0.145,0.01,52
+Nebraska,Commercial carbon dioxide emissions,Coal,True,0.0,0.1,35
+Nebraska,Commercial carbon dioxide emissions,Natural Gas,False,0.1087,0.01,52
+Nebraska,Commercial carbon dioxide emissions,Petroleum,False,0.1389,0.0963,52
+Nebraska,Electric Power carbon dioxide emissions,All Fuels,False,0.5637,0.01,52
+Nebraska,Electric Power carbon dioxide emissions,Coal,False,0.4226,0.01,52
+Nebraska,Electric Power carbon dioxide emissions,Natural Gas,True,0.0274,0.0574,52
+Nebraska,Electric Power carbon dioxide emissions,Petroleum,False,0.3569,0.0379,52
+Nebraska,Industrial carbon dioxide emissions,All Fuels,False,0.9204,0.0183,52
+Nebraska,Industrial carbon dioxide emissions,Coal,False,0.6745,0.0127,52
+Nebraska,Industrial carbon dioxide emissions,Natural Gas,False,0.9651,0.0275,52
+Nebraska,Industrial carbon dioxide emissions,Petroleum,True,0.011,0.1,52
+Nebraska,Residential carbon dioxide emissions,All Fuels,False,0.0104,0.01,52
+Nebraska,Residential carbon dioxide emissions,Coal,False,0.0021,0.0194,35
+Nebraska,Residential carbon dioxide emissions,Natural Gas,False,0.1668,0.01,52
+Nebraska,Residential carbon dioxide emissions,Petroleum,False,0.1072,0.0217,52
+Nebraska,Total carbon dioxide emissions from all sectors,All Fuels,False,0.8537,0.01,52
+Nebraska,Total carbon dioxide emissions from all sectors,Coal,False,0.4446,0.01,52
+Nebraska,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.4226,0.1,52
+Nebraska,Total carbon dioxide emissions from all sectors,Petroleum,False,0.2526,0.01,52
+Nebraska,Transportation carbon dioxide emissions,All Fuels,False,0.5025,0.01,52
+Nebraska,Transportation carbon dioxide emissions,Natural Gas,False,0.1716,0.1,52
+Nebraska,Transportation carbon dioxide emissions,Petroleum,False,0.4604,0.01,52
+Nevada,Commercial carbon dioxide emissions,All Fuels,False,0.8795,0.01,52
+Nevada,Commercial carbon dioxide emissions,Coal,False,0.7921,0.01,37
+Nevada,Commercial carbon dioxide emissions,Natural Gas,False,0.752,0.01,52
+Nevada,Commercial carbon dioxide emissions,Petroleum,False,0.3903,0.0447,52
+Nevada,Electric Power carbon dioxide emissions,All Fuels,False,0.6109,0.0491,52
+Nevada,Electric Power carbon dioxide emissions,Coal,False,0.4606,0.0983,52
+Nevada,Electric Power carbon dioxide emissions,Natural Gas,False,0.9469,0.01,52
+Nevada,Electric Power carbon dioxide emissions,Petroleum,False,0.0013,0.0422,52
+Nevada,Industrial carbon dioxide emissions,All Fuels,False,0.3429,0.01,52
+Nevada,Industrial carbon dioxide emissions,Coal,False,0.0617,0.01,52
+Nevada,Industrial carbon dioxide emissions,Natural Gas,False,0.7568,0.0124,52
+Nevada,Industrial carbon dioxide emissions,Petroleum,False,0.1485,0.0146,52
+Nevada,Residential carbon dioxide emissions,All Fuels,False,0.9694,0.01,52
+Nevada,Residential carbon dioxide emissions,Coal,False,0.0002,0.0124,36
+Nevada,Residential carbon dioxide emissions,Natural Gas,False,0.9576,0.01,52
+Nevada,Residential carbon dioxide emissions,Petroleum,False,0.0669,0.0328,52
+Nevada,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1085,0.01,52
+Nevada,Total carbon dioxide emissions from all sectors,Coal,False,0.4401,0.1,52
+Nevada,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9648,0.01,52
+Nevada,Total carbon dioxide emissions from all sectors,Petroleum,False,0.719,0.01,52
+Nevada,Transportation carbon dioxide emissions,All Fuels,False,0.7756,0.01,52
+Nevada,Transportation carbon dioxide emissions,Natural Gas,False,0.8352,0.01,42
+Nevada,Transportation carbon dioxide emissions,Petroleum,False,0.7752,0.01,52
+New Hampshire,Commercial carbon dioxide emissions,All Fuels,False,0.2903,0.01,52
+New Hampshire,Commercial carbon dioxide emissions,Coal,False,0.2484,0.1,38
+New Hampshire,Commercial carbon dioxide emissions,Natural Gas,False,0.6464,0.01,52
+New Hampshire,Commercial carbon dioxide emissions,Petroleum,False,0.1367,0.0144,52
+New Hampshire,Electric Power carbon dioxide emissions,All Fuels,False,0.43,0.1,52
+New Hampshire,Electric Power carbon dioxide emissions,Coal,False,0.3994,0.1,52
+New Hampshire,Electric Power carbon dioxide emissions,Natural Gas,False,0.6766,0.014,43
+New Hampshire,Electric Power carbon dioxide emissions,Petroleum,False,0.4381,0.01,52
+New Hampshire,Industrial carbon dioxide emissions,All Fuels,False,0.216,0.0186,52
+New Hampshire,Industrial carbon dioxide emissions,Coal,False,0.7705,0.1,25
+New Hampshire,Industrial carbon dioxide emissions,Natural Gas,False,0.779,0.01,52
+New Hampshire,Industrial carbon dioxide emissions,Petroleum,False,0.001,0.01,52
+New Hampshire,Residential carbon dioxide emissions,All Fuels,False,0.1018,0.1,52
+New Hampshire,Residential carbon dioxide emissions,Coal,False,0.0881,0.0715,38
+New Hampshire,Residential carbon dioxide emissions,Natural Gas,False,0.7634,0.01,52
+New Hampshire,Residential carbon dioxide emissions,Petroleum,False,0.1242,0.1,52
+New Hampshire,Total carbon dioxide emissions from all sectors,All Fuels,False,0.42,0.0715,52
+New Hampshire,Total carbon dioxide emissions from all sectors,Coal,False,0.4433,0.1,52
+New Hampshire,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.7968,0.01,52
+New Hampshire,Total carbon dioxide emissions from all sectors,Petroleum,False,0.0786,0.1,52
+New Hampshire,Transportation carbon dioxide emissions,All Fuels,False,0.5442,0.01,52
+New Hampshire,Transportation carbon dioxide emissions,Natural Gas,False,0.027,0.0271,42
+New Hampshire,Transportation carbon dioxide emissions,Petroleum,False,0.543,0.01,52
+New Jersey,Commercial carbon dioxide emissions,All Fuels,False,0.0005,0.0187,52
+New Jersey,Commercial carbon dioxide emissions,Coal,False,0.4078,0.01,38
+New Jersey,Commercial carbon dioxide emissions,Natural Gas,False,0.5982,0.01,52
+New Jersey,Commercial carbon dioxide emissions,Petroleum,False,0.017,0.01,52
+New Jersey,Electric Power carbon dioxide emissions,All Fuels,True,0.0118,0.1,52
+New Jersey,Electric Power carbon dioxide emissions,Coal,False,0.5324,0.1,52
+New Jersey,Electric Power carbon dioxide emissions,Natural Gas,False,0.7861,0.01,52
+New Jersey,Electric Power carbon dioxide emissions,Petroleum,False,0.0,0.01,52
+New Jersey,Industrial carbon dioxide emissions,All Fuels,False,0.2803,0.01,52
+New Jersey,Industrial carbon dioxide emissions,Coal,False,0.537,0.1,37
+New Jersey,Industrial carbon dioxide emissions,Natural Gas,False,0.5292,0.1,52
+New Jersey,Industrial carbon dioxide emissions,Petroleum,False,0.1146,0.01,52
+New Jersey,Residential carbon dioxide emissions,All Fuels,False,0.1199,0.01,52
+New Jersey,Residential carbon dioxide emissions,Coal,False,0.3157,0.01,38
+New Jersey,Residential carbon dioxide emissions,Natural Gas,False,0.8394,0.01,52
+New Jersey,Residential carbon dioxide emissions,Petroleum,False,0.0212,0.01,52
+New Jersey,Total carbon dioxide emissions from all sectors,All Fuels,False,0.458,0.0923,52
+New Jersey,Total carbon dioxide emissions from all sectors,Coal,False,0.3956,0.1,52
+New Jersey,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.6734,0.01,52
+New Jersey,Total carbon dioxide emissions from all sectors,Petroleum,False,0.7748,0.01,52
+New Jersey,Transportation carbon dioxide emissions,All Fuels,False,0.3882,0.0536,52
+New Jersey,Transportation carbon dioxide emissions,Natural Gas,False,0.7242,0.01,52
+New Jersey,Transportation carbon dioxide emissions,Petroleum,False,0.3913,0.0573,52
+New Mexico,Commercial carbon dioxide emissions,All Fuels,True,0.0,0.0865,52
+New Mexico,Commercial carbon dioxide emissions,Coal,False,0.7342,0.1,31
+New Mexico,Commercial carbon dioxide emissions,Natural Gas,True,0.0082,0.1,52
+New Mexico,Commercial carbon dioxide emissions,Petroleum,True,0.009,0.1,52
+New Mexico,Electric Power carbon dioxide emissions,All Fuels,False,0.4964,0.0422,52
+New Mexico,Electric Power carbon dioxide emissions,Coal,False,0.3033,0.0786,52
+New Mexico,Electric Power carbon dioxide emissions,Natural Gas,False,0.7061,0.0607,52
+New Mexico,Electric Power carbon dioxide emissions,Petroleum,False,0.2092,0.0436,52
+New Mexico,Industrial carbon dioxide emissions,All Fuels,False,0.3395,0.1,52
+New Mexico,Industrial carbon dioxide emissions,Coal,False,0.2009,0.1,51
+New Mexico,Industrial carbon dioxide emissions,Natural Gas,False,0.0863,0.1,52
+New Mexico,Industrial carbon dioxide emissions,Petroleum,True,0.0128,0.052,52
+New Mexico,Residential carbon dioxide emissions,All Fuels,False,0.3217,0.0345,52
+New Mexico,Residential carbon dioxide emissions,Coal,False,0.9638,0.0417,31
+New Mexico,Residential carbon dioxide emissions,Natural Gas,False,0.8033,0.01,52
+New Mexico,Residential carbon dioxide emissions,Petroleum,False,0.1516,0.1,52
+New Mexico,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2911,0.0137,52
+New Mexico,Total carbon dioxide emissions from all sectors,Coal,False,0.6687,0.0781,52
+New Mexico,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.2709,0.1,52
+New Mexico,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3504,0.01,52
+New Mexico,Transportation carbon dioxide emissions,All Fuels,False,0.3323,0.01,52
+New Mexico,Transportation carbon dioxide emissions,Natural Gas,False,0.3366,0.0604,52
+New Mexico,Transportation carbon dioxide emissions,Petroleum,False,0.6755,0.01,52
+New York,Commercial carbon dioxide emissions,All Fuels,False,0.2828,0.0265,52
+New York,Commercial carbon dioxide emissions,Coal,False,0.6823,0.01,42
+New York,Commercial carbon dioxide emissions,Natural Gas,False,0.6639,0.01,52
+New York,Commercial carbon dioxide emissions,Petroleum,False,0.9374,0.01,52
+New York,Electric Power carbon dioxide emissions,All Fuels,False,0.8995,0.01,52
+New York,Electric Power carbon dioxide emissions,Coal,False,0.9777,0.0765,51
+New York,Electric Power carbon dioxide emissions,Natural Gas,False,0.8124,0.01,52
+New York,Electric Power carbon dioxide emissions,Petroleum,False,0.8488,0.01,52
+New York,Industrial carbon dioxide emissions,All Fuels,False,0.0136,0.01,52
+New York,Industrial carbon dioxide emissions,Coal,False,0.0028,0.01,52
+New York,Industrial carbon dioxide emissions,Natural Gas,False,0.1568,0.1,52
+New York,Industrial carbon dioxide emissions,Petroleum,False,0.1311,0.01,52
+New York,Residential carbon dioxide emissions,All Fuels,False,0.0573,0.0148,52
+New York,Residential carbon dioxide emissions,Coal,False,0.5779,0.01,38
+New York,Residential carbon dioxide emissions,Natural Gas,False,0.9943,0.01,52
+New York,Residential carbon dioxide emissions,Petroleum,False,0.0938,0.01,52
+New York,Total carbon dioxide emissions from all sectors,All Fuels,False,0.044,0.01,52
+New York,Total carbon dioxide emissions from all sectors,Coal,False,0.9465,0.01,52
+New York,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.8639,0.01,52
+New York,Total carbon dioxide emissions from all sectors,Petroleum,False,0.5898,0.01,52
+New York,Transportation carbon dioxide emissions,All Fuels,False,0.4235,0.1,52
+New York,Transportation carbon dioxide emissions,Natural Gas,False,0.9926,0.01,52
+New York,Transportation carbon dioxide emissions,Petroleum,False,0.4008,0.1,52
+North Carolina,Commercial carbon dioxide emissions,All Fuels,False,0.8465,0.01,52
+North Carolina,Commercial carbon dioxide emissions,Coal,True,0.002,0.1,52
+North Carolina,Commercial carbon dioxide emissions,Natural Gas,False,0.9722,0.01,52
+North Carolina,Commercial carbon dioxide emissions,Petroleum,True,0.0135,0.1,52
+North Carolina,Electric Power carbon dioxide emissions,All Fuels,False,0.5783,0.0918,52
+North Carolina,Electric Power carbon dioxide emissions,Coal,False,0.6016,0.1,52
+North Carolina,Electric Power carbon dioxide emissions,Natural Gas,False,0.9984,0.0106,52
+North Carolina,Electric Power carbon dioxide emissions,Petroleum,False,0.0551,0.0709,52
+North Carolina,Industrial carbon dioxide emissions,All Fuels,False,0.7872,0.01,52
+North Carolina,Industrial carbon dioxide emissions,Coal,False,0.3923,0.0292,52
+North Carolina,Industrial carbon dioxide emissions,Natural Gas,False,0.1747,0.01,52
+North Carolina,Industrial carbon dioxide emissions,Petroleum,False,0.6894,0.01,52
+North Carolina,Residential carbon dioxide emissions,All Fuels,False,0.1233,0.01,52
+North Carolina,Residential carbon dioxide emissions,Coal,False,0.0088,0.0229,38
+North Carolina,Residential carbon dioxide emissions,Natural Gas,False,0.9221,0.01,52
+North Carolina,Residential carbon dioxide emissions,Petroleum,False,0.2803,0.01,52
+North Carolina,Total carbon dioxide emissions from all sectors,All Fuels,False,0.449,0.0191,52
+North Carolina,Total carbon dioxide emissions from all sectors,Coal,False,0.6696,0.1,52
+North Carolina,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9979,0.01,52
+North Carolina,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3312,0.01,52
+North Carolina,Transportation carbon dioxide emissions,All Fuels,False,0.564,0.01,52
+North Carolina,Transportation carbon dioxide emissions,Natural Gas,True,0.0137,0.1,52
+North Carolina,Transportation carbon dioxide emissions,Petroleum,False,0.564,0.01,52
+North Dakota,Commercial carbon dioxide emissions,All Fuels,True,0.0311,0.0909,52
+North Dakota,Commercial carbon dioxide emissions,Coal,False,0.2125,0.1,52
+North Dakota,Commercial carbon dioxide emissions,Natural Gas,False,0.8502,0.0215,52
+North Dakota,Commercial carbon dioxide emissions,Petroleum,False,0.1448,0.1,52
+North Dakota,Electric Power carbon dioxide emissions,All Fuels,False,0.0317,0.01,52
+North Dakota,Electric Power carbon dioxide emissions,Coal,False,0.032,0.01,52
+North Dakota,Electric Power carbon dioxide emissions,Natural Gas,False,0.9108,0.0371,47
+North Dakota,Electric Power carbon dioxide emissions,Petroleum,True,0.0055,0.1,52
+North Dakota,Industrial carbon dioxide emissions,All Fuels,False,0.9092,0.01,52
+North Dakota,Industrial carbon dioxide emissions,Coal,False,0.4377,0.01,52
+North Dakota,Industrial carbon dioxide emissions,Natural Gas,False,0.999,0.01,52
+North Dakota,Industrial carbon dioxide emissions,Petroleum,False,0.5456,0.0193,52
+North Dakota,Residential carbon dioxide emissions,All Fuels,False,0.0,0.0437,52
+North Dakota,Residential carbon dioxide emissions,Coal,False,0.0014,0.01,38
+North Dakota,Residential carbon dioxide emissions,Natural Gas,False,0.0029,0.01,52
+North Dakota,Residential carbon dioxide emissions,Petroleum,False,0.0018,0.0184,52
+North Dakota,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1499,0.01,52
+North Dakota,Total carbon dioxide emissions from all sectors,Coal,False,0.0643,0.01,52
+North Dakota,Total carbon dioxide emissions from all sectors,Natural Gas,False,1.0,0.01,52
+North Dakota,Total carbon dioxide emissions from all sectors,Petroleum,False,0.788,0.0116,52
+North Dakota,Transportation carbon dioxide emissions,All Fuels,False,0.9971,0.01,52
+North Dakota,Transportation carbon dioxide emissions,Natural Gas,False,0.9931,0.01,52
+North Dakota,Transportation carbon dioxide emissions,Petroleum,False,0.9887,0.01,52
+Ohio,Commercial carbon dioxide emissions,All Fuels,False,0.0326,0.0157,52
+Ohio,Commercial carbon dioxide emissions,Coal,False,0.6463,0.01,48
+Ohio,Commercial carbon dioxide emissions,Natural Gas,True,0.0086,0.1,52
+Ohio,Commercial carbon dioxide emissions,Petroleum,False,0.0862,0.1,52
+Ohio,Electric Power carbon dioxide emissions,All Fuels,False,0.8072,0.1,52
+Ohio,Electric Power carbon dioxide emissions,Coal,False,0.8669,0.1,52
+Ohio,Electric Power carbon dioxide emissions,Natural Gas,False,0.6305,0.0123,52
+Ohio,Electric Power carbon dioxide emissions,Petroleum,False,0.2588,0.1,52
+Ohio,Industrial carbon dioxide emissions,All Fuels,False,0.0,0.01,52
+Ohio,Industrial carbon dioxide emissions,Coal,False,0.1108,0.01,52
+Ohio,Industrial carbon dioxide emissions,Natural Gas,True,0.0015,0.1,52
+Ohio,Industrial carbon dioxide emissions,Petroleum,False,0.5375,0.0124,52
+Ohio,Residential carbon dioxide emissions,All Fuels,False,0.1848,0.01,52
+Ohio,Residential carbon dioxide emissions,Coal,False,0.0218,0.01,38
+Ohio,Residential carbon dioxide emissions,Natural Gas,False,0.111,0.01,52
+Ohio,Residential carbon dioxide emissions,Petroleum,False,0.0008,0.01,52
+Ohio,Total carbon dioxide emissions from all sectors,All Fuels,False,0.9705,0.0141,52
+Ohio,Total carbon dioxide emissions from all sectors,Coal,False,0.9961,0.01,52
+Ohio,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.8203,0.1,52
+Ohio,Total carbon dioxide emissions from all sectors,Petroleum,True,0.035,0.1,52
+Ohio,Transportation carbon dioxide emissions,All Fuels,False,0.668,0.0249,52
+Ohio,Transportation carbon dioxide emissions,Natural Gas,False,0.9936,0.0202,52
+Ohio,Transportation carbon dioxide emissions,Petroleum,False,0.6641,0.0348,52
+Oklahoma,Commercial carbon dioxide emissions,All Fuels,True,0.0371,0.1,52
+Oklahoma,Commercial carbon dioxide emissions,Coal,False,0.1017,0.1,36
+Oklahoma,Commercial carbon dioxide emissions,Natural Gas,True,0.0,0.1,52
+Oklahoma,Commercial carbon dioxide emissions,Petroleum,False,0.461,0.1,52
+Oklahoma,Electric Power carbon dioxide emissions,All Fuels,False,0.2837,0.0153,52
+Oklahoma,Electric Power carbon dioxide emissions,Coal,False,0.1928,0.0307,51
+Oklahoma,Electric Power carbon dioxide emissions,Natural Gas,False,0.4351,0.1,52
+Oklahoma,Electric Power carbon dioxide emissions,Petroleum,False,0.0,0.0186,52
+Oklahoma,Industrial carbon dioxide emissions,All Fuels,True,0.0293,0.1,52
+Oklahoma,Industrial carbon dioxide emissions,Coal,False,0.3056,0.1,51
+Oklahoma,Industrial carbon dioxide emissions,Natural Gas,False,0.0635,0.1,52
+Oklahoma,Industrial carbon dioxide emissions,Petroleum,False,0.1314,0.1,52
+Oklahoma,Residential carbon dioxide emissions,All Fuels,False,0.3976,0.01,52
+Oklahoma,Residential carbon dioxide emissions,Coal,True,0.0,0.1,34
+Oklahoma,Residential carbon dioxide emissions,Natural Gas,False,0.7794,0.01,52
+Oklahoma,Residential carbon dioxide emissions,Petroleum,False,0.1479,0.0351,52
+Oklahoma,Total carbon dioxide emissions from all sectors,All Fuels,False,0.105,0.01,52
+Oklahoma,Total carbon dioxide emissions from all sectors,Coal,False,0.2424,0.025,52
+Oklahoma,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.4331,0.1,52
+Oklahoma,Total carbon dioxide emissions from all sectors,Petroleum,False,0.8758,0.01,52
+Oklahoma,Transportation carbon dioxide emissions,All Fuels,False,0.5511,0.01,52
+Oklahoma,Transportation carbon dioxide emissions,Natural Gas,False,0.5765,0.01,52
+Oklahoma,Transportation carbon dioxide emissions,Petroleum,False,0.5009,0.01,52
+Oregon,Commercial carbon dioxide emissions,All Fuels,True,0.0009,0.1,52
+Oregon,Commercial carbon dioxide emissions,Coal,False,0.535,0.0123,28
+Oregon,Commercial carbon dioxide emissions,Natural Gas,False,0.5171,0.01,52
+Oregon,Commercial carbon dioxide emissions,Petroleum,False,0.047,0.01,52
+Oregon,Electric Power carbon dioxide emissions,All Fuels,False,0.7515,0.01,52
+Oregon,Electric Power carbon dioxide emissions,Coal,False,0.0803,0.0979,38
+Oregon,Electric Power carbon dioxide emissions,Natural Gas,False,0.9613,0.01,44
+Oregon,Electric Power carbon dioxide emissions,Petroleum,True,0.0246,0.1,52
+Oregon,Industrial carbon dioxide emissions,All Fuels,False,0.2699,0.0212,52
+Oregon,Industrial carbon dioxide emissions,Coal,False,0.3644,0.0236,48
+Oregon,Industrial carbon dioxide emissions,Natural Gas,False,0.4862,0.1,52
+Oregon,Industrial carbon dioxide emissions,Petroleum,False,0.0376,0.01,52
+Oregon,Residential carbon dioxide emissions,All Fuels,False,0.6794,0.0409,52
+Oregon,Residential carbon dioxide emissions,Coal,False,0.0008,0.0224,28
+Oregon,Residential carbon dioxide emissions,Natural Gas,False,0.8764,0.01,52
+Oregon,Residential carbon dioxide emissions,Petroleum,False,0.116,0.01,52
+Oregon,Total carbon dioxide emissions from all sectors,All Fuels,False,0.487,0.01,52
+Oregon,Total carbon dioxide emissions from all sectors,Coal,False,0.27,0.0174,52
+Oregon,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9497,0.01,52
+Oregon,Total carbon dioxide emissions from all sectors,Petroleum,True,0.0188,0.1,52
+Oregon,Transportation carbon dioxide emissions,All Fuels,False,0.0915,0.01,52
+Oregon,Transportation carbon dioxide emissions,Natural Gas,False,0.3029,0.1,52
+Oregon,Transportation carbon dioxide emissions,Petroleum,False,0.0896,0.01,52
+Pennsylvania,Commercial carbon dioxide emissions,All Fuels,False,0.9223,0.01,52
+Pennsylvania,Commercial carbon dioxide emissions,Coal,False,0.9267,0.01,52
+Pennsylvania,Commercial carbon dioxide emissions,Natural Gas,False,0.9081,0.01,52
+Pennsylvania,Commercial carbon dioxide emissions,Petroleum,False,0.186,0.01,52
+Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,False,0.179,0.1,52
+Pennsylvania,Electric Power carbon dioxide emissions,Coal,False,0.1332,0.1,52
+Pennsylvania,Electric Power carbon dioxide emissions,Natural Gas,False,0.9302,0.01,52
+Pennsylvania,Electric Power carbon dioxide emissions,Petroleum,False,0.0114,0.01,52
+Pennsylvania,Industrial carbon dioxide emissions,All Fuels,False,0.0622,0.01,52
+Pennsylvania,Industrial carbon dioxide emissions,Coal,False,0.0802,0.01,52
+Pennsylvania,Industrial carbon dioxide emissions,Natural Gas,False,0.666,0.1,52
+Pennsylvania,Industrial carbon dioxide emissions,Petroleum,False,0.0002,0.01,52
+Pennsylvania,Residential carbon dioxide emissions,All Fuels,False,0.2318,0.01,52
+Pennsylvania,Residential carbon dioxide emissions,Coal,False,0.0,0.01,38
+Pennsylvania,Residential carbon dioxide emissions,Natural Gas,False,0.2878,0.01,52
+Pennsylvania,Residential carbon dioxide emissions,Petroleum,False,0.5956,0.01,52
+Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,False,0.633,0.01,52
+Pennsylvania,Total carbon dioxide emissions from all sectors,Coal,False,0.9874,0.01,52
+Pennsylvania,Total carbon dioxide emissions from all sectors,Natural Gas,False,1.0,0.0158,52
+Pennsylvania,Total carbon dioxide emissions from all sectors,Petroleum,False,0.7572,0.015,52
+Pennsylvania,Transportation carbon dioxide emissions,All Fuels,False,0.3421,0.0381,52
+Pennsylvania,Transportation carbon dioxide emissions,Natural Gas,False,0.6179,0.01,52
+Pennsylvania,Transportation carbon dioxide emissions,Petroleum,False,0.3882,0.0534,52
+Rhode Island,Commercial carbon dioxide emissions,All Fuels,False,0.1116,0.1,52
+Rhode Island,Commercial carbon dioxide emissions,Coal,False,0.2189,0.1,38
+Rhode Island,Commercial carbon dioxide emissions,Natural Gas,False,0.5286,0.01,52
+Rhode Island,Commercial carbon dioxide emissions,Petroleum,False,0.2668,0.01,52
+Rhode Island,Electric Power carbon dioxide emissions,All Fuels,False,0.7934,0.01,52
+Rhode Island,Electric Power carbon dioxide emissions,Natural Gas,False,0.7664,0.01,49
+Rhode Island,Electric Power carbon dioxide emissions,Petroleum,False,0.1122,0.01,52
+Rhode Island,Industrial carbon dioxide emissions,All Fuels,False,0.2142,0.0356,52
+Rhode Island,Industrial carbon dioxide emissions,Coal,False,0.9988,0.1,19
+Rhode Island,Industrial carbon dioxide emissions,Natural Gas,True,0.0119,0.1,52
+Rhode Island,Industrial carbon dioxide emissions,Petroleum,False,0.0,0.01,52
+Rhode Island,Residential carbon dioxide emissions,All Fuels,False,0.1704,0.0164,52
+Rhode Island,Residential carbon dioxide emissions,Coal,False,0.707,0.01,38
+Rhode Island,Residential carbon dioxide emissions,Natural Gas,False,0.4271,0.01,52
+Rhode Island,Residential carbon dioxide emissions,Petroleum,False,0.2848,0.01,52
+Rhode Island,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2034,0.1,52
+Rhode Island,Total carbon dioxide emissions from all sectors,Coal,False,0.2661,0.0392,38
+Rhode Island,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.7055,0.01,52
+Rhode Island,Total carbon dioxide emissions from all sectors,Petroleum,False,0.1442,0.01,52
+Rhode Island,Transportation carbon dioxide emissions,All Fuels,False,0.3027,0.1,52
+Rhode Island,Transportation carbon dioxide emissions,Natural Gas,False,0.8092,0.01,52
+Rhode Island,Transportation carbon dioxide emissions,Petroleum,False,0.4054,0.1,52
+South Carolina,Commercial carbon dioxide emissions,All Fuels,True,0.0182,0.1,52
+South Carolina,Commercial carbon dioxide emissions,Coal,False,0.0013,0.0179,36
+South Carolina,Commercial carbon dioxide emissions,Natural Gas,False,0.1716,0.0466,52
+South Carolina,Commercial carbon dioxide emissions,Petroleum,False,0.1822,0.1,52
+South Carolina,Electric Power carbon dioxide emissions,All Fuels,False,0.4014,0.01,52
+South Carolina,Electric Power carbon dioxide emissions,Coal,False,0.3216,0.0354,52
+South Carolina,Electric Power carbon dioxide emissions,Natural Gas,False,0.9991,0.01,52
+South Carolina,Electric Power carbon dioxide emissions,Petroleum,False,0.3263,0.0304,52
+South Carolina,Industrial carbon dioxide emissions,All Fuels,False,0.9173,0.0802,52
+South Carolina,Industrial carbon dioxide emissions,Coal,False,0.9864,0.0312,52
+South Carolina,Industrial carbon dioxide emissions,Natural Gas,False,0.1613,0.1,52
+South Carolina,Industrial carbon dioxide emissions,Petroleum,False,0.3619,0.1,52
+South Carolina,Residential carbon dioxide emissions,All Fuels,False,0.0685,0.01,52
+South Carolina,Residential carbon dioxide emissions,Coal,False,0.0115,0.0184,31
+South Carolina,Residential carbon dioxide emissions,Natural Gas,False,0.4106,0.01,52
+South Carolina,Residential carbon dioxide emissions,Petroleum,False,0.3162,0.01,52
+South Carolina,Total carbon dioxide emissions from all sectors,All Fuels,False,0.4037,0.01,52
+South Carolina,Total carbon dioxide emissions from all sectors,Coal,False,0.3078,0.0753,52
+South Carolina,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9991,0.01,52
+South Carolina,Total carbon dioxide emissions from all sectors,Petroleum,False,0.5266,0.01,52
+South Carolina,Transportation carbon dioxide emissions,All Fuels,False,0.7166,0.01,52
+South Carolina,Transportation carbon dioxide emissions,Natural Gas,True,0.0007,0.1,52
+South Carolina,Transportation carbon dioxide emissions,Petroleum,False,0.715,0.01,52
+South Dakota,Commercial carbon dioxide emissions,All Fuels,True,0.045,0.1,52
+South Dakota,Commercial carbon dioxide emissions,Coal,False,0.0015,0.0145,41
+South Dakota,Commercial carbon dioxide emissions,Natural Gas,False,0.0788,0.1,52
+South Dakota,Commercial carbon dioxide emissions,Petroleum,False,0.0493,0.01,52
+South Dakota,Electric Power carbon dioxide emissions,All Fuels,True,0.0287,0.0778,52
+South Dakota,Electric Power carbon dioxide emissions,Coal,True,0.0484,0.1,52
+South Dakota,Electric Power carbon dioxide emissions,Natural Gas,False,0.9837,0.0222,52
+South Dakota,Electric Power carbon dioxide emissions,Petroleum,False,0.0015,0.0167,52
+South Dakota,Industrial carbon dioxide emissions,All Fuels,False,0.982,0.01,52
+South Dakota,Industrial carbon dioxide emissions,Coal,False,0.1737,0.1,52
+South Dakota,Industrial carbon dioxide emissions,Natural Gas,False,0.9399,0.01,52
+South Dakota,Industrial carbon dioxide emissions,Petroleum,False,0.6618,0.01,52
+South Dakota,Residential carbon dioxide emissions,All Fuels,False,0.0138,0.01,52
+South Dakota,Residential carbon dioxide emissions,Coal,False,0.0611,0.01,37
+South Dakota,Residential carbon dioxide emissions,Natural Gas,False,0.0063,0.0437,52
+South Dakota,Residential carbon dioxide emissions,Petroleum,False,0.8404,0.01,52
+South Dakota,Total carbon dioxide emissions from all sectors,All Fuels,False,0.4624,0.01,52
+South Dakota,Total carbon dioxide emissions from all sectors,Coal,False,0.0573,0.1,52
+South Dakota,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.995,0.01,52
+South Dakota,Total carbon dioxide emissions from all sectors,Petroleum,False,0.4279,0.01,52
+South Dakota,Transportation carbon dioxide emissions,All Fuels,False,0.8897,0.01,52
+South Dakota,Transportation carbon dioxide emissions,Natural Gas,False,0.7686,0.01,52
+South Dakota,Transportation carbon dioxide emissions,Petroleum,False,0.8776,0.01,52
+Tennessee,Commercial carbon dioxide emissions,All Fuels,False,0.0584,0.1,52
+Tennessee,Commercial carbon dioxide emissions,Coal,False,0.0541,0.01,46
+Tennessee,Commercial carbon dioxide emissions,Natural Gas,False,0.8357,0.01,52
+Tennessee,Commercial carbon dioxide emissions,Petroleum,False,0.1604,0.1,52
+Tennessee,Electric Power carbon dioxide emissions,All Fuels,False,0.6457,0.1,52
+Tennessee,Electric Power carbon dioxide emissions,Coal,False,0.8141,0.1,52
+Tennessee,Electric Power carbon dioxide emissions,Natural Gas,False,0.9387,0.0216,42
+Tennessee,Electric Power carbon dioxide emissions,Petroleum,True,0.0127,0.1,51
+Tennessee,Industrial carbon dioxide emissions,All Fuels,False,0.4149,0.0895,52
+Tennessee,Industrial carbon dioxide emissions,Coal,False,0.9027,0.098,52
+Tennessee,Industrial carbon dioxide emissions,Natural Gas,True,0.0005,0.1,52
+Tennessee,Industrial carbon dioxide emissions,Petroleum,False,0.294,0.1,52
+Tennessee,Residential carbon dioxide emissions,All Fuels,True,0.0499,0.1,52
+Tennessee,Residential carbon dioxide emissions,Coal,False,0.0,0.0117,38
+Tennessee,Residential carbon dioxide emissions,Natural Gas,False,0.7038,0.01,52
+Tennessee,Residential carbon dioxide emissions,Petroleum,False,0.388,0.01,52
+Tennessee,Total carbon dioxide emissions from all sectors,All Fuels,False,0.2387,0.0989,52
+Tennessee,Total carbon dioxide emissions from all sectors,Coal,False,0.8833,0.1,52
+Tennessee,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9772,0.0217,52
+Tennessee,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3305,0.01,52
+Tennessee,Transportation carbon dioxide emissions,All Fuels,False,0.4381,0.01,52
+Tennessee,Transportation carbon dioxide emissions,Natural Gas,False,0.1367,0.0195,52
+Tennessee,Transportation carbon dioxide emissions,Petroleum,False,0.3777,0.01,52
+Texas,Commercial carbon dioxide emissions,All Fuels,True,0.0014,0.1,52
+Texas,Commercial carbon dioxide emissions,Coal,True,0.0199,0.1,37
+Texas,Commercial carbon dioxide emissions,Natural Gas,False,0.0005,0.0451,52
+Texas,Commercial carbon dioxide emissions,Petroleum,False,0.3148,0.071,52
+Texas,Electric Power carbon dioxide emissions,All Fuels,False,0.0109,0.01,52
+Texas,Electric Power carbon dioxide emissions,Coal,False,0.9519,0.01,51
+Texas,Electric Power carbon dioxide emissions,Natural Gas,False,0.6832,0.0223,52
+Texas,Electric Power carbon dioxide emissions,Petroleum,False,0.0957,0.1,52
+Texas,Industrial carbon dioxide emissions,All Fuels,True,0.0478,0.1,52
+Texas,Industrial carbon dioxide emissions,Coal,False,0.5902,0.0252,52
+Texas,Industrial carbon dioxide emissions,Natural Gas,True,0.0014,0.1,52
+Texas,Industrial carbon dioxide emissions,Petroleum,False,0.2214,0.01,52
+Texas,Residential carbon dioxide emissions,All Fuels,False,0.134,0.01,52
+Texas,Residential carbon dioxide emissions,Coal,True,0.0184,0.1,26
+Texas,Residential carbon dioxide emissions,Natural Gas,False,0.0933,0.01,52
+Texas,Residential carbon dioxide emissions,Petroleum,False,0.0434,0.0428,52
+Texas,Total carbon dioxide emissions from all sectors,All Fuels,False,0.156,0.01,52
+Texas,Total carbon dioxide emissions from all sectors,Coal,False,0.7706,0.01,52
+Texas,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.4481,0.1,52
+Texas,Total carbon dioxide emissions from all sectors,Petroleum,False,0.2785,0.01,52
+Texas,Transportation carbon dioxide emissions,All Fuels,False,0.3071,0.01,52
+Texas,Transportation carbon dioxide emissions,Natural Gas,False,0.9621,0.0738,52
+Texas,Transportation carbon dioxide emissions,Petroleum,False,0.2578,0.01,52
+United States,Commercial carbon dioxide emissions,All Fuels,False,0.0919,0.0364,52
+United States,Commercial carbon dioxide emissions,Coal,False,0.8916,0.01,52
+United States,Commercial carbon dioxide emissions,Natural Gas,False,0.8886,0.01,52
+United States,Commercial carbon dioxide emissions,Petroleum,False,0.2875,0.01,52
+United States,Electric Power carbon dioxide emissions,All Fuels,False,0.5383,0.0163,52
+United States,Electric Power carbon dioxide emissions,Coal,False,0.2056,0.0415,52
+United States,Electric Power carbon dioxide emissions,Natural Gas,False,1.0,0.01,52
+United States,Electric Power carbon dioxide emissions,Petroleum,False,0.801,0.01,52
+United States,Industrial carbon dioxide emissions,All Fuels,False,0.2181,0.0127,52
+United States,Industrial carbon dioxide emissions,Coal,False,0.2075,0.01,52
+United States,Industrial carbon dioxide emissions,Natural Gas,True,0.0006,0.1,52
+United States,Industrial carbon dioxide emissions,Petroleum,False,0.1245,0.0497,52
+United States,Residential carbon dioxide emissions,All Fuels,False,0.0878,0.01,52
+United States,Residential carbon dioxide emissions,Coal,False,0.4151,0.01,38
+United States,Residential carbon dioxide emissions,Natural Gas,True,0.0355,0.1,52
+United States,Residential carbon dioxide emissions,Petroleum,False,0.0165,0.01,52
+United States,Total carbon dioxide emissions from all sectors,All Fuels,False,0.6491,0.0157,52
+United States,Total carbon dioxide emissions from all sectors,Coal,False,0.2951,0.0947,52
+United States,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9937,0.01,52
+United States,Total carbon dioxide emissions from all sectors,Petroleum,False,0.1433,0.1,52
+United States,Transportation carbon dioxide emissions,All Fuels,False,0.2727,0.01,52
+United States,Transportation carbon dioxide emissions,Natural Gas,False,0.9933,0.0208,52
+United States,Transportation carbon dioxide emissions,Petroleum,False,0.2394,0.01,52
+Utah,Commercial carbon dioxide emissions,All Fuels,False,0.9479,0.01,52
+Utah,Commercial carbon dioxide emissions,Coal,False,0.0032,0.0467,38
+Utah,Commercial carbon dioxide emissions,Natural Gas,False,0.9178,0.01,52
+Utah,Commercial carbon dioxide emissions,Petroleum,False,0.4395,0.0283,52
+Utah,Electric Power carbon dioxide emissions,All Fuels,False,0.3293,0.01,52
+Utah,Electric Power carbon dioxide emissions,Coal,False,0.2619,0.01,52
+Utah,Electric Power carbon dioxide emissions,Natural Gas,False,0.9684,0.01,52
+Utah,Electric Power carbon dioxide emissions,Petroleum,False,0.0,0.042,52
+Utah,Industrial carbon dioxide emissions,All Fuels,False,0.3323,0.01,52
+Utah,Industrial carbon dioxide emissions,Coal,False,0.8052,0.01,52
+Utah,Industrial carbon dioxide emissions,Natural Gas,False,0.1546,0.0873,52
+Utah,Industrial carbon dioxide emissions,Petroleum,False,0.5466,0.1,52
+Utah,Residential carbon dioxide emissions,All Fuels,False,0.9552,0.01,52
+Utah,Residential carbon dioxide emissions,Coal,False,0.2858,0.01,38
+Utah,Residential carbon dioxide emissions,Natural Gas,False,0.92,0.01,52
+Utah,Residential carbon dioxide emissions,Petroleum,False,0.1573,0.06,52
+Utah,Total carbon dioxide emissions from all sectors,All Fuels,False,0.3551,0.01,52
+Utah,Total carbon dioxide emissions from all sectors,Coal,False,0.3143,0.0115,52
+Utah,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.956,0.01,52
+Utah,Total carbon dioxide emissions from all sectors,Petroleum,False,0.8209,0.01,52
+Utah,Transportation carbon dioxide emissions,All Fuels,False,0.7596,0.01,52
+Utah,Transportation carbon dioxide emissions,Natural Gas,False,0.9384,0.01,52
+Utah,Transportation carbon dioxide emissions,Petroleum,False,0.7269,0.01,52
+Vermont,Commercial carbon dioxide emissions,All Fuels,False,0.4574,0.0154,52
+Vermont,Commercial carbon dioxide emissions,Coal,False,0.4436,0.01,38
+Vermont,Commercial carbon dioxide emissions,Natural Gas,False,0.9944,0.01,52
+Vermont,Commercial carbon dioxide emissions,Petroleum,False,0.0614,0.1,52
+Vermont,Electric Power carbon dioxide emissions,All Fuels,False,0.002,0.01,52
+Vermont,Electric Power carbon dioxide emissions,Coal,False,0.1029,0.1,17
+Vermont,Electric Power carbon dioxide emissions,Natural Gas,False,0.0016,0.0206,49
+Vermont,Electric Power carbon dioxide emissions,Petroleum,True,0.0176,0.0728,52
+Vermont,Industrial carbon dioxide emissions,All Fuels,True,0.0003,0.0776,52
+Vermont,Industrial carbon dioxide emissions,Coal,False,1.0,0.0781,25
+Vermont,Industrial carbon dioxide emissions,Natural Gas,False,0.1622,0.0151,52
+Vermont,Industrial carbon dioxide emissions,Petroleum,False,0.0294,0.018,52
+Vermont,Residential carbon dioxide emissions,All Fuels,True,0.0446,0.1,52
+Vermont,Residential carbon dioxide emissions,Coal,False,0.0008,0.01,38
+Vermont,Residential carbon dioxide emissions,Natural Gas,False,0.9332,0.01,52
+Vermont,Residential carbon dioxide emissions,Petroleum,False,0.0688,0.0586,52
+Vermont,Total carbon dioxide emissions from all sectors,All Fuels,False,0.3724,0.067,52
+Vermont,Total carbon dioxide emissions from all sectors,Coal,False,0.0806,0.0274,38
+Vermont,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9689,0.01,52
+Vermont,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3973,0.1,52
+Vermont,Transportation carbon dioxide emissions,All Fuels,False,0.3161,0.0127,52
+Vermont,Transportation carbon dioxide emissions,Natural Gas,True,0.016,0.0956,38
+Vermont,Transportation carbon dioxide emissions,Petroleum,False,0.3162,0.0128,52
+Virginia,Commercial carbon dioxide emissions,All Fuels,False,0.364,0.01,52
+Virginia,Commercial carbon dioxide emissions,Coal,False,0.8132,0.01,52
+Virginia,Commercial carbon dioxide emissions,Natural Gas,False,0.8298,0.01,52
+Virginia,Commercial carbon dioxide emissions,Petroleum,True,0.0256,0.1,52
+Virginia,Electric Power carbon dioxide emissions,All Fuels,False,0.4962,0.0338,52
+Virginia,Electric Power carbon dioxide emissions,Coal,False,0.1114,0.1,52
+Virginia,Electric Power carbon dioxide emissions,Natural Gas,False,0.9988,0.01,52
+Virginia,Electric Power carbon dioxide emissions,Petroleum,False,0.1034,0.0128,52
+Virginia,Industrial carbon dioxide emissions,All Fuels,False,0.7697,0.0445,52
+Virginia,Industrial carbon dioxide emissions,Coal,False,0.8866,0.075,52
+Virginia,Industrial carbon dioxide emissions,Natural Gas,False,0.9227,0.01,52
+Virginia,Industrial carbon dioxide emissions,Petroleum,False,0.7766,0.01,52
+Virginia,Residential carbon dioxide emissions,All Fuels,False,0.026,0.0232,52
+Virginia,Residential carbon dioxide emissions,Coal,False,0.0001,0.0176,38
+Virginia,Residential carbon dioxide emissions,Natural Gas,False,0.8861,0.01,52
+Virginia,Residential carbon dioxide emissions,Petroleum,False,0.7468,0.01,52
+Virginia,Total carbon dioxide emissions from all sectors,All Fuels,False,0.6006,0.0123,52
+Virginia,Total carbon dioxide emissions from all sectors,Coal,False,0.2678,0.1,52
+Virginia,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9988,0.01,52
+Virginia,Total carbon dioxide emissions from all sectors,Petroleum,False,0.3192,0.1,52
+Virginia,Transportation carbon dioxide emissions,All Fuels,False,0.584,0.01,52
+Virginia,Transportation carbon dioxide emissions,Natural Gas,False,0.9529,0.0149,52
+Virginia,Transportation carbon dioxide emissions,Petroleum,False,0.5686,0.01,52
+Washington,Commercial carbon dioxide emissions,All Fuels,False,0.2395,0.01,52
+Washington,Commercial carbon dioxide emissions,Coal,False,0.4277,0.1,37
+Washington,Commercial carbon dioxide emissions,Natural Gas,False,0.5348,0.01,52
+Washington,Commercial carbon dioxide emissions,Petroleum,False,0.1879,0.1,52
+Washington,Electric Power carbon dioxide emissions,All Fuels,False,0.1421,0.01,52
+Washington,Electric Power carbon dioxide emissions,Coal,False,0.6116,0.1,50
+Washington,Electric Power carbon dioxide emissions,Natural Gas,False,0.9718,0.01,44
+Washington,Electric Power carbon dioxide emissions,Petroleum,True,0.0263,0.1,52
+Washington,Industrial carbon dioxide emissions,All Fuels,False,0.1374,0.0287,52
+Washington,Industrial carbon dioxide emissions,Coal,False,0.0503,0.01,52
+Washington,Industrial carbon dioxide emissions,Natural Gas,False,0.1252,0.1,52
+Washington,Industrial carbon dioxide emissions,Petroleum,False,0.0526,0.011,52
+Washington,Residential carbon dioxide emissions,All Fuels,False,0.8043,0.0189,52
+Washington,Residential carbon dioxide emissions,Coal,False,0.5982,0.068,35
+Washington,Residential carbon dioxide emissions,Natural Gas,False,0.9602,0.01,52
+Washington,Residential carbon dioxide emissions,Petroleum,False,0.0284,0.01,52
+Washington,Total carbon dioxide emissions from all sectors,All Fuels,False,0.1507,0.01,52
+Washington,Total carbon dioxide emissions from all sectors,Coal,False,0.2745,0.1,52
+Washington,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9469,0.01,52
+Washington,Total carbon dioxide emissions from all sectors,Petroleum,False,0.1716,0.0182,52
+Washington,Transportation carbon dioxide emissions,All Fuels,False,0.2283,0.01,52
+Washington,Transportation carbon dioxide emissions,Natural Gas,False,0.9059,0.01,52
+Washington,Transportation carbon dioxide emissions,Petroleum,False,0.2157,0.01,52
+West Virginia,Commercial carbon dioxide emissions,All Fuels,True,0.0018,0.0809,52
+West Virginia,Commercial carbon dioxide emissions,Coal,False,0.032,0.0182,38
+West Virginia,Commercial carbon dioxide emissions,Natural Gas,False,0.0989,0.0782,52
+West Virginia,Commercial carbon dioxide emissions,Petroleum,False,0.4561,0.1,52
+West Virginia,Electric Power carbon dioxide emissions,All Fuels,True,0.0335,0.0589,52
+West Virginia,Electric Power carbon dioxide emissions,Coal,True,0.0391,0.0634,52
+West Virginia,Electric Power carbon dioxide emissions,Natural Gas,False,1.0,0.0109,52
+West Virginia,Electric Power carbon dioxide emissions,Petroleum,False,0.0535,0.0159,52
+West Virginia,Industrial carbon dioxide emissions,All Fuels,False,0.1221,0.01,52
+West Virginia,Industrial carbon dioxide emissions,Coal,False,0.2318,0.01,52
+West Virginia,Industrial carbon dioxide emissions,Natural Gas,False,0.5985,0.1,52
+West Virginia,Industrial carbon dioxide emissions,Petroleum,False,0.1609,0.1,52
+West Virginia,Residential carbon dioxide emissions,All Fuels,False,0.5214,0.01,52
+West Virginia,Residential carbon dioxide emissions,Coal,False,0.0121,0.0107,38
+West Virginia,Residential carbon dioxide emissions,Natural Gas,False,0.1006,0.01,52
+West Virginia,Residential carbon dioxide emissions,Petroleum,False,0.4604,0.0485,52
+West Virginia,Total carbon dioxide emissions from all sectors,All Fuels,False,0.0556,0.1,52
+West Virginia,Total carbon dioxide emissions from all sectors,Coal,False,0.1887,0.1,52
+West Virginia,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.7866,0.1,52
+West Virginia,Total carbon dioxide emissions from all sectors,Petroleum,True,0.041,0.1,52
+West Virginia,Transportation carbon dioxide emissions,All Fuels,False,0.1572,0.01,52
+West Virginia,Transportation carbon dioxide emissions,Natural Gas,False,0.2879,0.0132,52
+West Virginia,Transportation carbon dioxide emissions,Petroleum,False,0.0103,0.01,52
+Wisconsin,Commercial carbon dioxide emissions,All Fuels,False,0.9157,0.01,52
+Wisconsin,Commercial carbon dioxide emissions,Coal,False,0.0202,0.0462,51
+Wisconsin,Commercial carbon dioxide emissions,Natural Gas,False,0.8086,0.01,52
+Wisconsin,Commercial carbon dioxide emissions,Petroleum,False,0.1344,0.0341,52
+Wisconsin,Electric Power carbon dioxide emissions,All Fuels,False,0.2688,0.01,52
+Wisconsin,Electric Power carbon dioxide emissions,Coal,False,0.6332,0.0205,52
+Wisconsin,Electric Power carbon dioxide emissions,Natural Gas,False,0.9984,0.01,52
+Wisconsin,Electric Power carbon dioxide emissions,Petroleum,False,0.1372,0.1,52
+Wisconsin,Industrial carbon dioxide emissions,All Fuels,False,0.0044,0.0184,52
+Wisconsin,Industrial carbon dioxide emissions,Coal,False,0.3122,0.01,52
+Wisconsin,Industrial carbon dioxide emissions,Natural Gas,True,0.0412,0.1,52
+Wisconsin,Industrial carbon dioxide emissions,Petroleum,False,0.2917,0.1,52
+Wisconsin,Residential carbon dioxide emissions,All Fuels,False,0.0932,0.0105,52
+Wisconsin,Residential carbon dioxide emissions,Coal,False,0.0,0.0246,38
+Wisconsin,Residential carbon dioxide emissions,Natural Gas,False,0.7047,0.01,52
+Wisconsin,Residential carbon dioxide emissions,Petroleum,False,0.1964,0.01,52
+Wisconsin,Total carbon dioxide emissions from all sectors,All Fuels,False,0.5776,0.0137,52
+Wisconsin,Total carbon dioxide emissions from all sectors,Coal,False,0.5616,0.0643,52
+Wisconsin,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.9538,0.01,52
+Wisconsin,Total carbon dioxide emissions from all sectors,Petroleum,False,0.346,0.1,52
+Wisconsin,Transportation carbon dioxide emissions,All Fuels,False,0.3041,0.01,52
+Wisconsin,Transportation carbon dioxide emissions,Natural Gas,True,0.0002,0.1,52
+Wisconsin,Transportation carbon dioxide emissions,Petroleum,False,0.288,0.01,52
+Wyoming,Commercial carbon dioxide emissions,All Fuels,True,0.0,0.1,52
+Wyoming,Commercial carbon dioxide emissions,Coal,False,0.2722,0.0974,52
+Wyoming,Commercial carbon dioxide emissions,Natural Gas,False,0.2651,0.1,52
+Wyoming,Commercial carbon dioxide emissions,Petroleum,True,0.027,0.1,52
+Wyoming,Electric Power carbon dioxide emissions,All Fuels,False,0.0062,0.01,52
+Wyoming,Electric Power carbon dioxide emissions,Coal,False,0.0067,0.01,52
+Wyoming,Electric Power carbon dioxide emissions,Natural Gas,False,0.9295,0.0379,52
+Wyoming,Electric Power carbon dioxide emissions,Petroleum,False,0.3302,0.064,52
+Wyoming,Industrial carbon dioxide emissions,All Fuels,False,0.1383,0.01,52
+Wyoming,Industrial carbon dioxide emissions,Coal,False,0.0615,0.0564,52
+Wyoming,Industrial carbon dioxide emissions,Natural Gas,False,0.6354,0.01,52
+Wyoming,Industrial carbon dioxide emissions,Petroleum,False,0.4681,0.1,52
+Wyoming,Residential carbon dioxide emissions,All Fuels,True,0.0025,0.1,52
+Wyoming,Residential carbon dioxide emissions,Coal,False,0.1515,0.1,38
+Wyoming,Residential carbon dioxide emissions,Natural Gas,False,0.3066,0.1,52
+Wyoming,Residential carbon dioxide emissions,Petroleum,True,0.0228,0.1,52
+Wyoming,Total carbon dioxide emissions from all sectors,All Fuels,False,0.0074,0.01,52
+Wyoming,Total carbon dioxide emissions from all sectors,Coal,False,0.0039,0.01,52
+Wyoming,Total carbon dioxide emissions from all sectors,Natural Gas,False,0.7784,0.01,52
+Wyoming,Total carbon dioxide emissions from all sectors,Petroleum,False,0.2485,0.0327,52
+Wyoming,Transportation carbon dioxide emissions,All Fuels,False,0.3953,0.01,52
+Wyoming,Transportation carbon dioxide emissions,Natural Gas,False,0.6603,0.01,52
+Wyoming,Transportation carbon dioxide emissions,Petroleum,False,0.318,0.01,52

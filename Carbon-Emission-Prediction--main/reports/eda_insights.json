@@ -1,0 +1,28 @@
+{
+    "overall": {
+        "total_emissions_2021": 19644.91,
+        "total_emissions_1970": 17014.13,
+        "overall_change_pct": 15.46,
+        "peak_year": 2007,
+        "peak_emissions": 23989.2
+    },
+    "top_states_2021": {
+        "United States": 9822.453887,
+        "Texas": 1326.9163290000001,
+        "California": 648.078105,
+        "Florida": 452.648414,
+        "Pennsylvania": 427.019446
+    },
+    "sectors_2021": {
+        "Transportation": 3629.705997,
+        "Electric Power": 3084.0809639999998,
+        "Industrial": 1960.369443,
+        "Residential": 652.485588,
+        "Commercial": 495.81266899999997
+    },
+    "fuels_2021": {
+        "Petroleum": 8991.05853,
+        "Natural Gas": 6619.421348,
+        "Coal": 4034.4294290000003
+    }
+}

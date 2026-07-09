@@ -1,0 +1,31 @@
+state,sector,fuel,mae,rmse,mape
+California,Commercial carbon dioxide emissions,All Fuels,2.7093238830566406,2.7093238975343072,13.93037885427475
+California,Electric Power carbon dioxide emissions,All Fuels,10.175853729248047,10.175853601590193,28.78974676132202
+California,Industrial carbon dioxide emissions,All Fuels,7.934131622314453,7.934131538348874,12.407633662223816
+California,Residential carbon dioxide emissions,All Fuels,2.263303756713867,2.263303738298971,8.64480808377266
+California,Total carbon dioxide emissions from all sectors,All Fuels,36.731719970703125,36.73171978387685,11.3355852663517
+California,Transportation carbon dioxide emissions,All Fuels,24.2279052734375,24.227905275590146,13.526228070259094
+Florida,Commercial carbon dioxide emissions,All Fuels,1.130035400390625,1.130035416461617,16.658008098602295
+Florida,Electric Power carbon dioxide emissions,All Fuels,14.363052368164062,14.363052312392224,15.743425488471985
+Florida,Industrial carbon dioxide emissions,All Fuels,0.6468734741210938,0.6468734722764408,5.273034051060677
+Florida,Residential carbon dioxide emissions,All Fuels,0.2469482421875,0.2469482421875,16.871610283851624
+Florida,Total carbon dioxide emissions from all sectors,All Fuels,4.7278289794921875,4.727829036790887,2.0889632403850555
+Florida,Transportation carbon dioxide emissions,All Fuels,10.332809448242188,10.332809517002065,9.01821255683899
+Pennsylvania,Commercial carbon dioxide emissions,All Fuels,1.3056793212890625,1.3056793097873283,11.408599466085434
+Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,27.595985412597656,27.59598505422992,35.617467761039734
+Pennsylvania,Industrial carbon dioxide emissions,All Fuels,8.301700592041016,8.30170077627522,16.825251281261444
+Pennsylvania,Residential carbon dioxide emissions,All Fuels,5.223337173461914,5.223337133357928,27.111175656318665
+Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,44.95417785644531,44.95417724481022,21.054862439632416
+Pennsylvania,Transportation carbon dioxide emissions,All Fuels,8.152191162109375,8.152191204550276,14.562909305095673
+Texas,Commercial carbon dioxide emissions,All Fuels,1.482802391052246,1.4828023510214785,10.467329621315002
+Texas,Electric Power carbon dioxide emissions,All Fuels,22.883209228515625,22.88320858952176,12.692086398601532
+Texas,Industrial carbon dioxide emissions,All Fuels,29.7911376953125,29.791137975167526,12.332548201084137
+Texas,Residential carbon dioxide emissions,All Fuels,1.0348968505859375,1.0348968756711587,8.462969958782196
+Texas,Total carbon dioxide emissions from all sectors,All Fuels,18.35382080078125,18.353820635867446,2.766387164592743
+Texas,Transportation carbon dioxide emissions,All Fuels,39.894287109375,39.894287801873965,18.537944555282593
+United States,Commercial carbon dioxide emissions,All Fuels,17.069564819335938,17.06956520103379,6.8854920566082
+United States,Electric Power carbon dioxide emissions,All Fuels,479.728759765625,479.72876451178115,31.110000610351562
+United States,Industrial carbon dioxide emissions,All Fuels,41.52923583984375,41.52923657177405,4.236878454685211
+United States,Residential carbon dioxide emissions,All Fuels,31.290069580078125,31.29007001342938,9.591041505336761
+United States,Total carbon dioxide emissions from all sectors,All Fuels,443.63427734375,443.63428068624273,9.033063799142838
+United States,Transportation carbon dioxide emissions,All Fuels,44.4298095703125,44.42980907645578,2.448122017085552

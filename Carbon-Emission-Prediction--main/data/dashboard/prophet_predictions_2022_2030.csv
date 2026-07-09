@@ -1,0 +1,481 @@
+year,state,sector,fuel,predicted_value,model
+2022,California,Commercial carbon dioxide emissions,All Fuels,17.12875074541298,Prophet
+2023,California,Commercial carbon dioxide emissions,All Fuels,16.823629952655097,Prophet
+2024,California,Commercial carbon dioxide emissions,All Fuels,17.928613501145673,Prophet
+2025,California,Commercial carbon dioxide emissions,All Fuels,17.79023181198734,Prophet
+2026,California,Commercial carbon dioxide emissions,All Fuels,17.568216881731065,Prophet
+2027,California,Commercial carbon dioxide emissions,All Fuels,17.26309608897656,Prophet
+2028,California,Commercial carbon dioxide emissions,All Fuels,18.368079637462777,Prophet
+2029,California,Commercial carbon dioxide emissions,All Fuels,18.229697948301975,Prophet
+2022,California,Electric Power carbon dioxide emissions,All Fuels,42.51580326014073,Prophet
+2023,California,Electric Power carbon dioxide emissions,All Fuels,46.39541865225712,Prophet
+2024,California,Electric Power carbon dioxide emissions,All Fuels,36.45116856737171,Prophet
+2025,California,Electric Power carbon dioxide emissions,All Fuels,38.36750075847258,Prophet
+2026,California,Electric Power carbon dioxide emissions,All Fuels,41.26853094442028,Prophet
+2027,California,Electric Power carbon dioxide emissions,All Fuels,45.148146336498094,Prophet
+2028,California,Electric Power carbon dioxide emissions,All Fuels,35.203896251668034,Prophet
+2029,California,Electric Power carbon dioxide emissions,All Fuels,37.12022844279216,Prophet
+2022,California,Industrial carbon dioxide emissions,All Fuels,74.19799638352546,Prophet
+2023,California,Industrial carbon dioxide emissions,All Fuels,75.89468089181238,Prophet
+2024,California,Industrial carbon dioxide emissions,All Fuels,71.85288635059018,Prophet
+2025,California,Industrial carbon dioxide emissions,All Fuels,72.91915372541598,Prophet
+2026,California,Industrial carbon dioxide emissions,All Fuels,74.30185588759174,Prophet
+2027,California,Industrial carbon dioxide emissions,All Fuels,75.9985403958639,Prophet
+2028,California,Industrial carbon dioxide emissions,All Fuels,71.95674585466263,Prophet
+2029,California,Industrial carbon dioxide emissions,All Fuels,73.02301322949843,Prophet
+2022,California,Residential carbon dioxide emissions,All Fuels,22.978167450702205,Prophet
+2023,California,Residential carbon dioxide emissions,All Fuels,21.51858348311377,Prophet
+2024,California,Residential carbon dioxide emissions,All Fuels,24.557465421130892,Prophet
+2025,California,Residential carbon dioxide emissions,All Fuels,23.65124419811651,Prophet
+2026,California,Residential carbon dioxide emissions,All Fuels,22.467500354117963,Prophet
+2027,California,Residential carbon dioxide emissions,All Fuels,21.007916386540547,Prophet
+2028,California,Residential carbon dioxide emissions,All Fuels,24.046798324543495,Prophet
+2029,California,Residential carbon dioxide emissions,All Fuels,23.140577101521274,Prophet
+2022,California,Total carbon dioxide emissions from all sectors,All Fuels,350.1054095834984,Prophet
+2023,California,Total carbon dioxide emissions from all sectors,All Fuels,356.48257027824616,Prophet
+2024,California,Total carbon dioxide emissions from all sectors,All Fuels,334.23986117256453,Prophet
+2025,California,Total carbon dioxide emissions from all sectors,All Fuels,336.8185601384878,Prophet
+2026,California,Total carbon dioxide emissions from all sectors,All Fuels,341.30310683680773,Prophet
+2027,California,Total carbon dioxide emissions from all sectors,All Fuels,347.6802675314756,Prophet
+2028,California,Total carbon dioxide emissions from all sectors,All Fuels,325.43755842591236,Prophet
+2029,California,Total carbon dioxide emissions from all sectors,All Fuels,328.01625739188364,Prophet
+2022,California,Transportation carbon dioxide emissions,All Fuels,178.74155943946772,Prophet
+2023,California,Transportation carbon dioxide emissions,All Fuels,172.51125196209009,Prophet
+2024,California,Transportation carbon dioxide emissions,All Fuels,182.96392609195377,Prophet
+2025,California,Transportation carbon dioxide emissions,All Fuels,178.50277750416666,Prophet
+2026,California,Transportation carbon dioxide emissions,All Fuels,173.15379497498876,Prophet
+2027,California,Transportation carbon dioxide emissions,All Fuels,166.9234874976507,Prophet
+2028,California,Transportation carbon dioxide emissions,All Fuels,177.37616162746147,Prophet
+2029,California,Transportation carbon dioxide emissions,All Fuels,172.9150130396447,Prophet
+2022,Florida,Commercial carbon dioxide emissions,All Fuels,6.36829102044749,Prophet
+2023,Florida,Commercial carbon dioxide emissions,All Fuels,6.588232359211268,Prophet
+2024,Florida,Commercial carbon dioxide emissions,All Fuels,6.135079416788974,Prophet
+2025,Florida,Commercial carbon dioxide emissions,All Fuels,6.2820246200241225,Prophet
+2026,Florida,Commercial carbon dioxide emissions,All Fuels,6.46560836890346,Prophet
+2027,Florida,Commercial carbon dioxide emissions,All Fuels,6.685549707665553,Prophet
+2028,Florida,Commercial carbon dioxide emissions,All Fuels,6.232396765245627,Prophet
+2029,Florida,Commercial carbon dioxide emissions,All Fuels,6.379341968481958,Prophet
+2022,Florida,Electric Power carbon dioxide emissions,All Fuels,84.0980263332061,Prophet
+2023,Florida,Electric Power carbon dioxide emissions,All Fuels,78.64091917857945,Prophet
+2024,Florida,Electric Power carbon dioxide emissions,All Fuels,85.4769178962401,Prophet
+2025,Florida,Electric Power carbon dioxide emissions,All Fuels,81.48617991379945,Prophet
+2026,Florida,Electric Power carbon dioxide emissions,All Fuels,76.75974664186978,Prophet
+2027,Florida,Electric Power carbon dioxide emissions,All Fuels,71.30263948727415,Prophet
+2028,Florida,Electric Power carbon dioxide emissions,All Fuels,78.1386382048922,Prophet
+2029,Florida,Electric Power carbon dioxide emissions,All Fuels,74.14790022243024,Prophet
+2022,Florida,Industrial carbon dioxide emissions,All Fuels,13.531432410846676,Prophet
+2023,Florida,Industrial carbon dioxide emissions,All Fuels,14.454174920999865,Prophet
+2024,Florida,Industrial carbon dioxide emissions,All Fuels,12.11734094030573,Prophet
+2025,Florida,Industrial carbon dioxide emissions,All Fuels,12.662662687503083,Prophet
+2026,Florida,Industrial carbon dioxide emissions,All Fuels,13.397376751457124,Prophet
+2027,Florida,Industrial carbon dioxide emissions,All Fuels,14.320119261601945,Prophet
+2028,Florida,Industrial carbon dioxide emissions,All Fuels,11.983285280919489,Prophet
+2029,Florida,Industrial carbon dioxide emissions,All Fuels,12.528607028122469,Prophet
+2022,Florida,Residential carbon dioxide emissions,All Fuels,1.3824961681686008,Prophet
+2023,Florida,Residential carbon dioxide emissions,All Fuels,1.5107127232951016,Prophet
+2024,Florida,Residential carbon dioxide emissions,All Fuels,1.1511728847570304,Prophet
+2025,Florida,Residential carbon dioxide emissions,All Fuels,1.2181837449890052,Prophet
+2026,Florida,Residential carbon dioxide emissions,All Fuels,1.3158997502567147,Prophet
+2027,Florida,Residential carbon dioxide emissions,All Fuels,1.4441163053819364,Prophet
+2028,Florida,Residential carbon dioxide emissions,All Fuels,1.08457646684565,Prophet
+2029,Florida,Residential carbon dioxide emissions,All Fuels,1.151587327078459,Prophet
+2022,Florida,Total carbon dioxide emissions from all sectors,All Fuels,213.03060850999165,Prophet
+2023,Florida,Total carbon dioxide emissions from all sectors,All Fuels,204.93677217914922,Prophet
+2024,Florida,Total carbon dioxide emissions from all sectors,All Fuels,221.4043267367466,Prophet
+2025,Florida,Total carbon dioxide emissions from all sectors,All Fuels,216.001967313559,Prophet
+2026,Florida,Total carbon dioxide emissions from all sectors,All Fuels,209.248927503218,Prophet
+2027,Florida,Total carbon dioxide emissions from all sectors,All Fuels,201.15509117243542,Prophet
+2028,Florida,Total carbon dioxide emissions from all sectors,All Fuels,217.6226457299511,Prophet
+2029,Florida,Total carbon dioxide emissions from all sectors,All Fuels,212.22028630672037,Prophet
+2022,Florida,Transportation carbon dioxide emissions,All Fuels,106.30111223383844,Prophet
+2023,Florida,Transportation carbon dioxide emissions,All Fuels,101.99916880231137,Prophet
+2024,Florida,Transportation carbon dioxide emissions,All Fuels,115.1275134730808,Prophet
+2025,Florida,Transportation carbon dioxide emissions,All Fuels,112.68024666152611,Prophet
+2026,Florida,Transportation carbon dioxide emissions,All Fuels,109.30214438096318,Prophet
+2027,Florida,Transportation carbon dioxide emissions,All Fuels,105.00020094947848,Prophet
+2028,Florida,Transportation carbon dioxide emissions,All Fuels,118.12854562019008,Prophet
+2029,Florida,Transportation carbon dioxide emissions,All Fuels,115.6812788086049,Prophet
+2022,Illinois,Commercial carbon dioxide emissions,All Fuels,15.232893538859695,Prophet
+2023,Illinois,Commercial carbon dioxide emissions,All Fuels,16.052290359556284,Prophet
+2024,Illinois,Commercial carbon dioxide emissions,All Fuels,14.28023740129954,Prophet
+2025,Illinois,Commercial carbon dioxide emissions,All Fuels,14.803840845156325,Prophet
+2026,Illinois,Commercial carbon dioxide emissions,All Fuels,15.475876594916054,Prophet
+2027,Illinois,Commercial carbon dioxide emissions,All Fuels,16.29527341560601,Prophet
+2028,Illinois,Commercial carbon dioxide emissions,All Fuels,14.523220457358441,Prophet
+2029,Illinois,Commercial carbon dioxide emissions,All Fuels,15.046823901219742,Prophet
+2022,Illinois,Electric Power carbon dioxide emissions,All Fuels,76.39366820394412,Prophet
+2023,Illinois,Electric Power carbon dioxide emissions,All Fuels,74.17630266841088,Prophet
+2024,Illinois,Electric Power carbon dioxide emissions,All Fuels,80.49984295686315,Prophet
+2025,Illinois,Electric Power carbon dioxide emissions,All Fuels,79.2096252074441,Prophet
+2026,Illinois,Electric Power carbon dioxide emissions,All Fuels,77.45414069733083,Prophet
+2027,Illinois,Electric Power carbon dioxide emissions,All Fuels,75.23677516181816,Prophet
+2028,Illinois,Electric Power carbon dioxide emissions,All Fuels,81.56031545024261,Prophet
+2029,Illinois,Electric Power carbon dioxide emissions,All Fuels,80.27009770080853,Prophet
+2022,Illinois,Industrial carbon dioxide emissions,All Fuels,35.84980596866285,Prophet
+2023,Illinois,Industrial carbon dioxide emissions,All Fuels,36.62314338818837,Prophet
+2024,Illinois,Industrial carbon dioxide emissions,All Fuels,33.40950292505667,Prophet
+2025,Illinois,Industrial carbon dioxide emissions,All Fuels,33.8814234829966,Prophet
+2026,Illinois,Industrial carbon dioxide emissions,All Fuels,34.50479300409545,Prophet
+2027,Illinois,Industrial carbon dioxide emissions,All Fuels,35.27813042361208,Prophet
+2028,Illinois,Industrial carbon dioxide emissions,All Fuels,32.06448996049187,Prophet
+2029,Illinois,Industrial carbon dioxide emissions,All Fuels,32.53641051843924,Prophet
+2022,Illinois,Residential carbon dioxide emissions,All Fuels,24.718605123579028,Prophet
+2023,Illinois,Residential carbon dioxide emissions,All Fuels,25.800870239261055,Prophet
+2024,Illinois,Residential carbon dioxide emissions,All Fuels,22.584007736813987,Prophet
+2025,Illinois,Residential carbon dioxide emissions,All Fuels,23.18138330793814,Prophet
+2026,Illinois,Residential carbon dioxide emissions,All Fuels,24.022105903678593,Prophet
+2027,Illinois,Residential carbon dioxide emissions,All Fuels,25.104371019349617,Prophet
+2028,Illinois,Residential carbon dioxide emissions,All Fuels,21.887508516917986,Prophet
+2029,Illinois,Residential carbon dioxide emissions,All Fuels,22.484884088049625,Prophet
+2022,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,201.63632248270793,Prophet
+2023,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,195.92492533340993,Prophet
+2024,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,209.06902589127415,Prophet
+2025,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,205.39753608096737,Prophet
+2026,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,200.70243423722025,Prophet
+2027,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,194.991037087967,Prophet
+2028,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,208.13513764577175,Prophet
+2029,Illinois,Total carbon dioxide emissions from all sectors,All Fuels,204.46364783543154,Prophet
+2022,Illinois,Transportation carbon dioxide emissions,All Fuels,63.9767523702021,Prophet
+2023,Illinois,Transportation carbon dioxide emissions,All Fuels,62.77741470427772,Prophet
+2024,Illinois,Transportation carbon dioxide emissions,All Fuels,66.57171442632678,Prophet
+2025,Illinois,Transportation carbon dioxide emissions,All Fuels,65.81475026932539,Prophet
+2026,Illinois,Transportation carbon dioxide emissions,All Fuels,64.8357035155035,Prophet
+2027,Illinois,Transportation carbon dioxide emissions,All Fuels,63.63636584958998,Prophet
+2028,Illinois,Transportation carbon dioxide emissions,All Fuels,67.4306655716254,Prophet
+2029,Illinois,Transportation carbon dioxide emissions,All Fuels,66.67370141461488,Prophet
+2022,Indiana,Commercial carbon dioxide emissions,All Fuels,6.467129843701146,Prophet
+2023,Indiana,Commercial carbon dioxide emissions,All Fuels,6.885986191325439,Prophet
+2024,Indiana,Commercial carbon dioxide emissions,All Fuels,5.75629146636903,Prophet
+2025,Indiana,Commercial carbon dioxide emissions,All Fuels,6.042380584904753,Prophet
+2026,Indiana,Commercial carbon dioxide emissions,All Fuels,6.395160158939797,Prophet
+2027,Indiana,Commercial carbon dioxide emissions,All Fuels,6.814016506560536,Prophet
+2028,Indiana,Commercial carbon dioxide emissions,All Fuels,5.684321781608978,Prophet
+2029,Indiana,Commercial carbon dioxide emissions,All Fuels,5.970410900147524,Prophet
+2022,Indiana,Electric Power carbon dioxide emissions,All Fuels,61.30388483402599,Prophet
+2023,Indiana,Electric Power carbon dioxide emissions,All Fuels,55.5685192973355,Prophet
+2024,Indiana,Electric Power carbon dioxide emissions,All Fuels,57.440804469058776,Prophet
+2025,Indiana,Electric Power carbon dioxide emissions,All Fuels,52.652275485845244,Prophet
+2026,Indiana,Electric Power carbon dioxide emissions,All Fuels,47.38834652511558,Prophet
+2027,Indiana,Electric Power carbon dioxide emissions,All Fuels,41.652980988446714,Prophet
+2028,Indiana,Electric Power carbon dioxide emissions,All Fuels,43.52526616013506,Prophet
+2029,Indiana,Electric Power carbon dioxide emissions,All Fuels,38.736737176908875,Prophet
+2022,Indiana,Industrial carbon dioxide emissions,All Fuels,47.44190856747303,Prophet
+2023,Indiana,Industrial carbon dioxide emissions,All Fuels,49.71598971892006,Prophet
+2024,Indiana,Industrial carbon dioxide emissions,All Fuels,43.01154804568905,Prophet
+2025,Indiana,Industrial carbon dioxide emissions,All Fuels,44.24200859699353,Prophet
+2026,Indiana,Industrial carbon dioxide emissions,All Fuels,45.99620314133743,Prophet
+2027,Indiana,Industrial carbon dioxide emissions,All Fuels,48.2702842927609,Prophet
+2028,Indiana,Industrial carbon dioxide emissions,All Fuels,41.56584261956305,Prophet
+2029,Indiana,Industrial carbon dioxide emissions,All Fuels,42.79630317088322,Prophet
+2022,Indiana,Residential carbon dioxide emissions,All Fuels,8.421033530315245,Prophet
+2023,Indiana,Residential carbon dioxide emissions,All Fuels,8.652771554572201,Prophet
+2024,Indiana,Residential carbon dioxide emissions,All Fuels,7.755854310933013,Prophet
+2025,Indiana,Residential carbon dioxide emissions,All Fuels,7.875901938191086,Prophet
+2026,Indiana,Residential carbon dioxide emissions,All Fuels,8.052032415162536,Prophet
+2027,Indiana,Residential carbon dioxide emissions,All Fuels,8.28377043941666,Prophet
+2028,Indiana,Residential carbon dioxide emissions,All Fuels,7.386853195781461,Prophet
+2029,Indiana,Residential carbon dioxide emissions,All Fuels,7.506900823041536,Prophet
+2022,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,156.88716211141366,Prophet
+2023,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,152.3033676568465,Prophet
+2024,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,148.2811529561903,Prophet
+2025,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,143.80723397011045,Prophet
+2026,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,139.27819196717707,Prophet
+2027,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,134.69439751261135,Prophet
+2028,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,130.6721828119522,Prophet
+2029,Indiana,Total carbon dioxide emissions from all sectors,All Fuels,126.1982638258716,Prophet
+2022,Indiana,Transportation carbon dioxide emissions,All Fuels,35.055294192079735,Prophet
+2023,Indiana,Transportation carbon dioxide emissions,All Fuels,33.20562673684487,Prophet
+2024,Indiana,Transportation carbon dioxide emissions,All Fuels,36.553792267590296,Prophet
+2025,Indiana,Transportation carbon dioxide emissions,All Fuels,35.29910245901404,Prophet
+2026,Indiana,Transportation carbon dioxide emissions,All Fuels,33.74590371286301,Prophet
+2027,Indiana,Transportation carbon dioxide emissions,All Fuels,31.896236257640826,Prophet
+2028,Indiana,Transportation carbon dioxide emissions,All Fuels,35.244401788369316,Prophet
+2029,Indiana,Transportation carbon dioxide emissions,All Fuels,33.98971197978387,Prophet
+2022,Louisiana,Commercial carbon dioxide emissions,All Fuels,0.02025711511029371,Prophet
+2023,Louisiana,Commercial carbon dioxide emissions,All Fuels,-0.2737392131642187,Prophet
+2024,Louisiana,Commercial carbon dioxide emissions,All Fuels,0.14584624962323378,Prophet
+2025,Louisiana,Commercial carbon dioxide emissions,All Fuels,-0.1063832150564572,Prophet
+2026,Louisiana,Commercial carbon dioxide emissions,All Fuels,-0.37961805086362777,Prophet
+2027,Louisiana,Commercial carbon dioxide emissions,All Fuels,-0.6736143791367537,Prophet
+2028,Louisiana,Commercial carbon dioxide emissions,All Fuels,-0.25402891635099145,Prophet
+2029,Louisiana,Commercial carbon dioxide emissions,All Fuels,-0.5062583810320431,Prophet
+2022,Louisiana,Electric Power carbon dioxide emissions,All Fuels,32.53740806798864,Prophet
+2023,Louisiana,Electric Power carbon dioxide emissions,All Fuels,31.27864864961215,Prophet
+2024,Louisiana,Electric Power carbon dioxide emissions,All Fuels,33.37250126167783,Prophet
+2025,Louisiana,Electric Power carbon dioxide emissions,All Fuels,32.43243553853161,Prophet
+2026,Louisiana,Electric Power carbon dioxide emissions,All Fuels,31.332353517778927,Prophet
+2027,Louisiana,Electric Power carbon dioxide emissions,All Fuels,30.073594099410236,Prophet
+2028,Louisiana,Electric Power carbon dioxide emissions,All Fuels,32.16744671146521,Prophet
+2029,Louisiana,Electric Power carbon dioxide emissions,All Fuels,31.22738098831295,Prophet
+2022,Louisiana,Industrial carbon dioxide emissions,All Fuels,117.88178453827817,Prophet
+2023,Louisiana,Industrial carbon dioxide emissions,All Fuels,120.2731824249478,Prophet
+2024,Louisiana,Industrial carbon dioxide emissions,All Fuels,115.47154894070229,Prophet
+2025,Louisiana,Industrial carbon dioxide emissions,All Fuels,117.0486154476499,Prophet
+2026,Louisiana,Industrial carbon dioxide emissions,All Fuels,119.0342714341445,Prophet
+2027,Louisiana,Industrial carbon dioxide emissions,All Fuels,121.42566932079612,Prophet
+2028,Louisiana,Industrial carbon dioxide emissions,All Fuels,116.62403583657482,Prophet
+2029,Louisiana,Industrial carbon dioxide emissions,All Fuels,118.20110234353515,Prophet
+2022,Louisiana,Residential carbon dioxide emissions,All Fuels,1.6719333843548485,Prophet
+2023,Louisiana,Residential carbon dioxide emissions,All Fuels,1.7214732952455996,Prophet
+2024,Louisiana,Residential carbon dioxide emissions,All Fuels,1.42596010846471,Prophet
+2025,Louisiana,Residential carbon dioxide emissions,All Fuels,1.4176186325560658,Prophet
+2026,Louisiana,Residential carbon dioxide emissions,All Fuels,1.438304775652138,Prophet
+2027,Louisiana,Residential carbon dioxide emissions,All Fuels,1.4878446865417891,Prophet
+2028,Louisiana,Residential carbon dioxide emissions,All Fuels,1.1923314997625702,Prophet
+2029,Louisiana,Residential carbon dioxide emissions,All Fuels,1.1839900238544683,Prophet
+2022,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,200.24681899895245,Prophet
+2023,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,203.68190874193334,Prophet
+2024,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,194.07654526260433,Prophet
+2025,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,195.90232264022916,Prophet
+2026,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,198.53543371955192,Prophet
+2027,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,201.97052346249882,Prophet
+2028,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,192.36515998321676,Prophet
+2029,Louisiana,Total carbon dioxide emissions from all sectors,All Fuels,194.19093736086398,Prophet
+2022,Louisiana,Transportation carbon dioxide emissions,All Fuels,40.43801271025024,Prophet
+2023,Louisiana,Transportation carbon dioxide emissions,All Fuels,42.63861850693685,Prophet
+2024,Louisiana,Transportation carbon dioxide emissions,All Fuels,34.17178835745491,Prophet
+2025,Louisiana,Transportation carbon dioxide emissions,All Fuels,35.20330109645091,Prophet
+2026,Louisiana,Transportation carbon dioxide emissions,All Fuels,36.821540334558165,Prophet
+2027,Louisiana,Transportation carbon dioxide emissions,All Fuels,39.022146131218406,Prophet
+2028,Louisiana,Transportation carbon dioxide emissions,All Fuels,30.555315981773056,Prophet
+2029,Louisiana,Transportation carbon dioxide emissions,All Fuels,31.5868287207878,Prophet
+2022,New York,Commercial carbon dioxide emissions,All Fuels,23.073709689641063,Prophet
+2023,New York,Commercial carbon dioxide emissions,All Fuels,23.24378629317239,Prophet
+2024,New York,Commercial carbon dioxide emissions,All Fuels,22.103035038031905,Prophet
+2025,New York,Commercial carbon dioxide emissions,All Fuels,22.159513089177892,Prophet
+2026,New York,Commercial carbon dioxide emissions,All Fuels,22.2730453271883,Prophet
+2027,New York,Commercial carbon dioxide emissions,All Fuels,22.443121930716515,Prophet
+2028,New York,Commercial carbon dioxide emissions,All Fuels,21.302370675580185,Prophet
+2029,New York,Commercial carbon dioxide emissions,All Fuels,21.358848726728546,Prophet
+2022,New York,Electric Power carbon dioxide emissions,All Fuels,20.674736600444696,Prophet
+2023,New York,Electric Power carbon dioxide emissions,All Fuels,19.237864330164776,Prophet
+2024,New York,Electric Power carbon dioxide emissions,All Fuels,18.21507783188042,Prophet
+2025,New York,Electric Power carbon dioxide emissions,All Fuels,16.809052640231023,Prophet
+2026,New York,Electric Power carbon dioxide emissions,All Fuels,15.387583503986633,Prophet
+2027,New York,Electric Power carbon dioxide emissions,All Fuels,13.950711233707132,Prophet
+2028,New York,Electric Power carbon dioxide emissions,All Fuels,12.927924735422927,Prophet
+2029,New York,Electric Power carbon dioxide emissions,All Fuels,11.521899543772726,Prophet
+2022,New York,Industrial carbon dioxide emissions,All Fuels,9.205456053513188,Prophet
+2023,New York,Industrial carbon dioxide emissions,All Fuels,10.668198657009484,Prophet
+2024,New York,Industrial carbon dioxide emissions,All Fuels,5.725137079314823,Prophet
+2025,New York,Industrial carbon dioxide emissions,All Fuels,6.360538230202092,Prophet
+2026,New York,Industrial carbon dioxide emissions,All Fuels,7.410934458768388,Prophet
+2027,New York,Industrial carbon dioxide emissions,All Fuels,8.873677062247815,Prophet
+2028,New York,Industrial carbon dioxide emissions,All Fuels,3.9306154845762897,Prophet
+2029,New York,Industrial carbon dioxide emissions,All Fuels,4.5660166354745755,Prophet
+2022,New York,Residential carbon dioxide emissions,All Fuels,35.7320476275278,Prophet
+2023,New York,Residential carbon dioxide emissions,All Fuels,37.53791963749107,Prophet
+2024,New York,Residential carbon dioxide emissions,All Fuels,32.62015188698606,Prophet
+2025,New York,Residential carbon dioxide emissions,All Fuels,33.6658445324641,Prophet
+2026,New York,Residential carbon dioxide emissions,All Fuels,35.09302504690275,Prophet
+2027,New York,Residential carbon dioxide emissions,All Fuels,36.89889705684893,Prophet
+2028,New York,Residential carbon dioxide emissions,All Fuels,31.981129306367727,Prophet
+2029,New York,Residential carbon dioxide emissions,All Fuels,33.026821951857606,Prophet
+2022,New York,Total carbon dioxide emissions from all sectors,All Fuels,158.4886500222902,Prophet
+2023,New York,Total carbon dioxide emissions from all sectors,All Fuels,157.7174055585956,Prophet
+2024,New York,Total carbon dioxide emissions from all sectors,All Fuels,152.93771539814236,Prophet
+2025,New York,Total carbon dioxide emissions from all sectors,All Fuels,151.51710637757043,Prophet
+2026,New York,Total carbon dioxide emissions from all sectors,All Fuels,150.42216292540854,Prophet
+2027,New York,Total carbon dioxide emissions from all sectors,All Fuels,149.65091846170088,Prophet
+2028,New York,Total carbon dioxide emissions from all sectors,All Fuels,144.87122830126694,Prophet
+2029,New York,Total carbon dioxide emissions from all sectors,All Fuels,143.4506192807017,Prophet
+2022,New York,Transportation carbon dioxide emissions,All Fuels,74.43112373425028,Prophet
+2023,New York,Transportation carbon dioxide emissions,All Fuels,71.66056587127196,Prophet
+2024,New York,Transportation carbon dioxide emissions,All Fuels,80.18824570841966,Prophet
+2025,New York,Transportation carbon dioxide emissions,All Fuels,78.74094611518525,Prophet
+2026,New York,Transportation carbon dioxide emissions,All Fuels,76.62971872005689,Prophet
+2027,New York,Transportation carbon dioxide emissions,All Fuels,73.85916085710684,Prophet
+2028,New York,Transportation carbon dioxide emissions,All Fuels,82.38684069421588,Prophet
+2029,New York,Transportation carbon dioxide emissions,All Fuels,80.93954110096185,Prophet
+2022,Ohio,Commercial carbon dioxide emissions,All Fuels,13.285216252726578,Prophet
+2023,Ohio,Commercial carbon dioxide emissions,All Fuels,14.292537321321081,Prophet
+2024,Ohio,Commercial carbon dioxide emissions,All Fuels,11.814603263643793,Prophet
+2025,Ohio,Commercial carbon dioxide emissions,All Fuels,12.45767333385906,Prophet
+2026,Ohio,Commercial carbon dioxide emissions,All Fuels,13.283567994727765,Prophet
+2027,Ohio,Commercial carbon dioxide emissions,All Fuels,14.290889063313774,Prophet
+2028,Ohio,Commercial carbon dioxide emissions,All Fuels,11.81295500564806,Prophet
+2029,Ohio,Commercial carbon dioxide emissions,All Fuels,12.456025075869514,Prophet
+2022,Ohio,Electric Power carbon dioxide emissions,All Fuels,61.447186571917456,Prophet
+2023,Ohio,Electric Power carbon dioxide emissions,All Fuels,58.98635551518858,Prophet
+2024,Ohio,Electric Power carbon dioxide emissions,All Fuels,51.99744421475507,Prophet
+2025,Ohio,Electric Power carbon dioxide emissions,All Fuels,48.774401079340734,Prophet
+2026,Ohio,Electric Power carbon dioxide emissions,All Fuels,45.93350928476603,Prophet
+2027,Ohio,Electric Power carbon dioxide emissions,All Fuels,43.4726782280233,Prophet
+2028,Ohio,Electric Power carbon dioxide emissions,All Fuels,36.48376692760978,Prophet
+2029,Ohio,Electric Power carbon dioxide emissions,All Fuels,33.2607237922027,Prophet
+2022,Ohio,Industrial carbon dioxide emissions,All Fuels,36.70364813265244,Prophet
+2023,Ohio,Industrial carbon dioxide emissions,All Fuels,37.79423524666141,Prophet
+2024,Ohio,Industrial carbon dioxide emissions,All Fuels,34.48383043144338,Prophet
+2025,Ohio,Industrial carbon dioxide emissions,All Fuels,35.03664499844299,Prophet
+2026,Ohio,Industrial carbon dioxide emissions,All Fuels,35.859168702224984,Prophet
+2027,Ohio,Industrial carbon dioxide emissions,All Fuels,36.94975581622283,Prophet
+2028,Ohio,Industrial carbon dioxide emissions,All Fuels,33.63935100101917,Prophet
+2029,Ohio,Industrial carbon dioxide emissions,All Fuels,34.192165568026425,Prophet
+2022,Ohio,Residential carbon dioxide emissions,All Fuels,19.052244443046444,Prophet
+2023,Ohio,Residential carbon dioxide emissions,All Fuels,20.415348902078247,Prophet
+2024,Ohio,Residential carbon dioxide emissions,All Fuels,16.407093796396893,Prophet
+2025,Ohio,Residential carbon dioxide emissions,All Fuels,17.161460423734592,Prophet
+2026,Ohio,Residential carbon dioxide emissions,All Fuels,18.22130119314082,Prophet
+2027,Ohio,Residential carbon dioxide emissions,All Fuels,19.58440565215902,Prophet
+2028,Ohio,Residential carbon dioxide emissions,All Fuels,15.576150546496452,Prophet
+2029,Ohio,Residential carbon dioxide emissions,All Fuels,16.33051717384353,Prophet
+2022,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,198.7405117636775,Prophet
+2023,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,197.34743531541173,Prophet
+2024,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,191.11914850910665,Prophet
+2025,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,188.94658491555475,Prophet
+2026,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,187.16488983812252,Prophet
+2027,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,185.77181338984144,Prophet
+2028,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,179.54352658355847,Prophet
+2029,Ohio,Total carbon dioxide emissions from all sectors,All Fuels,177.37096299001456,Prophet
+2022,Ohio,Transportation carbon dioxide emissions,All Fuels,58.2522851597208,Prophet
+2023,Ohio,Transportation carbon dioxide emissions,All Fuels,57.75451984301958,Prophet
+2024,Ohio,Transportation carbon dioxide emissions,All Fuels,57.726115148515376,Prophet
+2025,Ohio,Transportation carbon dioxide emissions,All Fuels,57.237795967408275,Prophet
+2026,Ohio,Transportation carbon dioxide emissions,All Fuels,56.74473340516928,Prophet
+2027,Ohio,Transportation carbon dioxide emissions,All Fuels,56.24696808846836,Prophet
+2028,Ohio,Transportation carbon dioxide emissions,All Fuels,56.21856339396452,Prophet
+2029,Ohio,Transportation carbon dioxide emissions,All Fuels,55.73024421285645,Prophet
+2022,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.558253022035132,Prophet
+2023,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.993370266163266,Prophet
+2024,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,10.66762546625705,Prophet
+2025,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,10.893876167071472,Prophet
+2026,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.224937509304386,Prophet
+2027,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,11.660054753427936,Prophet
+2028,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,10.334309953528226,Prophet
+2029,Pennsylvania,Commercial carbon dioxide emissions,All Fuels,10.560560654345688,Prophet
+2022,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,76.10735913996034,Prophet
+2023,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,78.63123729467749,Prophet
+2024,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,60.2270537988669,Prophet
+2025,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,60.31058159799246,Prophet
+2026,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,61.61872458896504,Prophet
+2027,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,64.14260274362843,Prophet
+2028,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,45.738419247893816,Prophet
+2029,Pennsylvania,Electric Power carbon dioxide emissions,All Fuels,45.82194704705558,Prophet
+2022,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,46.02802779710452,Prophet
+2023,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,48.438239105085025,Prophet
+2024,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,40.88347399726739,Prophet
+2025,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,42.13991428131935,Prophet
+2026,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,43.97539867356795,Prophet
+2027,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,46.38560998152234,Prophet
+2028,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,38.83084487374205,Prophet
+2029,Pennsylvania,Industrial carbon dioxide emissions,All Fuels,40.08728515781132,Prophet
+2022,Pennsylvania,Residential carbon dioxide emissions,All Fuels,23.490922575343713,Prophet
+2023,Pennsylvania,Residential carbon dioxide emissions,All Fuels,25.924494488733828,Prophet
+2024,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.1532532369534,Prophet
+2025,Pennsylvania,Residential carbon dioxide emissions,All Fuels,20.57464244228715,Prophet
+2026,Pennsylvania,Residential carbon dioxide emissions,All Fuels,22.504019355740255,Prophet
+2027,Pennsylvania,Residential carbon dioxide emissions,All Fuels,24.9375912691073,Prophet
+2028,Pennsylvania,Residential carbon dioxide emissions,All Fuels,18.16635001735873,Prophet
+2029,Pennsylvania,Residential carbon dioxide emissions,All Fuels,19.587739222708716,Prophet
+2022,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,234.5377464920706,Prophet
+2023,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,238.92323882692585,Prophet
+2024,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,221.9527146820237,Prophet
+2025,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,223.98172102993854,Prophet
+2026,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,227.19355695081222,Prophet
+2027,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,231.57904928561248,Prophet
+2028,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,214.6085251407891,Prophet
+2029,Pennsylvania,Total carbon dioxide emissions from all sectors,All Fuels,216.63753148874127,Prophet
+2022,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,56.02212114767157,Prophet
+2023,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,54.815337345005915,Prophet
+2024,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,55.65950869550079,Prophet
+2025,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,54.671740616716015,Prophet
+2026,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,53.574108236777455,Prophet
+2027,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,52.36732443411634,Prophet
+2028,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,53.21149578460569,Prophet
+2029,Pennsylvania,Transportation carbon dioxide emissions,All Fuels,52.223727705817254,Prophet
+2022,Texas,Commercial carbon dioxide emissions,All Fuels,11.278274558346425,Prophet
+2023,Texas,Commercial carbon dioxide emissions,All Fuels,10.606906604481935,Prophet
+2024,Texas,Commercial carbon dioxide emissions,All Fuels,12.149808510898048,Prophet
+2025,Texas,Commercial carbon dioxide emissions,All Fuels,11.769571003795885,Prophet
+2026,Texas,Commercial carbon dioxide emissions,All Fuels,11.243330971067031,Prophet
+2027,Texas,Commercial carbon dioxide emissions,All Fuels,10.571963017208194,Prophet
+2028,Texas,Commercial carbon dioxide emissions,All Fuels,12.114864923616768,Prophet
+2029,Texas,Commercial carbon dioxide emissions,All Fuels,11.734627416510817,Prophet
+2022,Texas,Electric Power carbon dioxide emissions,All Fuels,180.39946382206915,Prophet
+2023,Texas,Electric Power carbon dioxide emissions,All Fuels,175.01325440208248,Prophet
+2024,Texas,Electric Power carbon dioxide emissions,All Fuels,178.28779677074158,Prophet
+2025,Texas,Electric Power carbon dioxide emissions,All Fuels,173.54673815813618,Prophet
+2026,Texas,Electric Power carbon dioxide emissions,All Fuels,168.48151485409366,Prophet
+2027,Texas,Electric Power carbon dioxide emissions,All Fuels,163.0953054341253,Prophet
+2028,Texas,Electric Power carbon dioxide emissions,All Fuels,166.36984780276075,Prophet
+2029,Texas,Electric Power carbon dioxide emissions,All Fuels,161.62878919013923,Prophet
+2022,Texas,Industrial carbon dioxide emissions,All Fuels,232.39264073385345,Prophet
+2023,Texas,Industrial carbon dioxide emissions,All Fuels,240.6955185333581,Prophet
+2024,Texas,Industrial carbon dioxide emissions,All Fuels,222.30680759623687,Prophet
+2025,Texas,Industrial carbon dioxide emissions,All Fuels,227.3526347611118,Prophet
+2026,Texas,Industrial carbon dioxide emissions,All Fuels,234.03260271591216,Prophet
+2027,Texas,Industrial carbon dioxide emissions,All Fuels,242.33548051534706,Prophet
+2028,Texas,Industrial carbon dioxide emissions,All Fuels,223.94676957832297,Prophet
+2029,Texas,Industrial carbon dioxide emissions,All Fuels,228.99259674324418,Prophet
+2022,Texas,Residential carbon dioxide emissions,All Fuels,8.82757293719778,Prophet
+2023,Texas,Residential carbon dioxide emissions,All Fuels,7.70070938352751,Prophet
+2024,Texas,Residential carbon dioxide emissions,All Fuels,10.199273399772624,Prophet
+2025,Texas,Residential carbon dioxide emissions,All Fuels,9.439772267575462,Prophet
+2026,Texas,Residential carbon dioxide emissions,All Fuels,8.495891692726687,Prophet
+2027,Texas,Residential carbon dioxide emissions,All Fuels,7.3690281390649,Prophet
+2028,Texas,Residential carbon dioxide emissions,All Fuels,9.86759215529874,Prophet
+2029,Texas,Residential carbon dioxide emissions,All Fuels,9.108091023095113,Prophet
+2022,Texas,Total carbon dioxide emissions from all sectors,All Fuels,665.2656362399674,Prophet
+2023,Texas,Total carbon dioxide emissions from all sectors,All Fuels,671.262013566659,Prophet
+2024,Texas,Total carbon dioxide emissions from all sectors,All Fuels,660.5347941977499,Prophet
+2025,Texas,Total carbon dioxide emissions from all sectors,All Fuels,663.5773028565815,Prophet
+2026,Texas,Total carbon dioxide emissions from all sectors,All Fuels,668.1004363609054,Prophet
+2027,Texas,Total carbon dioxide emissions from all sectors,All Fuels,674.0968136875451,Prophet
+2028,Texas,Total carbon dioxide emissions from all sectors,All Fuels,663.3695943187081,Prophet
+2029,Texas,Total carbon dioxide emissions from all sectors,All Fuels,666.4121029775667,Prophet
+2022,Texas,Transportation carbon dioxide emissions,All Fuels,204.19663255495016,Prophet
+2023,Texas,Transportation carbon dioxide emissions,All Fuels,199.31282962922103,Prophet
+2024,Texas,Transportation carbon dioxide emissions,All Fuels,217.3141853284897,Prophet
+2025,Texas,Transportation carbon dioxide emissions,All Fuels,214.6106798703891,Prophet
+2026,Texas,Transportation carbon dioxide emissions,All Fuels,210.8124962363682,Prophet
+2027,Texas,Transportation carbon dioxide emissions,All Fuels,205.92869331069232,Prophet
+2028,Texas,Transportation carbon dioxide emissions,All Fuels,223.93004900988865,Prophet
+2029,Texas,Transportation carbon dioxide emissions,All Fuels,221.22654355174674,Prophet
+2022,United States,Commercial carbon dioxide emissions,All Fuels,257.12697905819255,Prophet
+2023,United States,Commercial carbon dioxide emissions,All Fuels,265.23181635308845,Prophet
+2024,United States,Commercial carbon dioxide emissions,All Fuels,248.4065002046704,Prophet
+2025,United States,Commercial carbon dioxide emissions,All Fuels,253.98834016456266,Prophet
+2026,United States,Commercial carbon dioxide emissions,All Fuels,260.8371776484143,Prophet
+2027,United States,Commercial carbon dioxide emissions,All Fuels,268.9420149432466,Prophet
+2028,United States,Commercial carbon dioxide emissions,All Fuels,252.11669879492158,Prophet
+2029,United States,Commercial carbon dioxide emissions,All Fuels,257.69853875485757,Prophet
+2022,United States,Electric Power carbon dioxide emissions,All Fuels,1438.411002495854,Prophet
+2023,United States,Electric Power carbon dioxide emissions,All Fuels,1406.2298868528042,Prophet
+2024,United States,Electric Power carbon dioxide emissions,All Fuels,1280.448253218015,Prophet
+2025,United States,Electric Power carbon dioxide emissions,All Fuels,1234.3429319947018,Prophet
+2026,United States,Electric Power carbon dioxide emissions,All Fuels,1195.2168230919017,Prophet
+2027,United States,Electric Power carbon dioxide emissions,All Fuels,1163.0357074486037,Prophet
+2028,United States,Electric Power carbon dioxide emissions,All Fuels,1037.2540738141233,Prophet
+2029,United States,Electric Power carbon dioxide emissions,All Fuels,991.1487525909683,Prophet
+2022,United States,Industrial carbon dioxide emissions,All Fuels,1019.126092179773,Prophet
+2023,United States,Industrial carbon dioxide emissions,All Fuels,1056.897329720323,Prophet
+2024,United States,Industrial carbon dioxide emissions,All Fuels,954.2260061103104,Prophet
+2025,United States,Industrial carbon dioxide emissions,All Fuels,975.8977954350735,Prophet
+2026,United States,Industrial carbon dioxide emissions,All Fuels,1005.6481664865066,Prophet
+2027,United States,Industrial carbon dioxide emissions,All Fuels,1043.4194040267005,Prophet
+2028,United States,Industrial carbon dioxide emissions,All Fuels,940.7480804171805,Prophet
+2029,United States,Industrial carbon dioxide emissions,All Fuels,962.4198697421882,Prophet
+2022,United States,Residential carbon dioxide emissions,All Fuels,352.6944587569594,Prophet
+2023,United States,Residential carbon dioxide emissions,All Fuels,368.6418346904808,Prophet
+2024,United States,Residential carbon dioxide emissions,All Fuels,324.7528750814619,Prophet
+2025,United States,Residential carbon dioxide emissions,All Fuels,333.8877625728602,Prophet
+2026,United States,Residential carbon dioxide emissions,All Fuels,346.4417109656802,Prophet
+2027,United States,Residential carbon dioxide emissions,All Fuels,362.3890868990463,Prophet
+2028,United States,Residential carbon dioxide emissions,All Fuels,318.5001272902475,Prophet
+2029,United States,Residential carbon dioxide emissions,All Fuels,327.6350147817494,Prophet
+2022,United States,Total carbon dioxide emissions from all sectors,All Fuels,4874.347507104713,Prophet
+2023,United States,Total carbon dioxide emissions from all sectors,All Fuels,4855.606282449786,Prophet
+2024,United States,Total carbon dioxide emissions from all sectors,All Fuels,4715.411752345473,Prophet
+2025,United States,Total carbon dioxide emissions from all sectors,All Fuels,4678.115916222926,Prophet
+2026,United States,Total carbon dioxide emissions from all sectors,All Fuels,4650.124694832746,Prophet
+2027,United States,Total carbon dioxide emissions from all sectors,All Fuels,4631.383470177458,Prophet
+2028,United States,Total carbon dioxide emissions from all sectors,All Fuels,4491.18894007366,Prophet
+2029,United States,Total carbon dioxide emissions from all sectors,All Fuels,4453.8931039513145,Prophet
+2022,United States,Transportation carbon dioxide emissions,All Fuels,1725.2583753641063,Prophet
+2023,United States,Transportation carbon dioxide emissions,All Fuels,1666.8258084443921,Prophet
+2024,United States,Transportation carbon dioxide emissions,All Fuels,1800.6508134956168,Prophet
+2025,United States,Transportation carbon dioxide emissions,All Fuels,1762.7755329727377,Prophet
+2026,United States,Transportation carbon dioxide emissions,All Fuels,1714.5845567310962,Prophet
+2027,United States,Transportation carbon dioxide emissions,All Fuels,1656.151989811839,Prophet
+2028,United States,Transportation carbon dioxide emissions,All Fuels,1789.9769948624603,Prophet
+2029,United States,Transportation carbon dioxide emissions,All Fuels,1752.1017143392378,Prophet

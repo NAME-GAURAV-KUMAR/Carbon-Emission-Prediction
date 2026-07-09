@@ -1,0 +1,7 @@
+{
+    "model_type": "Prophet",
+    "n_models_trained": 60,
+    "average_mape": 15.071203773391819,
+    "average_mae": 19.078729014507946,
+    "average_rmse": 21.635115993326483
+}
